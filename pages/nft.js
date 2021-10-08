@@ -18,6 +18,9 @@ export default function Services() {
 
             <div className="pagesgrid">
             <div className="pagescard">
+                <a href="https://twitter.com/a3capas" target="_blank" rel="noopener noreferrer">A3capas</a> - The universo is crashing, powerful creature species must fight to prevail
+            </div>
+            <div className="pagescard">
                 <a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a> - A Play-to-earn NFT game being developed by ToniqLabs
             </div>
             <div className="pagescard">
@@ -33,13 +36,22 @@ export default function Services() {
                 <a href="https://zfjzz-4aaaa-aaaah-aasbq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Gallery</a> - A creative metaverse to gather all NFT enthusiasts and enjoy arts on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/CeleberityI" target="_blank" rel="noopener noreferrer">ICelebrity</a> - 100 Uniquely Minted handmade artistic representation of the people we know and love
+            </div>
+            <div className="pagescard">
                 <a href="https://icmojis.com/" target="_blank" rel="noopener noreferrer">ICMojis</a> - NFT collection and strategy game
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/icp_news" target="_blank" rel="noopener noreferrer">ICP News</a> - Artistic collection created by ICP News
             </div>
             <div className="pagescard">
                 <a href="https://icpunks.com/" target="_blank" rel="noopener noreferrer">ICPunks</a> - 10K randomly generated clowns
             </div>
             <div className="pagescard">
                 <a href="https://icpuppies.io/" target="_blank" rel="noopener noreferrer">ICPuppies</a> - The first animal NFT collection deployed on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/MyArtBar" target="_blank" rel="noopener noreferrer">ICPuzzle</a> - NFT creation platform that allows users to mint NFTs created on a web-based canvas using NFTs from the ICPuzzle NFT Line
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/ICTuTs" target="_blank" rel="noopener noreferrer">ICTuts</a> - 1st pharaohs NFTs in the world. 10,000 randomly generated TuTs ( king TuT )
@@ -70,7 +82,10 @@ export default function Services() {
             </div>
             <div className="pagescard">
                 <a href="https://theswordnft.com/" target="_blank" rel="noopener noreferrer">The Sword</a> - 10K Unique Ninjas NFTs
-            </div> 
+            </div>
+            <div className="pagescard">
+                <a href="https://entrepot.app/marketplace/wing" target="_blank" rel="noopener noreferrer">Wing</a> - A 12 part photograph series by Oli Savage
+            </div>
             </div>
         </main>
 
