@@ -5,6 +5,7 @@ import Sites from '../components/sites'
 import Footer from '../components/footer'
 import useSWR, { SWRConfig } from 'swr'
 
+const imgSrc = "https://internetcomputer.today/icp.png";
 const fetcher = (...args) => fetch(...args).then(res => res.json());
 
 export default function Home() {
@@ -33,7 +34,7 @@ export default function Home() {
         
         <h2 className={styles.title}>Internet Computer Today</h2>
 
-        <Image src="/icp.png" alt="icp" width={119} height={58} />
+        <Image src={imgSrc} alt="icp" width={119} height={58} />
 
         <><SWRConfig value = {{ fetcher }}>
           <Icp />
