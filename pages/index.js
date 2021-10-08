@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import styles from '../styles/Home.module.css'
 import Sites from '../components/sites'
 import Footer from '../components/footer'
 import useSWR, { SWRConfig } from 'swr'
@@ -10,7 +9,7 @@ const fetcher = (...args) => fetch(...args).then(res => res.json());
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div className="container">
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <title>Internet Computer Today</title>
@@ -27,12 +26,12 @@ export default function Home() {
         <meta name="google-site-verification" content="3fDCrJUUQIo7GSYLlE-KnTSiesID0eUY3QJo0tys0wI" />
       </Head>
 
-      <main className={styles.main}>
+      <main className="main">
         {/* <div className={styles.highlights}>
           <a href="https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/post/629405/official-poll-dscvr-hackathon-season-2-the-integ" target="_blank" rel="noopener noreferrer">Go Vote For Your Favorite DSCVR Hackathon Season 2 Game!</a>
         </div> */}
         
-        <h2 className={styles.title}>Internet Computer Today</h2>
+        <h2 className="title">Internet Computer Today</h2>
 
         <Image src={imgSrc} alt="icp" width={119} height={58} />
 
@@ -54,37 +53,37 @@ function Icp(){
 
   const { data, error } = useSWR(url, { refreshInterval: 5000 });
 
-  if (error) return <div className={styles.grid}>failed to load</div>
-  if (!data) return <div className={styles.grid}>loading...</div>
+  if (error) return <div className="grid">failed to load</div>
+  if (!data) return <div className="grid">loading...</div>
 
   return (
-     <div className={styles.grid}>
-       <div className={styles.card}>
+     <div className="grid">
+       <div className="card">
          <h4>Price</h4> 
          <p>${data[0].current_price}</p>
        </div>
 
-       <div className={styles.card}>
+       <div className="card">
          <h4>24h Low / High</h4> 
          <p>${data[0].low_24h} / ${data[0].high_24h}</p>
        </div>
  
-       <div className={styles.card}>
+       <div className="card">
          <h4>24h Volume</h4> 
          <p>${data[0].total_volume.toLocaleString('en-US', {maximumFractionDigits:0})}</p>
        </div>
 
-       <div className={styles.card}>
+       <div className="card">
          <h4>Market Cap</h4> 
          <p>${data[0].market_cap.toLocaleString('en-US', {maximumFractionDigits:0})}</p>
        </div>
 
-       <div className={styles.card}>
+       <div className="card">
          <h4>Fully Diluted Valuation</h4> 
          <p>${data[0].fully_diluted_valuation.toLocaleString('en-US', {maximumFractionDigits:0})}</p>
        </div>
 
-       <div className={styles.card}>
+       <div className="card">
          <h4>Circulating Supply</h4> 
          <p>{data[0].circulating_supply.toLocaleString()}</p>
        </div>

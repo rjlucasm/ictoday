@@ -1,10 +1,9 @@
-import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 
 const Sites = () => (
   <>
-    <div className={styles.grid}>
-       <div className={styles.card}>
+    <div className="grid">
+       <div className="card">
          <h4>Websites</h4> 
          <p><a href="https://internetcomputer.org/" target="_blank" rel="noopener noreferrer">ICA</a></p>
          <p><a href="https://smartcontracts.org/" target="_blank" rel="noopener noreferrer">SDK</a></p>
@@ -13,7 +12,7 @@ const Sites = () => (
          <p><a href="https://medium.com/dfinity" target="_blank" rel="noopener noreferrer">Medium</a></p>
        </div>
 
-       <div className={styles.card}>
+       <div className="card">
          <h4>Wallets</h4> 
          <p><a href="https://nns.ic0.app/" target="_blank" rel="noopener noreferrer">NNS</a></p>
          <p><a href="https://www.stoicwallet.com/" target="_blank" rel="noopener noreferrer">Stoic</a></p>
@@ -21,7 +20,7 @@ const Sites = () => (
          <p><a href="https://www.earthwallet.io/" target="_blank" rel="noopener noreferrer">Earth</a></p>
        </div>
 
-       <div className={styles.card}>
+       <div className="card">
          <h4>Explorers</h4> 
          <p><a href="https://ic.rocks/" target="_blank" rel="noopener noreferrer">IC Rocks</a></p>
          <p><a href="https://www.dfinityexplorer.org/#/" target="_blank" rel="noopener noreferrer">Dfinity Explorer</a></p>
@@ -29,7 +28,7 @@ const Sites = () => (
          <p><a href="https://sznps-4aaaa-aaaah-qab2a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Icpscan</a></p>
        </div>
 
-       <div className={styles.card}>
+       <div className="card">
          <Link href="/services"><a><h4>Services</h4></a></Link>
          <p><a href="https://faucet.dfinity.org/auth" target="_blank" rel="noopener noreferrer">Cycles Faucet</a></p>
          <p><a href="https://identity.ic0.app/" target="_blank" rel="noopener noreferrer">Internet Identity</a></p>
@@ -39,7 +38,7 @@ const Sites = () => (
          <p><a href="https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Canlista</a></p>
        </div>
 
-       <div className={styles.card}>
+       <div className="card">
          <h4>Community</h4> 
          <p><a href="https://twitter.com/dfinity" target="_blank" rel="noopener noreferrer">Twitter</a></p>
          <p><a href="https://www.reddit.com/r/dfinity/" target="_blank" rel="noopener noreferrer">Reddit</a></p>
@@ -49,14 +48,14 @@ const Sites = () => (
          <p><a href="https://forum.dfinity.org/" target="_blank" rel="noopener noreferrer">Forum</a></p>
        </div>
 
-       <div className={styles.card}>
+       <div className="card">
          <h4>Source Code</h4> 
          <p><a href="https://github.com/dfinity" target="_blank" rel="noopener noreferrer">Github</a></p>
        </div>
     </div>
 
-    <div className={styles.sitegrid}>
-      <div className={styles.card}>
+    <div className="sitegrid">
+      <div className="card">
          <h4>Dapps</h4> 
          <p><a href="https://dscvr.one/" target="_blank" rel="noopener noreferrer">Dscvr</a></p>
          <p><a href="https://distrikt.app/" target="_blank" rel="noopener noreferrer">Distrikt</a></p>
@@ -65,7 +64,7 @@ const Sites = () => (
          <p><a href="https://portal.one/" target="_blank" rel="noopener noreferrer">Portal</a></p>
       </div>
 
-      <div className={styles.card}>
+      <div className="card">
          <h4>Blogs</h4> 
          <p><a href="https://cycledao.xyz/blog" target="_blank" rel="noopener noreferrer">Cycle_dao</a></p>
          <p><a href="https://www.dfinitycommunity.com/" target="_blank" rel="noopener noreferrer">Dfinity Community</a></p>
@@ -74,14 +73,14 @@ const Sites = () => (
          <p><a href="https://medium.com/icp-league" target="_blank" rel="noopener noreferrer">ICP League</a></p>
       </div>
 
-      <div className={styles.card}>
+      <div className="card">
          <h4>Podcasts</h4> 
          <p><a href="https://www.buzzsprout.com/1790339" target="_blank" rel="noopener noreferrer">The IC Weekly</a></p>
          <p><a href="https://ic3o3-qiaaa-aaaae-qaaia-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Demergence</a></p>
          <p><a href="https://www.icp.report/videos" target="_blank" rel="noopener noreferrer">The IC Report</a></p>
       </div>
 
-      <div className={styles.card}>
+      <div className="card">
          <Link href="/nft"><a><h4>NFTs</h4></a></Link>
          <p><a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a></p>
          <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a></p>
@@ -90,7 +89,7 @@ const Sites = () => (
          <p><a href="https://dvr6e-lqaaa-aaaai-qam5a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Drip</a></p>
       </div>
 
-      <div className={styles.card}>
+      <div className="card">
          <Link href="/games"><a><h4>Games</h4></a></Link>
          <p><a href="https://qwsdo-xaaaa-aaaah-aaa3a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">2048</a></p>
          <p><a href="https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">HexGL</a></p>
@@ -101,11 +100,11 @@ const Sites = () => (
       </div>
     </div>
     
-    <div className={styles.gcard}>
+    <div className="pagescard">
       <Link href="/watchlist"><a>Watchlist</a></Link> 
     </div>
     
   </>
 );
-  
+
 export default Sites;
