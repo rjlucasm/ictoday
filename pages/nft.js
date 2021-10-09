@@ -24,6 +24,9 @@ export default function Services() {
                 <a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a> - A Play-to-earn NFT game being developed by ToniqLabs
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/DBulls_NFT" target="_blank" rel="noopener noreferrer">Dfinity Bulls</a> - 8,888 Awesome Badass Bulls
+            </div>
+            <div className="pagescard">
                 <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
             </div>
             <div className="pagescard">
@@ -69,7 +72,7 @@ export default function Services() {
                 <a href="https://kqre2-2qaaa-aaaad-qamxa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">NFT Studio</a> - Mint, buy and sell 3DWASM NFTs
             </div>
             <div className="pagescard">
-                <a href="https://dfinityapps.co/" target="_blank" rel="noopener noreferrer">NFT Village</a> - A friendly place for all of your favorite NFTs on the Internet Computer
+                <a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a> - A friendly place for all of your favorite NFTs on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://www.origyn.ch/" target="_blank" rel="noopener noreferrer">Origyn</a> - Blending luxury goods, with NFTs by providing digital verifications for physical objects
@@ -82,6 +85,9 @@ export default function Services() {
             </div>
             <div className="pagescard">
                 <a href="https://theswordnft.com/" target="_blank" rel="noopener noreferrer">The Sword</a> - 10K Unique Ninjas NFTs
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/WildandWestNFT" target="_blank" rel="noopener noreferrer">Wild and West</a> - A wild west themed NFT project
             </div>
             <div className="pagescard">
                 <a href="https://entrepot.app/marketplace/wing" target="_blank" rel="noopener noreferrer">Wing</a> - A 12 part photograph series by Oli Savage
