@@ -33,6 +33,9 @@ export default function Services() {
                 <a href="https://twitter.com/IC3DNFT" target="_blank" rel="noopener noreferrer">IC3D</a> - Cool 3D NFTs on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://rdbii-uiaaa-aaaab-qadva-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Canvas</a> - Interactive art project
+            </div>
+            <div className="pagescard">
                 <a href="https://dvr6e-lqaaa-aaaai-qam5a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Drip</a> - Randomly generated meta-commerce shopping carts for outfits and personas stored on chain
             </div>
             <div className="pagescard">
