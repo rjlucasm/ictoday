@@ -33,6 +33,9 @@ export default function Services() {
                 <a href="https://twitter.com/IC3DNFT" target="_blank" rel="noopener noreferrer">IC3D</a> - Cool 3D NFTs on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://icapeventures.com/" target="_blank" rel="noopener noreferrer">IC Apes</a> - 10,000 Unique Apes
+            </div>
+            <div className="pagescard">
                 <a href="https://rdbii-uiaaa-aaaab-qadva-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Canvas</a> - Interactive art project
             </div>
             <div className="pagescard">
@@ -46,6 +49,9 @@ export default function Services() {
             </div>
             <div className="pagescard">
                 <a href="https://icmojis.com/" target="_blank" rel="noopener noreferrer">ICMojis</a> - NFT collection and strategy game
+            </div>
+            <div className="pagescard">
+                <a href="https://linktr.ee/ICPArt" target="_blank" rel="noopener noreferrer">ICP Art</a> - Exclusive hand-crafted art collections
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/icp_news" target="_blank" rel="noopener noreferrer">ICP News</a> - Artistic collection created by ICP News
