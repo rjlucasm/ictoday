@@ -66,7 +66,7 @@ export default function Services() {
                 <a href="https://twitter.com/MyArtBar" target="_blank" rel="noopener noreferrer">ICPuzzle</a> - NFT creation platform that allows users to mint NFTs created on a web-based canvas using NFTs from the ICPuzzle NFT Line
             </div>
             <div className="pagescard">
-                <a href="https://ictuts.com/" target="_blank" rel="noopener noreferrer">ICTuts</a> - 1st pharaohs NFTs in the world. 10,000 randomly generated TuTs ( king TuT )
+                <a href="https://ictuts.com/" target="_blank" rel="noopener noreferrer">ICTuts</a> - 1st pharaohs NFTs in the world. 10,000 randomly generated TuTs
             </div>
             <div className="pagescard">
                 <a href="https://www.icproject.org/" target="_blank" rel="noopener noreferrer">Infinite Charity Project</a> - A nonprofit charitable org conducting $ICP NFT fundraisers to benefit 501(c)3 charities
@@ -76,6 +76,9 @@ export default function Services() {
             </div>
             <div className="pagescard">
                 <a href="https://interastrosc.com/" target="_blank" rel="noopener noreferrer">Internet Astronauts</a> - A collection of 10,000 unique digital NFT collectibles only found on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/NewsieCartoon" target="_blank" rel="noopener noreferrer">Newsie</a> - Comic book and NFT collection
             </div>
             <div className="pagescard">
                 <a href="https://kqre2-2qaaa-aaaad-qamxa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">NFT Studio</a> - Mint, buy and sell 3DWASM NFTs
