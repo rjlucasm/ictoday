@@ -75,6 +75,9 @@ export default function Services() {
                 <a href="https://ictuts.com/" target="_blank" rel="noopener noreferrer">ICTuts</a> - 1st pharaohs NFTs in the world. 10,000 randomly generated TuTs
             </div>
             <div className="pagescard">
+                <a href="https://www.infernalvampires.com/" target="_blank" rel="noopener noreferrer">Infernal Vampire Colony</a> - 666 randomly generated Vampires
+            </div>
+            <div className="pagescard">
                 <a href="https://www.icproject.org/" target="_blank" rel="noopener noreferrer">Infinite Charity Project</a> - A nonprofit charitable org conducting $ICP NFT fundraisers to benefit 501(c)3 charities
             </div>
             <div className="pagescard">
