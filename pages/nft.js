@@ -51,6 +51,9 @@ export default function Services() {
                 <a href="https://twitter.com/icp_news" target="_blank" rel="noopener noreferrer">ICP News</a> - Artistic collection created by ICP News
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/ICPSquadNFT" target="_blank" rel="noopener noreferrer">ICP Squad</a> - First engage to earn NFTs game
+            </div>
+            <div className="pagescard">
                 <a href="https://icpunks.com/" target="_blank" rel="noopener noreferrer">ICPunks</a> - 10K randomly generated clowns
             </div>
             <div className="pagescard">
