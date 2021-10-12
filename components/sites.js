@@ -42,8 +42,9 @@ const Sites = () => (
          <h4>Community</h4> 
          <p><a href="https://twitter.com/dfinity" target="_blank" rel="noopener noreferrer">Twitter</a></p>
          <p><a href="https://www.reddit.com/r/dfinity/" target="_blank" rel="noopener noreferrer">Reddit</a></p>
+         <p><a href="https://discord.com/invite/cA7y6ezyE2" target="_blank" rel="noopener noreferrer">Discord</a></p>
          <p><a href="https://t.me/dfinity/" target="_blank" rel="noopener noreferrer">Telegram</a></p>
-         <p><a href="https://www.facebook.com/dfinity.org" target="_blank" rel="noopener noreferrer">Facebook</a></p>
+         {/* <p><a href="https://www.facebook.com/dfinity.org" target="_blank" rel="noopener noreferrer">Facebook</a></p> */}
          <p><a href="https://www.youtube.com/dfinity" target="_blank" rel="noopener noreferrer">Youtube</a></p>
          <p><a href="https://forum.dfinity.org/" target="_blank" rel="noopener noreferrer">Forum</a></p>
        </div>

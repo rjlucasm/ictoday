@@ -30,7 +30,7 @@ export default function Services() {
                 <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
             </div>
             <div className="pagescard">
-                <a href="https://twitter.com/IC3DNFT" target="_blank" rel="noopener noreferrer">IC3D</a> - Cool 3D NFTs on the Internet Computer
+                <a href="https://ic3dnft.art/" target="_blank" rel="noopener noreferrer">IC3D</a> - Cool 3D NFTs on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://icapeventures.com/" target="_blank" rel="noopener noreferrer">IC Apes</a> - 10,000 Unique Apes
