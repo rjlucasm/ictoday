@@ -27,9 +27,9 @@ export default function Home() {
       </Head>
 
       <main className="main">
-        {/* <div className={styles.highlights}>
-          <a href="https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/post/629405/official-poll-dscvr-hackathon-season-2-the-integ" target="_blank" rel="noopener noreferrer">Go Vote For Your Favorite DSCVR Hackathon Season 2 Game!</a>
-        </div> */}
+        <div className="highlights">
+          <a href="https://dscvr.one/post/1008812/__service-nervous-system--key-takeaways-and-comm" target="_blank" rel="noopener noreferrer">Service Nervous System - Key Takeaways (and Community Concerns)</a>
+        </div>
         
         <h2 className="title">Internet Computer Today</h2>
 
