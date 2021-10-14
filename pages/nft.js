@@ -72,6 +72,9 @@ export default function Services() {
                 <a href="https://twitter.com/MyArtBar" target="_blank" rel="noopener noreferrer">ICPuzzle</a> - NFT creation platform that allows users to mint NFTs created on a web-based canvas using NFTs from the ICPuzzle NFT Line
             </div>
             <div className="pagescard">
+                <a href="https://xn--4n8h7h.ws/" target="_blank" rel="noopener noreferrer">ICSnakes</a> - A collection of 10,000 randomly generated Snake NFTs hunting for food
+            </div>
+            <div className="pagescard">
                 <a href="https://ictuts.com/" target="_blank" rel="noopener noreferrer">ICTuts</a> - 1st pharaohs NFTs in the world. 10,000 randomly generated TuTs
             </div>
             <div className="pagescard">
@@ -112,6 +115,9 @@ export default function Services() {
             </div>
             <div className="pagescard">
                 <a href="https://entrepot.app/marketplace/wing" target="_blank" rel="noopener noreferrer">Wing</a> - A 12 part photograph series by Oli Savage
+            </div>
+            <div className="pagescard">
+                <a href="https://enteryoloclub.com/" target="_blank" rel="noopener noreferrer">Yolo Club</a> -  Collection of 8888 Intelligently generated NFTs
             </div>
             </div>
         </main>
