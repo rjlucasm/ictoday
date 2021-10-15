@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Sites from '../components/sites'
 import Footer from '../components/footer'
+import Topnews from '../components/topnews'
 import useSWR, { SWRConfig } from 'swr'
 
 const imgSrc = "https://internetcomputer.today/icp.png";
@@ -25,6 +26,8 @@ export default function Home() {
 
         <meta name="google-site-verification" content="3fDCrJUUQIo7GSYLlE-KnTSiesID0eUY3QJo0tys0wI" />
       </Head>
+
+      <Topnews/>
 
       <main className="main">
         <div className="highlights">

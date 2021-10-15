@@ -42,8 +42,8 @@ a {
 
 .footer a {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  /* justify-content: center;
+  align-items: center; */
   flex-grow: 1;
   padding: 5px;
   color: inherit;
@@ -93,11 +93,6 @@ a {
   color: inherit;
 }
 
-.logo {
-  height: 1em;
-  margin-left: 0.5rem;
-}
-
 .pagesgrid {
   margin-top: 2rem;
 }
@@ -124,13 +119,32 @@ a {
 }
 
 .highlights {
-  margin-top: 0.83em;
+  margin-top: 0.83rem;
   text-align: center;
 }
 
 .highlights a {
   font-weight: bold;
   color:blue;
+}
+
+.topnews {
+  width: 100%;
+  margin-top: 0.5rem;
+}
+
+.topnews p {
+  margin: 0;
+}
+
+.topnews a {
+  color: inherit;
+}
+
+@media (max-width: 600px) {
+  .topnews p {
+    padding: 0.15rem 0;
+  }
 }
 
 /* @media (max-width: 452px) {
