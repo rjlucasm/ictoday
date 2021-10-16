@@ -78,9 +78,6 @@ export default function Watchlist() {
                 <a href="https://jbxh5-eqaaa-aaaae-qaaoq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC Notary</a> - Notarized data on the Internet Computer
             </div>
             <div className="pagescard">
-                <a href="https://sygsn-caaaa-aaaaf-qaahq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICME</a> - A no-code website builder
-            </div>
-            <div className="pagescard">
                 <a href="https://2fpku-eiaaa-aaaad-qaq4a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICNS</a> - A naming service for the Internet Computer, built on top of ENS (Ethereum Name Service)
             </div>
             <div className="pagescard">
