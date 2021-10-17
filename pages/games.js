@@ -99,6 +99,9 @@ export default function Games() {
                 <a href="https://l2jyf-nqaaa-aaaah-qadha-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Saga Tarot</a> - Saga Tarot gives you a tarot reading in one click
             </div>
             <div className="pagescard">
+                <a href="https://ozalu-2qaaa-aaaad-qauva-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Space Warrior</a> - Endless space shooter game
+            </div>
+            <div className="pagescard">
                 <a href="https://roi5f-yiaaa-aaaad-qaofq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sportfi Rescue</a> - Puzzle game
             </div>
             <div className="pagescard">
