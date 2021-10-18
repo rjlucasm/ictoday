@@ -30,9 +30,9 @@ export default function Home() {
       {/* <Topnews/> */}
 
       <main className="main">
-        <div className="highlights">
+        {/* <div className="highlights">
           <a href="https://dscvr.one/post/1008812/__service-nervous-system--key-takeaways-and-comm" target="_blank" rel="noopener noreferrer">Service Nervous System - Key Takeaways (and Community Concerns)</a>
-        </div>
+        </div> */}
         
         <h2 className="title">Internet Computer Today</h2>
 
