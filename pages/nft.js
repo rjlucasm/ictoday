@@ -63,6 +63,9 @@ export default function Services() {
                 <a href="https://linktr.ee/icpbunny" target="_blank" rel="noopener noreferrer">ICPBunny</a> - Yieldable and Breedable NFT
             </div>
             <div className="pagescard">
+                <a href="https://icpets.io/" target="_blank" rel="noopener noreferrer">ICPets</a> - 11,111 of Infinity Pets
+            </div>
+            <div className="pagescard">
                 <a href="https://icpunks.com/" target="_blank" rel="noopener noreferrer">ICPunks</a> - 10K randomly generated clowns
             </div>
             <div className="pagescard">
@@ -117,7 +120,7 @@ export default function Services() {
                 <a href="https://entrepot.app/marketplace/wing" target="_blank" rel="noopener noreferrer">Wing</a> - A 12 part photograph series by Oli Savage
             </div>
             <div className="pagescard">
-                <a href="https://enteryoloclub.com/" target="_blank" rel="noopener noreferrer">Yolo Club</a> -  Collection of 8888 Intelligently generated NFTs
+                <a href="https://enteryoloclub.com/" target="_blank" rel="noopener noreferrer">Yolo Club</a> -  Collection of 8888 intelligently generated NFTs
             </div>
             </div>
         </main>
