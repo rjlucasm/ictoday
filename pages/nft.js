@@ -45,6 +45,9 @@ export default function Services() {
                 <a href="https://zfjzz-4aaaa-aaaah-aasbq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Gallery</a> - A creative metaverse to gather all NFT enthusiasts and enjoy arts on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://www.icphotographers.com/" target="_blank" rel="noopener noreferrer">IC Photographers</a> - At ic photographers, the aim is to bring together creators and collectors of photography NFTs
+            </div>
+            <div className="pagescard">
                 <a href="https://twitter.com/CeleberityI" target="_blank" rel="noopener noreferrer">ICelebrity</a> - 100 Uniquely Minted handmade artistic representation of the people we know and love
             </div>
             <div className="pagescard">
