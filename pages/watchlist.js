@@ -113,6 +113,9 @@ export default function Watchlist() {
             <div className="pagescard">
                 <a href="https://overchute.com/" target="_blank" rel="noopener noreferrer">Overchute</a> - Decentralized smart-contract application for crowdfunding the release of intellectual property 
             </div>
+            <div className="pagescard">
+                <a href="https://c3qag-6yaaa-aaaah-aaqta-cai.ic0.app/" target="_blank" rel="noopener noreferrer">SkyDocs</a> - Decentralized Google Docs alternative
+            </div>
             {/* <div className="pagescard">
                 <a href="https://ja7sy-daaaa-aaaai-qaguq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Portal</a> - Decentralized live streaming service
             </div> */}
