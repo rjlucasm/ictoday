@@ -102,9 +102,15 @@ const Sites = () => (
       </div>
     </div>
     
-    <div className="pagescard">
-      <Link href="/watchlist"><a>Watchlist</a></Link> 
+    <div className="finalgrid">
+      <div className="finalcard">
+        <Link href="/watchlist"><a>Watchlist</a></Link> 
+      </div>
+      <div className="finalcard">
+        <Link href="/news/2021"><a>News</a></Link> 
+      </div>
     </div>
+    
     
   </>
 );

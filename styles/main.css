@@ -83,7 +83,7 @@ a {
 .pagescard {
   padding: 0.5rem 0.3rem;
   text-align: left;
-  color: inherit;
+  /* color: inherit; */
   border: 1px solid #eaeaea;
   /* width: 40%; */
 }
@@ -99,6 +99,24 @@ a {
   justify-content: center;
   flex-wrap: wrap;
   margin-top: 2rem;
+}
+
+.finalgrid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.finalcard {
+  padding: 0.3rem;
+  text-align: center;
+  border: 1px solid #eaeaea;
+}
+
+.finalcard a {
+  font-weight: bold;
+  color: inherit;
 }
 
 .highlights {
