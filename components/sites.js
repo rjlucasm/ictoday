@@ -82,6 +82,13 @@ const Sites = () => (
       </div>
 
       <div className="card">
+         <h4>Newsletter</h4> 
+         <p><a href="https://cycledao.xyz/" target="_blank" rel="noopener noreferrer">Cycle_dao</a></p>
+         <p><a href="https://www.weekindfinity.com/" target="_blank" rel="noopener noreferrer">Week in Dfinity</a></p>
+         <p><a href="https://allthingsinternetcomputer.substack.com/" target="_blank" rel="noopener noreferrer">All Things IC</a></p>
+      </div>
+
+      <div className="card">
          <Link href="/nft"><a><h4>NFTs</h4></a></Link>
          <p><a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a></p>
          <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a></p>
@@ -99,7 +106,7 @@ const Sites = () => (
          <p><a href="https://riseofthemagni.com/" target="_blank" rel="noopener noreferrer">ROTM</a></p>
          <p><a href="https://omro3-5yaaa-aaaad-qalta-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sudoku</a></p>
          <p><a href="https://o2wyr-ryaaa-aaaah-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Tetris</a></p>    
-      </div>
+      </div>      
     </div>
     
     <div className="finalgrid">
