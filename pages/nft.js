@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import Footer from '../components/footer'
 
-export default function Services() {
+export default function NFTs() {
     return (
     <div className="container">
         <Head>

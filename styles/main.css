@@ -59,7 +59,7 @@ a {
 .card {
   padding: 0.3rem;
   text-align: center;
-  color: inherit;
+  /* color: inherit; */
   border: 1px solid #eaeaea;
   /* width: 40%; */
 }
