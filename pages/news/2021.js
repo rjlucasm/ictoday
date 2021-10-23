@@ -15,9 +15,11 @@ export default function News21() {
             <>&#128240;</>
 
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
-            {/* <a href="https://www.weekindfinity.com/" target="_blank" rel="noopener noreferrer" style={{ color: 'blue' }}>Week in Dfinity News</a> */}
 
             <div className="pagesgrid">
+            <div className="pagescard">10/22 -&nbsp;
+                <a href="https://medium.com/@houman_87430/customizable-nfts-the-future-of-no-code-2f62534061a5" target="_blank" rel="noopener noreferrer">Customizable NFTs: The Future of No Code</a>
+            </div>
             <div className="pagescard">10/21 -&nbsp;
                 <a href="https://medium.com/dfinity/optimizing-the-internet-computer-memory-systems-performance-c0253e94f60" target="_blank" rel="noopener noreferrer">Optimizing the Internet Computer Memory System’s Performance</a>
             </div>
