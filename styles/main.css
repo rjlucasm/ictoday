@@ -147,3 +147,9 @@ a {
     padding: 0.15rem 0;
   }
 }
+
+@media (max-width: 340px) {
+  .sitegrid {
+    margin: 2rem 1rem 0;
+  }
+}
