@@ -148,7 +148,7 @@ a {
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 355px) {
   .sitegrid {
     margin: 2rem 1rem 0;
   }
