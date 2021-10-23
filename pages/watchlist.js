@@ -32,9 +32,9 @@ export default function Watchlist() {
             <div className="pagescard">
                 <a href="https://canistore.io/" target="_blank" rel="noopener noreferrer">Canistore</a> - Next-gen social store powered by DFINITY
             </div>
-            <div className="pagescard">
+            {/* <div className="pagescard">
                 <a href="https://capsule.social/" target="_blank" rel="noopener noreferrer">Capsule Social</a> - Decentralized social media
-            </div>
+            </div> */}
             <div className="pagescard">
                 <a href="https://www.cipherproxy.com/" target="_blank" rel="noopener noreferrer">CipherProxy</a> - An Open Data Marketplace on the Internet Computer
             </div>
@@ -112,6 +112,9 @@ export default function Watchlist() {
             </div>
             <div className="pagescard">
                 <a href="https://overchute.com/" target="_blank" rel="noopener noreferrer">Overchute</a> - Decentralized smart-contract application for crowdfunding the release of intellectual property 
+            </div>
+            <div className="pagescard">
+                <a href="https://y3f56-pyaaa-aaaad-qaxoq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Piped</a> - An alternative privacy-friendly YouTube frontend which is efficient by design
             </div>
             <div className="pagescard">
                 <a href="https://c3qag-6yaaa-aaaah-aaqta-cai.ic0.app/" target="_blank" rel="noopener noreferrer">SkyDocs</a> - Decentralized Google Docs alternative
