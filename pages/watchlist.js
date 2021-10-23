@@ -66,6 +66,9 @@ export default function Watchlist() {
                 <a href="https://dfinance.ai/" target="_blank" rel="noopener noreferrer">DFinance</a> - Foundational DeFi components for the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://ymglq-2qaaa-aaaah-qcbzq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DFiRocks</a> - Generate your unique rock
+            </div>
+            <div className="pagescard">
                 <a href="https://qafww-dyaaa-aaaaj-qabpq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DMail</a> - The first blockchain mailbox product
             </div>
             <div className="pagescard">

@@ -24,6 +24,9 @@ export default function Services() {
                 <a href="https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Canlista</a> - The Internet Computer community canister registry
             </div>
             <div className="pagescard">
+                <a href="https://cap.ooo/" target="_blank" rel="noopener noreferrer">CAP</a> - An open internet service providing transaction history &amp; asset provenance for NFT’s &amp; Tokens
+            </div>
+            <div className="pagescard">
                 <a href="https://faucet.dfinity.org/auth" target="_blank" rel="noopener noreferrer">Cycles Faucet</a> - Get free cycles to power your dapp
             </div>
             <div className="pagescard">
