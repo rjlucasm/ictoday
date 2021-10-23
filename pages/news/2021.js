@@ -18,6 +18,9 @@ export default function News21() {
 
             <div className="pagesgrid">
             <div className="pagescard">10/22 -&nbsp;
+                <a href="https://medium.com/dfinity/developer-spotlight-origyn-rewarding-and-protecting-creativity-in-art-luxury-and-media-cd8943aa80bd" target="_blank" rel="noopener noreferrer">ORIGYN, Rewarding and Protecting Creativity in Art, Luxury, and Media</a>
+            </div>
+            <div className="pagescard">10/22 -&nbsp;
                 <a href="https://medium.com/@houman_87430/customizable-nfts-the-future-of-no-code-2f62534061a5" target="_blank" rel="noopener noreferrer">Customizable NFTs: The Future of No Code</a>
             </div>
             <div className="pagescard">10/21 -&nbsp;
