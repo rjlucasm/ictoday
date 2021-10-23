@@ -21,6 +21,9 @@ export default function NFTs() {
                 <a href="https://twitter.com/a3capas" target="_blank" rel="noopener noreferrer">A3capas</a> - The universo is crashing, powerful creature species must fight to prevail
             </div>
             <div className="pagescard">
+                <a href="https://6qmlj-viaaa-aaaad-qaxzq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">BTC Flower</a> - Randomly generated artworks by paris based streetartist Ludo
+            </div>
+            <div className="pagescard">
                 <a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a> - A Play-to-earn NFT game being developed by ToniqLabs
             </div>
             <div className="pagescard">
