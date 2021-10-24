@@ -54,7 +54,7 @@ export default function NFTs() {
                 <a href="https://twitter.com/CeleberityI" target="_blank" rel="noopener noreferrer">ICelebrity</a> - 100 Uniquely Minted handmade artistic representation of the people we know and love
             </div>
             <div className="pagescard">
-                <a href="https://icmojis.com/" target="_blank" rel="noopener noreferrer">ICMojis</a> - NFT collection and strategy game
+                <a href="https://icmoji.com/" target="_blank" rel="noopener noreferrer">ICMojis</a> - NFT collection and strategy game
             </div>
             <div className="pagescard">
                 <a href="https://linktr.ee/ICPArt" target="_blank" rel="noopener noreferrer">ICP Art</a> - Exclusive hand-crafted art collections
