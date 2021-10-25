@@ -24,7 +24,16 @@ export default function NFTs() {
                 <a href="https://6qmlj-viaaa-aaaad-qaxzq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">BTC Flower</a> - Randomly generated artworks by paris based streetartist Ludo
             </div>
             <div className="pagescard">
+                <a href="https://hwqwz-ryaaa-aaaai-aasoa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Candy</a> - First software license as an NFT launched on the IC
+            </div>
+            <div className="pagescard">
                 <a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a> - A Play-to-earn NFT game being developed by ToniqLabs
+            </div>
+            <div className="pagescard">
+                <a href="https://crowns.ooo/" target="_blank" rel="noopener noreferrer">Crowns</a> - A collection of 10,000 uniquely generated NFTs with different levels of rarity showcasing our latest product, <a href="https://cap.ooo/" target="_blank" rel="noopener noreferrer">CAP</a>
+            </div>
+            <div className="pagescard">
+                <a href="https://cubic.place/" target="_blank" rel="noopener noreferrer">Cubic</a> - Generative art project
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/DBulls_NFT" target="_blank" rel="noopener noreferrer">Dfinity Bulls</a> - 8,888 Awesome Badass Bulls

@@ -48,6 +48,9 @@ export default function Services() {
                 <a href="https://dfinityapps.co/" target="_blank" rel="noopener noreferrer">IcApps</a> - A list of apps powered by Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://znisf-eqaaa-aaaaj-aabta-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICEvent</a> - An open event service. Publish, subscribe, collaborate, communicate..
+            </div>
+            <div className="pagescard">
                 <a href="https://sygsn-caaaa-aaaaf-qaahq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICME</a> - A no-code website builder
             </div>
             <div className="pagescard">
