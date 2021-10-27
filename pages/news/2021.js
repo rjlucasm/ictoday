@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">10/27 -&nbsp;
+                <a href="https://medium.com/psychedelic-dao/psychedelic-a-product-studio-dao-on-the-internet-computer-47145fa96700" target="_blank" rel="noopener noreferrer">Psychedelic: A Product Studio DAO on the Internet Computer</a>
+            </div>
             <div className="pagescard">10/22 -&nbsp;
                 <a href="https://medium.com/dfinity/developer-spotlight-origyn-rewarding-and-protecting-creativity-in-art-luxury-and-media-cd8943aa80bd" target="_blank" rel="noopener noreferrer">ORIGYN, Rewarding and Protecting Creativity in Art, Luxury, and Media</a>
             </div>
