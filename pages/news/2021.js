@@ -18,6 +18,9 @@ export default function News21() {
 
             <div className="pagesgrid">
             <div className="pagescard">10/28 -&nbsp;
+                <a href="https://medium.com/cap-ois/announcing-cap-asset-history-on-the-internet-computer-a6788283c8f3" target="_blank" rel="noopener noreferrer">Announcing CAP: Asset History on the Internet Computer</a>
+            </div>
+            <div className="pagescard">10/28 -&nbsp;
                 <a href="https://medium.com/dfinity/how-dapp-developers-placing-their-faith-in-total-decentralization-will-inherit-the-world-79419a3e36c9" target="_blank" rel="noopener noreferrer">Why Totally Decentralizing Dapps Wins, And How To Do It</a>
             </div>
             <div className="pagescard">10/27 -&nbsp;
