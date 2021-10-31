@@ -42,6 +42,9 @@ export default function NFTs() {
                 <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://www.hauntedhamsters.io/" target="_blank" rel="noopener noreferrer">Haunted Hamsters</a> - NFT set of 6666 haunted hamsters spooking on DFINITY ICP
+            </div>
+            <div className="pagescard">
                 <a href="https://ic3dnft.art/" target="_blank" rel="noopener noreferrer">IC3D</a> - Cool 3D NFTs on the Internet Computer
             </div>
             <div className="pagescard">
@@ -61,6 +64,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/CeleberityI" target="_blank" rel="noopener noreferrer">ICelebrity</a> - 100 Uniquely Minted handmade artistic representation of the people we know and love
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/ICKitties" target="_blank" rel="noopener noreferrer">ICKitties</a> - 8-bit kitties living on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://icmoji.com/" target="_blank" rel="noopener noreferrer">ICMojis</a> - NFT collection and strategy game
