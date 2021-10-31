@@ -54,7 +54,7 @@ export default function NFTs() {
                 <a href="https://dvr6e-lqaaa-aaaai-qam5a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Drip</a> - Randomly generated meta-commerce shopping carts for outfits and personas stored on chain
             </div>
             <div className="pagescard">
-                <a href="https://zfjzz-4aaaa-aaaah-aasbq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Gallery</a> - A creative metaverse to gather all NFT enthusiasts and enjoy arts on the Internet Computer
+                <a href="https://gan2q-ciaaa-aaaai-aanoq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Gallery</a> - A creative metaverse to gather all NFT enthusiasts and enjoy arts on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://www.icphotographers.com/" target="_blank" rel="noopener noreferrer">IC Photographers</a> - At ic photographers, the aim is to bring together creators and collectors of photography NFTs
