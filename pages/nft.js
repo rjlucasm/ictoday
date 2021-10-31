@@ -66,6 +66,9 @@ export default function NFTs() {
                 <a href="https://twitter.com/CeleberityI" target="_blank" rel="noopener noreferrer">ICelebrity</a> - 100 Uniquely Minted handmade artistic representation of the people we know and love
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/icircle_nft" target="_blank" rel="noopener noreferrer">ICircle</a> - 8888 Generative Art
+            </div>
+            <div className="pagescard">
                 <a href="https://twitter.com/ICKitties" target="_blank" rel="noopener noreferrer">ICKitties</a> - 8-bit kitties living on the Internet Computer
             </div>
             <div className="pagescard">
