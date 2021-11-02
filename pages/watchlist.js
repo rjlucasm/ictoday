@@ -72,6 +72,9 @@ export default function Watchlist() {
                 <a href="https://qafww-dyaaa-aaaaj-qabpq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DMail</a> - The first blockchain mailbox product
             </div>
             <div className="pagescard">
+                <a href="https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Dstar</a> - Get your favorite Internet Identity numbers
+            </div>
+            <div className="pagescard">
                 <a href="https://getimpactnow.org/" target="_blank" rel="noopener noreferrer">Get Impact Now</a> - Digital platform that enables responsible citizens to be a part of the decision-making process
             </div>
             <div className="pagescard">
@@ -97,6 +100,9 @@ export default function Watchlist() {
             </div>
             <div className="pagescard">
                 <a href="https://infinityswap.one/" target="_blank" rel="noopener noreferrer">Infinity Swap</a> - A platform to create, stake and swap Dfinity tokens
+            </div>
+            <div className="pagescard">
+                <a href="https://nceop-maaaa-aaaae-qaavq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">JSONIC</a> - The first EXT token written in TypeScript/JavaScript and deployed to the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://learnd.dedn.eu/" target="_blank" rel="noopener noreferrer">LEARND</a> - Community driven educational platform running on Internet Computer
