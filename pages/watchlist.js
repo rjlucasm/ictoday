@@ -32,9 +32,6 @@ export default function Watchlist() {
             <div className="pagescard">
                 <a href="https://canistore.io/" target="_blank" rel="noopener noreferrer">Canistore</a> - Next-gen social store powered by DFINITY
             </div>
-            {/* <div className="pagescard">
-                <a href="https://capsule.social/" target="_blank" rel="noopener noreferrer">Capsule Social</a> - Decentralized social media
-            </div> */}
             <div className="pagescard">
                 <a href="https://www.cipherproxy.com/" target="_blank" rel="noopener noreferrer">CipherProxy</a> - An Open Data Marketplace on the Internet Computer
             </div>
@@ -62,9 +59,9 @@ export default function Watchlist() {
             <div className="pagescard">
                 <a href="https://deland.one/" target="_blank" rel="noopener noreferrer">Deland</a> - Fungible Token Standard and DeFi components
             </div>
-            <div className="pagescard">
+            {/* <div className="pagescard">
                 <a href="https://dfinance.ai/" target="_blank" rel="noopener noreferrer">DFinance</a> - Foundational DeFi components for the Internet Computer
-            </div>
+            </div> */}
             <div className="pagescard">
                 <a href="https://ymglq-2qaaa-aaaah-qcbzq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DFiRocks</a> - Generate your unique rock
             </div>
@@ -127,6 +124,9 @@ export default function Watchlist() {
             </div>
             <div className="pagescard">
                 <a href="https://c3qag-6yaaa-aaaah-aaqta-cai.ic0.app/" target="_blank" rel="noopener noreferrer">SkyDocs</a> - Decentralized Google Docs alternative
+            </div>
+            <div className="pagescard">
+                <a href="https://sonic.ooo/" target="_blank" rel="noopener noreferrer">Sonic</a> - Swap tokens, earn fees as a liquidity provider, &amp; build on the Internet Computer’s AMM
             </div>
             {/* <div className="pagescard">
                 <a href="https://ja7sy-daaaa-aaaai-qaguq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Portal</a> - Decentralized live streaming service
