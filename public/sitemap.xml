@@ -52,4 +52,14 @@
 
    </url>
 
+   <url>
+
+      <loc>http://www.internetcomputer.today/news/2021/</loc>
+
+      <changefreq>daily</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
 </urlset> 

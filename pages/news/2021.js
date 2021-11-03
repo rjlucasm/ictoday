@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/03 -&nbsp;
+                <a href="https://medium.com/psychedelic-dao/announcing-dfinance-joins-psychedelic-and-rebrands-to-sonic-9399ddcb648d" target="_blank" rel="noopener noreferrer">Announcing DFinance Joins Psychedelic and Rebrands to Sonic 👽</a>
+            </div>
             <div className="pagescard">10/29 -&nbsp;
                 <a href="https://medium.com/cap-ois/cap-crowns-a-collection-of-10-000-psychedelic-3d-crowns-on-the-internet-computer-1df279bfcf1f" target="_blank" rel="noopener noreferrer">CAP Crowns: A Collection of 10,000 Psychedelic &amp; 3D Crowns on the Internet Computer 👑</a>
             </div>
