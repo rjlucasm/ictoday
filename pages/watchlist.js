@@ -69,6 +69,9 @@ export default function Watchlist() {
                 <a href="https://qafww-dyaaa-aaaaj-qabpq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DMail</a> - The first blockchain mailbox product
             </div>
             <div className="pagescard">
+                <a href="https://dsocial.app" target="_blank" rel="noopener noreferrer">DSocial</a> - Decentralised &amp; censorship-resistant version of YouTube
+            </div>
+            <div className="pagescard">
                 <a href="https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Dstar</a> - Get your favorite Internet Identity numbers
             </div>
             <div className="pagescard">
