@@ -17,6 +17,12 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/04 -&nbsp;
+                <a href="https://medium.com/dfinity/achievement-unblocked-a-new-blockchain-gaming-program-from-dfinity-and-united-esports-6850d20b3398" target="_blank" rel="noopener noreferrer">‘Achievement Unblocked’: A New Blockchain Gaming Program From DFINITY and United Esports</a>
+            </div>
+            <div className="pagescard">11/04 -&nbsp;
+                <a href="https://medium.com/cap-ois/crowns-news-11-4-3bbc5e5f510f" target="_blank" rel="noopener noreferrer">Crowns News 👑</a>
+            </div>
             <div className="pagescard">11/03 -&nbsp;
                 <a href="https://medium.com/dfinity/the-internet-computer-at-shanghai-international-blockchain-week-4de75b43cf5f" target="_blank" rel="noopener noreferrer">The Internet Computer at Shanghai International Blockchain Week</a>
             </div>
