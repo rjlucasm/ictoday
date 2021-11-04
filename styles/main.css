@@ -93,6 +93,10 @@ a {
   color: inherit;
 }
 
+.pagescard p {
+  margin: 0.5rem 0 0;
+}
+
 .sitegrid {
   display: flex;
   align-items: center;
