@@ -28,6 +28,9 @@ export default function News21() {
                 <a href="https://medium.com/cap-ois/crowns-news-11-4-3bbc5e5f510f" target="_blank" rel="noopener noreferrer">Crowns News 👑</a>
             </div>
             <div className="pagescard">11/03 -&nbsp;
+                <a href="https://medium.com/dfinity/motoko-the-internet-computers-native-language-turns-two-a32c3c5ab704" target="_blank" rel="noopener noreferrer">Motoko, the Internet Computer’s Native Language, Turns Two</a>
+            </div>
+            <div className="pagescard">11/03 -&nbsp;
                 <a href="https://medium.com/dfinity/the-internet-computer-at-shanghai-international-blockchain-week-4de75b43cf5f" target="_blank" rel="noopener noreferrer">The Internet Computer at Shanghai International Blockchain Week</a>
             </div>
             <div className="pagescard">11/03 -&nbsp;
