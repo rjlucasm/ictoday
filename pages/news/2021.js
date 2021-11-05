@@ -21,7 +21,8 @@ export default function News21() {
                 <a href="https://medium.com/dfinity/achievement-unblocked-a-new-blockchain-gaming-program-from-dfinity-and-united-esports-6850d20b3398" target="_blank" rel="noopener noreferrer">‘Achievement Unblocked’: A New Blockchain Gaming Program From DFINITY and United Esports</a>
                 <p>Related:&nbsp;
                 <a href="https://www.newsbtc.com/news/dfinity-foundation-internet-computer-gaming/" target="_blank" rel="noopener noreferrer">NewsBTC</a>,&nbsp;
-                <a href="https://www.businesswire.com/news/home/20211104005840/en/The-DFINITY-Foundation-and-United-Esports-To-Launch-First-Of-Its-Kind-Blockchain-Gaming-Program-%E2%80%94-Achievement-Unblocked" target="_blank" rel="noopener noreferrer">Business Wire</a></p>
+                <a href="https://www.businesswire.com/news/home/20211104005840/en/The-DFINITY-Foundation-and-United-Esports-To-Launch-First-Of-Its-Kind-Blockchain-Gaming-Program-%E2%80%94-Achievement-Unblocked" target="_blank" rel="noopener noreferrer">Business Wire</a></p>,&nbsp;
+                <a href="https://www.investing.com/news/cryptocurrency-news/the-dfinity-foundation-and-united-esports-to-launch-first-of-its-kind-blockchain-gaming-program--achievement-unblocked-2669334" target="_blank" rel="noopener noreferrer">Investing</a>
             </div>
             <div className="pagescard">11/04 -&nbsp;
                 <a href="https://medium.com/cap-ois/crowns-news-11-4-3bbc5e5f510f" target="_blank" rel="noopener noreferrer">Crowns News 👑</a>
