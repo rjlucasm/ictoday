@@ -86,6 +86,7 @@ const Sites = () => (
          <p><a href="https://cycledao.xyz/" target="_blank" rel="noopener noreferrer">Cycle_dao</a></p>
          <p><a href="https://www.weekindfinity.com/" target="_blank" rel="noopener noreferrer">Week in Dfinity</a></p>
          <p><a href="https://allthingsinternetcomputer.substack.com/" target="_blank" rel="noopener noreferrer">All Things IC</a></p>
+         <p><a href="https://kylelangham.substack.com/" target="_blank" rel="noopener noreferrer">ICP Analysis</a></p>
       </div>
 
       <div className="card">
