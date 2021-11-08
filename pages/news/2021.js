@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/08 -&nbsp;
+                <a href="https://medium.com/dfinity/in-progress-nns-proposal-to-end-the-imminent-unclaimed-seed-neuron-sweep-4855ac84357c" target="_blank" rel="noopener noreferrer">In Progress: NNS Proposal To End The Imminent Unclaimed Seed Neuron Sweep</a>
+            </div>
             <div className="pagescard">11/05 -&nbsp;
                 <a href="https://finance.yahoo.com/news/exclusive-future-dfinity-founder-dominic-145415709.html" target="_blank" rel="noopener noreferrer">Exclusive: the future of Dfinity with founder Dominic Williams</a>
             </div>
