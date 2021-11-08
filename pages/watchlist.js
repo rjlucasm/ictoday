@@ -35,9 +35,9 @@ export default function Watchlist() {
             <div className="pagescard">
                 <a href="https://www.cipherproxy.com/" target="_blank" rel="noopener noreferrer">CipherProxy</a> - An Open Data Marketplace on the Internet Computer
             </div>
-            <div className="pagescard">
+            {/* <div className="pagescard">
                 <a href="https://www.civol.co/" target="_blank" rel="noopener noreferrer">Civol</a> - Asynchronous video conversation platform enabling decentralized discourse, debate, and collective decision-making
-            </div>
+            </div> */}
             <div className="pagescard">
                 <a href="https://grwwk-gaaaa-aaaah-aapma-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Content Fly</a> - Content marketplace connecting high-quality creators with brands
             </div>
@@ -67,9 +67,6 @@ export default function Watchlist() {
             </div>
             <div className="pagescard">
                 <a href="https://qafww-dyaaa-aaaaj-qabpq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DMail</a> - The first blockchain mailbox product
-            </div>
-            <div className="pagescard">
-                <a href="https://dsocial.app" target="_blank" rel="noopener noreferrer">DSocial</a> - Decentralised &amp; censorship-resistant version of YouTube
             </div>
             <div className="pagescard">
                 <a href="https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Dstar</a> - Get your favorite Internet Identity numbers
@@ -117,13 +114,7 @@ export default function Watchlist() {
                 <a href="https://muga.media/nft" target="_blank" rel="noopener noreferrer">MugaTunes</a> - Music curation and NFT platform
             </div>
             <div className="pagescard">
-                <a href="https://fxnaj-yaaaa-aaaaf-qad3q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Nuance</a> - Decentralized blogging platform
-            </div>
-            <div className="pagescard">
                 <a href="https://overchute.com/" target="_blank" rel="noopener noreferrer">Overchute</a> - Decentralized smart-contract application for crowdfunding the release of intellectual property 
-            </div>
-            <div className="pagescard">
-                <a href="https://y3f56-pyaaa-aaaad-qaxoq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Piped</a> - An alternative privacy-friendly YouTube frontend which is efficient by design
             </div>
             <div className="pagescard">
                 <a href="https://c3qag-6yaaa-aaaah-aaqta-cai.ic0.app/" target="_blank" rel="noopener noreferrer">SkyDocs</a> - Decentralized Google Docs alternative
@@ -131,9 +122,6 @@ export default function Watchlist() {
             <div className="pagescard">
                 <a href="https://sonic.ooo/" target="_blank" rel="noopener noreferrer">Sonic</a> - Swap tokens, earn fees as a liquidity provider, &amp; build on the Internet Computer’s AMM
             </div>
-            {/* <div className="pagescard">
-                <a href="https://ja7sy-daaaa-aaaai-qaguq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Portal</a> - Decentralized live streaming service
-            </div> */}
             <div className="pagescard">
                 <a href="https://voicemarkr.com/shell/map" target="_blank" rel="noopener noreferrer">VoiceMarkr</a> - P2P voice on the Internet Computer
             </div>
