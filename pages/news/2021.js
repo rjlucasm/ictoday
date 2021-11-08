@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/05 -&nbsp;
+                <a href="https://finance.yahoo.com/news/exclusive-future-dfinity-founder-dominic-145415709.html" target="_blank" rel="noopener noreferrer">Exclusive: the future of Dfinity with founder Dominic Williams</a>
+            </div>
             <div className="pagescard">11/04 -&nbsp;
                 <a href="https://medium.com/dfinity/achievement-unblocked-a-new-blockchain-gaming-program-from-dfinity-and-united-esports-6850d20b3398" target="_blank" rel="noopener noreferrer">‘Achievement Unblocked’: A New Blockchain Gaming Program From DFINITY and United Esports</a>
                 <p>Related:&nbsp;
