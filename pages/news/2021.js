@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/09 -&nbsp;
+                <a href="https://medium.com/cap-ois/cap-is-live-on-mainnet-transaction-history-provenance-on-the-internet-computer-85feb42fbb4e" target="_blank" rel="noopener noreferrer">CAP is Live on Mainnet! 🚀 Transaction History &amp; Provenance on the Internet Computer</a>
+            </div>
             <div className="pagescard">11/08 -&nbsp;
                 <a href="https://medium.com/dfinity/in-progress-nns-proposal-to-end-the-imminent-unclaimed-seed-neuron-sweep-4855ac84357c" target="_blank" rel="noopener noreferrer">In Progress: NNS Proposal To End The Imminent Unclaimed Seed Neuron Sweep</a>
             </div>
