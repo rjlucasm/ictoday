@@ -21,7 +21,7 @@ export default function NFTs() {
                 <a href="https://twitter.com/a3capas" target="_blank" rel="noopener noreferrer">A3capas</a> - The universo is crashing, powerful creature species must fight to prevail
             </div>
             <div className="pagescard">
-                <a href="https://bcheroes.com/" target="_blank" rel="noopener noreferrer">Blockchain Heroes</a> - The world's top collectible digital trading card set. Join the battle for freedom and decentralization
+                <a href="https://bcheroes.com/" target="_blank" rel="noopener noreferrer">Blockchain Heroes</a> - Collectible digital trading card set. Join the battle for freedom and decentralization
             </div>
             <div className="pagescard">
                 <a href="https://6qmlj-viaaa-aaaad-qaxzq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">BTC Flower</a> - Randomly generated artworks by paris based streetartist Ludo
