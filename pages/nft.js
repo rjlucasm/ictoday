@@ -21,6 +21,9 @@ export default function NFTs() {
                 <a href="https://twitter.com/a3capas" target="_blank" rel="noopener noreferrer">A3capas</a> - The universo is crashing, powerful creature species must fight to prevail
             </div>
             <div className="pagescard">
+                <a href="https://bcheroes.com/" target="_blank" rel="noopener noreferrer">Blockchain Heroes</a> - The world's top collectible digital trading card set. Join the battle for freedom and decentralization
+            </div>
+            <div className="pagescard">
                 <a href="https://6qmlj-viaaa-aaaad-qaxzq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">BTC Flower</a> - Randomly generated artworks by paris based streetartist Ludo
             </div>
             <div className="pagescard">
@@ -64,6 +67,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://www.icphotographers.com/" target="_blank" rel="noopener noreferrer">IC Photographers</a> - At ic photographers, the aim is to bring together creators and collectors of photography NFTs
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/ic_turtles" target="_blank" rel="noopener noreferrer">IC Turtles</a> - Customizable and breedable NFTS
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/CeleberityI" target="_blank" rel="noopener noreferrer">ICelebrity</a> - 100 Uniquely Minted handmade artistic representation of the people we know and love
