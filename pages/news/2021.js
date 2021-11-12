@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/11 -&nbsp;
+                <a href="https://news.klever.io/p/internet-computer-live-in-klever-wallet" target="_blank" rel="noopener noreferrer">Klever &amp; Internet Computer collaborates to enable ICP Blockchain in Klever ecosystem</a>
+            </div>
             <div className="pagescard">11/09 -&nbsp;
                 <a href="https://medium.com/cap-ois/cap-is-live-on-mainnet-transaction-history-provenance-on-the-internet-computer-85feb42fbb4e" target="_blank" rel="noopener noreferrer">CAP is Live on Mainnet! 🚀 Transaction History &amp; Provenance on the Internet Computer</a>
             </div>
