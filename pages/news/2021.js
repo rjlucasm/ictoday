@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/14 -&nbsp;
+                <a href="https://beincrypto.com/internet-computer-icp-nfts-growing-in-popularity-as-master-bot-nft-sells-for-172000/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) NFTs Growing in Popularity as Master Bot NFT Sells for $172,000</a>
+            </div>
             <div className="pagescard">11/11 -&nbsp;
                 <a href="https://news.klever.io/p/internet-computer-live-in-klever-wallet" target="_blank" rel="noopener noreferrer">Klever &amp; Internet Computer collaborates to enable ICP Blockchain in Klever ecosystem</a>
             </div>
