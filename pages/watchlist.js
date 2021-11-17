@@ -42,6 +42,9 @@ export default function Watchlist() {
                 <a href="https://grwwk-gaaaa-aaaah-aapma-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Content Fly</a> - Content marketplace connecting high-quality creators with brands
             </div>
             <div className="pagescard">
+                <a href="https://sn4ia-7qaaa-aaaad-qa22a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Cover</a> - Open internet service that can be used by developers to verify and prove that a canister's code matches the open source code
+            </div>
+            <div className="pagescard">
                 <a href="https://sdnoa-fiaaa-aaaah-aaubq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Crowd Creative Collections</a> - Open and autonomous organization dedicated to building a decentralized artistic creation organization
             </div>
             <div className="pagescard">
@@ -66,7 +69,7 @@ export default function Watchlist() {
                 <a href="https://ymglq-2qaaa-aaaah-qcbzq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DFiRocks</a> - Generate your unique rock
             </div>
             <div className="pagescard">
-                <a href="https://qafww-dyaaa-aaaaj-qabpq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DMail</a> - The first blockchain mailbox product
+                <a href="https://dmail.ai/" target="_blank" rel="noopener noreferrer">DMail</a> - The first blockchain mailbox product
             </div>
             <div className="pagescard">
                 <a href="https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Dstar</a> - Get your favorite Internet Identity numbers
@@ -79,6 +82,9 @@ export default function Watchlist() {
             </div>
             <div className="pagescard">
                 <a href="https://jbxh5-eqaaa-aaaae-qaaoq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC Notary</a> - Notarized data on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://kgrph-3yaaa-aaaaj-aacuq-cai.raw.ic0.app/home" target="_blank" rel="noopener noreferrer">IC Notes</a> - Your private notes on the blockchain
             </div>
             <div className="pagescard">
                 <a href="https://2fpku-eiaaa-aaaad-qaq4a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICNS</a> - A naming service for the Internet Computer, built on top of ENS (Ethereum Name Service)
@@ -123,6 +129,9 @@ export default function Watchlist() {
                 <a href="https://sonic.ooo/" target="_blank" rel="noopener noreferrer">Sonic</a> - Swap tokens, earn fees as a liquidity provider, &amp; build on the Internet Computer’s AMM
             </div>
             <div className="pagescard">
+                <a href="https://fbbjb-oyaaa-aaaah-qaojq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Usergeek</a> - The first decentralised product analytics tool built on the Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://voicemarkr.com/shell/map" target="_blank" rel="noopener noreferrer">VoiceMarkr</a> - P2P voice on the Internet Computer
             </div>
             <div className="pagescard">
@@ -130,6 +139,9 @@ export default function Watchlist() {
             </div>
             <div className="pagescard">
                 <a href="https://www.weact.chat/" target="_blank" rel="noopener noreferrer">WeAct</a> - All in one collaboration app designed by activists for activists
+            </div>
+            <div className="pagescard">
+                <a href="https://www.webi.ai/" target="_blank" rel="noopener noreferrer">WebI</a> - A decentralized mapping solution on the Internet Computer
             </div>
             </div>
         </main>
