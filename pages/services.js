@@ -27,6 +27,9 @@ export default function Services() {
                 <a href="https://cap.ooo/" target="_blank" rel="noopener noreferrer">CAP</a> - An open internet service providing transaction history &amp; asset provenance for NFT’s &amp; Tokens
             </div>
             <div className="pagescard">
+                <a href="https://sn4ia-7qaaa-aaaad-qa22a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Cover</a> - Open internet service that can be used by developers to verify and prove that a canister&apos;s code matches the open source code
+            </div>
+            <div className="pagescard">
                 <a href="https://faucet.dfinity.org/auth" target="_blank" rel="noopener noreferrer">Cycles Faucet</a> - Get free cycles to power your dapp
             </div>
             <div className="pagescard">
@@ -67,6 +70,9 @@ export default function Services() {
             </div>
             <div className="pagescard">
                 <a href="https://networknervoussystem.com/" target="_blank" rel="noopener noreferrer">Neuron Calculator</a> - Calculate your voting rewards in the Network Nervous System (NNS)
+            </div>
+            <div className="pagescard">
+                <a href="https://zpoap-tyaaa-aaaad-qa3hq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">SLY</a> - An open source, collaborative, and friendly CLI for developing on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://i67uk-hiaaa-aaaae-qaaka-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sudograph</a> - A GraphQL database for the Internet Computer

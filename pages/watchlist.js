@@ -42,9 +42,6 @@ export default function Watchlist() {
                 <a href="https://grwwk-gaaaa-aaaah-aapma-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Content Fly</a> - Content marketplace connecting high-quality creators with brands
             </div>
             <div className="pagescard">
-                <a href="https://sn4ia-7qaaa-aaaad-qa22a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Cover</a> - Open internet service that can be used by developers to verify and prove that a canister&apos;s code matches the open source code
-            </div>
-            <div className="pagescard">
                 <a href="https://sdnoa-fiaaa-aaaah-aaubq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Crowd Creative Collections</a> - Open and autonomous organization dedicated to building a decentralized artistic creation organization
             </div>
             <div className="pagescard">
