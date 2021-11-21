@@ -27,7 +27,7 @@ export default function Home() {
         <meta name="google-site-verification" content="3fDCrJUUQIo7GSYLlE-KnTSiesID0eUY3QJo0tys0wI" />
       </Head>
 
-      <Topnews/>
+      {/* <Topnews/> */}
 
       <main className="main">
         {/* <div className="highlights">
@@ -70,7 +70,7 @@ function Icp(){
          <h4>24h Low / High</h4> 
          <p>${data[0].low_24h} / ${data[0].high_24h}</p>
        </div>
- 
+
        <div className="card">
          <h4>24h Volume</h4> 
          <p>${data[0].total_volume.toLocaleString('en-US', {maximumFractionDigits:0})}</p>
