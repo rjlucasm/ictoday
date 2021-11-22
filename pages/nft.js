@@ -39,13 +39,13 @@ export default function NFTs() {
                 <a href="https://cubic.place/" target="_blank" rel="noopener noreferrer">Cubic</a> - Generative art project
             </div>
             <div className="pagescard">
-                <a href="https://www.cyman.live/" target="_blank" rel="noopener noreferrer">CYMAN</a> - 10,000 Randomly generated cybernetic humanoid's from 550,000,000 BCE built on the Internet Computer
+                <a href="https://www.cyman.live/" target="_blank" rel="noopener noreferrer">CYMAN</a> - 10,000 Randomly generated cybernetic humanoid&apos;s from 550,000,000 BCE built on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/DBulls_NFT" target="_blank" rel="noopener noreferrer">Dfinity Bulls</a> - 8,888 Awesome Badass Bulls
             </div>
             <div className="pagescard">
-                <a href="https://twitter.com/ApesDfinity" target="_blank" rel="noopener noreferrer">Dfinity Space Apes</a> - 10.000 Space Apes on the Internet Computer
+                <a href="https://twitter.com/ApesDfinity" target="_blank" rel="noopener noreferrer">Dfinity Space Apes</a> - 10,000 Space Apes on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
