@@ -39,7 +39,13 @@ export default function NFTs() {
                 <a href="https://cubic.place/" target="_blank" rel="noopener noreferrer">Cubic</a> - Generative art project
             </div>
             <div className="pagescard">
+                <a href="https://www.cyman.live/" target="_blank" rel="noopener noreferrer">CYMAN</a> - 10,000 Randomly generated cybernetic humanoid's from 550,000,000 BCE built on the Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://twitter.com/DBulls_NFT" target="_blank" rel="noopener noreferrer">Dfinity Bulls</a> - 8,888 Awesome Badass Bulls
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/ApesDfinity" target="_blank" rel="noopener noreferrer">Dfinity Space Apes</a> - 10.000 Space Apes on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
@@ -69,7 +75,7 @@ export default function NFTs() {
                 <a href="https://www.icphotographers.com/" target="_blank" rel="noopener noreferrer">IC Photographers</a> - At ic photographers, the aim is to bring together creators and collectors of photography NFTs
             </div>
             <div className="pagescard">
-                <a href="https://twitter.com/ic_turtles" target="_blank" rel="noopener noreferrer">IC Turtles</a> - Customizable and breedable NFTS
+                <a href="https://icturtles.com/" target="_blank" rel="noopener noreferrer">IC Turtles</a> - Customizable and breedable NFTS
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/CeleberityI" target="_blank" rel="noopener noreferrer">ICelebrity</a> - 100 Uniquely Minted handmade artistic representation of the people we know and love
