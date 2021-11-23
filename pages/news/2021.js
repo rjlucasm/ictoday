@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/22 -&nbsp;
+                <a href="https://medium.com/dfinity/voting-is-open-to-enable-canister-smart-contracts-to-transfer-icp-tokens-a563911a8f29" target="_blank" rel="noopener noreferrer">Voting Is Open to Enable Canister Smart Contracts to Transfer ICP Tokens</a>
+            </div>
             <div className="pagescard">11/19 -&nbsp;
                 <a href="https://medium.com/@cover_ois/cover-code-verification-for-canisters-on-the-internet-computer-as-an-open-internet-service-129b9b9ddbb9" target="_blank" rel="noopener noreferrer">Cover ✅: Code Verification for Canisters on the Internet Computer as an Open Internet Service</a>
             </div>
