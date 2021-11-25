@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/25 -&nbsp;
+                <a href="https://medium.com/dfinity/defi-boom-coming-internet-computer-smart-contracts-can-now-transfer-icp-tokens-c9916ede1060" target="_blank" rel="noopener noreferrer">DeFi Boom Coming: Internet Computer Smart Contracts Can Now Transfer ICP Tokens</a>
+            </div>
             <div className="pagescard">11/24 -&nbsp;
                 <a href="https://cryptomode.com/how-toniq-labs-is-shaping-gamefi-on-the-internet-computer/" target="_blank" rel="noopener noreferrer">How Toniq Labs Is Shaping GameFi on the Internet Computer</a>
             </div>
