@@ -19,6 +19,9 @@ export default function News21() {
             <div className="pagesgrid">
             <div className="pagescard">11/25 -&nbsp;
                 <a href="https://cryptoslate.com/3d-nfts-make-their-way-to-the-internet-computer-icp-network/" target="_blank" rel="noopener noreferrer">3D NFTs make their way to the Internet Computer (ICP) network</a>
+                <p>Related:&nbsp;
+                <a href="https://nftevening.com/nft-studio-3d-nfts-on-the-internet-computer-to-disrupt-gaming-scene/amp/" target="_blank" rel="noopener noreferrer">NFTevening</a>,&nbsp;
+                <a href="https://coinrivet.com/dfinitys-nft-studio-to-spark-evolution-in-nft-gaming/" target="_blank" rel="noopener noreferrer">Coin Rivet</a></p>
             </div>
             <div className="pagescard">11/25 -&nbsp;
                 <a href="https://medium.com/dfinity/defi-boom-coming-internet-computer-smart-contracts-can-now-transfer-icp-tokens-c9916ede1060" target="_blank" rel="noopener noreferrer">DeFi Boom Coming: Internet Computer Smart Contracts Can Now Transfer ICP Tokens</a>
