@@ -33,6 +33,9 @@ export default function NFTs() {
                 <a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a> - A Play-to-earn NFT game being developed by ToniqLabs
             </div>
             <div className="pagescard">
+                <a href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Crowd Created Canvas</a> - CCC is the first canvas collaboration and creation platform on Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://crowns.ooo/" target="_blank" rel="noopener noreferrer">Crowns</a> - A collection of 10,000 uniquely generated NFTs with different levels of rarity showcasing our latest product, <a href="https://cap.ooo/" target="_blank" rel="noopener noreferrer">CAP</a>
             </div>
             <div className="pagescard">
@@ -103,6 +106,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://icpets.io/" target="_blank" rel="noopener noreferrer">ICPets</a> - 11,111 of Infinity Pets
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/ICPrime8s" target="_blank" rel="noopener noreferrer">ICPrime8s</a> - 5 releases of Prime8 focused, randomly generated NFTs on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://icpunks.com/" target="_blank" rel="noopener noreferrer">ICPunks</a> - 10K randomly generated clowns
