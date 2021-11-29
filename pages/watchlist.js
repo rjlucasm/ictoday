@@ -14,7 +14,7 @@ export default function Watchlist() {
 
             <>&#128064;</>
 
-            <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link> 
+            <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
             <div className="pagescard">
@@ -49,6 +49,9 @@ export default function Watchlist() {
             </div>
             <div className="pagescard">
                 <a href="https://www.crowdeats.io/" target="_blank" rel="noopener noreferrer">CrowdEats</a> - Restaurant review dapp with social and reward components
+            </div>
+            <div className="pagescard">
+                <a href="https://www.dbox.foundation/" target="_blank" rel="noopener noreferrer">Dbox</a> - The inbox of the Internet Computer and the first seamless solution to on-chain dApp-to-user communication
             </div>
             <div className="pagescard">
                 <a href="https://deckdeckgo.com/en/" target="_blank" rel="noopener noreferrer">DeckDeckGo</a> - Presentations on the Internet Computer
