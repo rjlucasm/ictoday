@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/28 -&nbsp;
+                <a href="https://medium.com/@DBOXFoundation/presenting-dbox-the-dapp-inbox-that-will-supercharge-the-blockchain-ecosystem-8cf8678a7827" target="_blank" rel="noopener noreferrer">Presenting dbox: the inbox of the Internet Computer</a>
+            </div>
             <div className="pagescard">11/25 -&nbsp;
                 <a href="https://cryptoslate.com/3d-nfts-make-their-way-to-the-internet-computer-icp-network/" target="_blank" rel="noopener noreferrer">3D NFTs make their way to the Internet Computer (ICP) network</a>
                 <p>Related:&nbsp;
