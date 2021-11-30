@@ -17,8 +17,13 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/30 -&nbsp;
+                <a href="https://www.livetradingnews.com/the-internet-computer-blockchain-is-the-only-blockchain-that-truly-scales-214136.html" target="_blank" rel="noopener noreferrer">The Internet Computer blockchain is the only blockchain that truly scales</a>
+            </div>
             <div className="pagescard">11/29 -&nbsp;
                 <a href="https://www.marketwatch.com/press-release/smart-contracts-start-transferring-icp-after-upgrade-allowing-advanced-defi-to-be-developed-on-the-internet-computer-2021-11-29" target="_blank" rel="noopener noreferrer">Smart Contracts Start Transferring ICP After Upgrade, Allowing Advanced DeFi To Be Developed On The Internet Computer</a>
+                <p>Related:&nbsp;
+                <a href="https://www.businesswire.com/news/home/20211129005693/en/Smart-Contracts-Start-Transferring-ICP-After-Upgrade-Allowing-Advanced-DeFi-To-Be-Developed-On-The-Internet-Computer" target="_blank" rel="noopener noreferrer">Business Wire</a></p>
             </div>
             <div className="pagescard">11/28 -&nbsp;
                 <a href="https://medium.com/@DBOXFoundation/presenting-dbox-the-dapp-inbox-that-will-supercharge-the-blockchain-ecosystem-8cf8678a7827" target="_blank" rel="noopener noreferrer">Presenting dbox: the inbox of the Internet Computer</a>
