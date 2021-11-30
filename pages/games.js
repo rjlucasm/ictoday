@@ -114,6 +114,9 @@ export default function Games() {
                 <a href="https://dqnbo-kiaaa-aaaad-qak2a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Super ICP Party</a> - Multiplayer game made with Unity
             </div>
             <div className="pagescard">
+                <a href="https://culg2-qyaaa-aaaai-qa7sa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Super Mario 64</a> - The classic platform game for the Nintendo 64
+            </div>
+            <div className="pagescard">
                 <a href="https://ez7ch-viaaa-aaaad-qab2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">T-Rex Runner</a> - The T-Rex runner game extracted from chrome offline page
             </div>
             <div className="pagescard">
