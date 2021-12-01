@@ -18,6 +18,9 @@ export default function News21() {
 
             <div className="pagesgrid">
             <div className="pagescard">12/01 -&nbsp;
+                <a href="https://www.techtimes.com/amp/articles/268770/20211201/dfinity-the-internet-computer-and-the-future-of-the-internet-as-we-know-it.htm" target="_blank" rel="noopener noreferrer">DFINITY, the Internet Computer, and the Future of the Internet as We Know It</a>
+            </div>
+            <div className="pagescard">12/01 -&nbsp;
                 <a href="https://www.the-sun.com/money/4180620/internet-computer-icp-price-prediction/" target="_blank" rel="noopener noreferrer">Internet Computer price prediction: Can ICP reach $100 this year?</a>
             </div>
             <div className="pagescard">11/30 -&nbsp;
