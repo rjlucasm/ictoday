@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">12/01 -&nbsp;
+                <a href="https://www.the-sun.com/money/4180620/internet-computer-icp-price-prediction/" target="_blank" rel="noopener noreferrer">Internet Computer price prediction: Can ICP reach $100 this year?</a>
+            </div>
             <div className="pagescard">11/30 -&nbsp;
                 <a href="https://www.livetradingnews.com/the-internet-computer-blockchain-is-the-only-blockchain-that-truly-scales-214136.html" target="_blank" rel="noopener noreferrer">The Internet Computer blockchain is the only blockchain that truly scales</a>
             </div>
