@@ -27,7 +27,7 @@ export default function Home() {
         <meta name="google-site-verification" content="3fDCrJUUQIo7GSYLlE-KnTSiesID0eUY3QJo0tys0wI" />
       </Head>
 
-      <Topnews/>
+      {/* <Topnews/> */}
 
       <main className="main">
         {/* <div className="highlights">
