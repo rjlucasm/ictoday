@@ -129,13 +129,16 @@ export default function Watchlist() {
                 <a href="https://sonic.ooo/" target="_blank" rel="noopener noreferrer">Sonic</a> - Swap tokens, earn fees as a liquidity provider, &amp; build on the Internet Computer’s AMM
             </div>
             <div className="pagescard">
+                <a href="https://terabethia.ooo/" target="_blank" rel="noopener noreferrer">Terabethia</a> - Bridge between Ethereum and the Internet Computer that allows contracts on both chains to message each other, as well as mirror &amp; use any Ethereum asset on the IC
+            </div>
+            <div className="pagescard">
                 <a href="https://fbbjb-oyaaa-aaaah-qaojq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Usergeek</a> - The first decentralised product analytics tool built on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://voicemarkr.com/shell/map" target="_blank" rel="noopener noreferrer">VoiceMarkr</a> - P2P voice on the Internet Computer
             </div>
             <div className="pagescard">
-                <a href="https://www.ws.ninja/" target="_blank" rel="noopener noreferrer">WallStreetNinja</a> - A complete decentralized accessibility solution, where users can access decentralized ecosystems of their choice, in a more simplistic manner, broadening accessibility and fostering mainstream adoption
+                <a href="https://www.ws.ninja/" target="_blank" rel="noopener noreferrer">WallStreetNinja</a> - A decentralized accessibility solution, where users can access decentralized ecosystems of their choice, in a more simplistic manner
             </div>
             <div className="pagescard">
                 <a href="https://waterslide.app/" target="_blank" rel="noopener noreferrer">Waterslide</a> - Frontend to interact with the Liquity Protocol. Powered by Dfinity
