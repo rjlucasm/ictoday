@@ -135,6 +135,9 @@ export default function Watchlist() {
                 <a href="https://voicemarkr.com/shell/map" target="_blank" rel="noopener noreferrer">VoiceMarkr</a> - P2P voice on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://www.ws.ninja/" target="_blank" rel="noopener noreferrer">WallStreetNinja</a> - A complete decentralized accessibility solution, where users can access decentralized ecosystems of their choice, in a more simplistic manner, broadening accessibility and fostering mainstream adoption
+            </div>
+            <div className="pagescard">
                 <a href="https://waterslide.app/" target="_blank" rel="noopener noreferrer">Waterslide</a> - Frontend to interact with the Liquity Protocol. Powered by Dfinity
             </div>
             <div className="pagescard">

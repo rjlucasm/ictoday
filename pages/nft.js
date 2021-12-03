@@ -48,7 +48,7 @@ export default function NFTs() {
                 <a href="https://twitter.com/DBulls_NFT" target="_blank" rel="noopener noreferrer">Dfinity Bulls</a> - 8,888 Awesome Badass Bulls
             </div>
             <div className="pagescard">
-                <a href="https://twitter.com/ApesDfinity" target="_blank" rel="noopener noreferrer">Dfinity Space Apes</a> - 10,000 Space Apes on the Internet Computer
+                <a href="https://hzuo4-qiaaa-aaaag-qaarq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Dfinity Space Apes</a> - 10,000 Space Apes on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
