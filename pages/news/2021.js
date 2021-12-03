@@ -18,6 +18,9 @@ export default function News21() {
 
             <div className="pagesgrid">
             <div className="pagescard">12/03 -&nbsp;
+                <a href="https://medium.com/dfinity/introducing-the-ledger-internet-computer-icp-app-for-nano-wallets-eed38c549f0d" target="_blank" rel="noopener noreferrer">Introducing the Ledger Internet Computer (ICP) App for Nano Wallets</a>
+            </div>
+            <div className="pagescard">12/03 -&nbsp;
                 <a href="https://medium.com/terabethia-bridge/terabethia-bridging-contracts-assets-across-ethereum-and-the-internet-computer-dc45797de1dd" target="_blank" rel="noopener noreferrer">Terabethia: Bridging Contracts &amp; Assets Across Ethereum and the Internet Computer</a>
             </div>
             <div className="pagescard">12/01 -&nbsp;
