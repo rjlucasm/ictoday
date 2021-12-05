@@ -75,6 +75,9 @@ export default function Watchlist() {
                 <a href="https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Dstar</a> - Get your favorite Internet Identity numbers
             </div>
             <div className="pagescard">
+                <a href="https://fleek.ooo/" target="_blank" rel="noopener noreferrer">Fleek.ooo</a> - Easily build, deploy, and manage canisters, cycles, apps, &amp; infrastructure on Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://getimpactnow.org/" target="_blank" rel="noopener noreferrer">Get Impact Now</a> - Digital platform that enables responsible citizens to be a part of the decision-making process
             </div>
             <div className="pagescard">
