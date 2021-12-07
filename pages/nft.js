@@ -141,7 +141,7 @@ export default function NFTs() {
                 <a href="https://twitter.com/NewsieCartoon" target="_blank" rel="noopener noreferrer">Newsie</a> - Comic book and NFT collection
             </div>
             <div className="pagescard">
-                <a href="https://kqre2-2qaaa-aaaad-qamxa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">NFT Studio</a> - Mint, buy and sell 3DWASM NFTs
+                <a href="http://nftstudio.biz/" target="_blank" rel="noopener noreferrer">NFT Studio</a> - Mint, buy and sell 3DWASM NFTs
             </div>
             <div className="pagescard">
                 <a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a> - A friendly place for all of your favorite NFTs on the Internet Computer

@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">12/07 -&nbsp;
+                <a href="https://medium.com/dank-ois/new-release-wrapped-icp-wicp-884f0e84e62f" target="_blank" rel="noopener noreferrer">New Release: Wrapped ICP (WICP)</a>
+            </div>
             <div className="pagescard">12/03 -&nbsp;
                 <a href="https://medium.com/dfinity/introducing-the-ledger-internet-computer-icp-app-for-nano-wallets-eed38c549f0d" target="_blank" rel="noopener noreferrer">Introducing the Ledger Internet Computer (ICP) App for Nano Wallets</a>
             </div>
