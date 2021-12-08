@@ -93,6 +93,9 @@ export default function Watchlist() {
                 <a href="https://2fpku-eiaaa-aaaad-qaq4a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICNS</a> - A naming service for the Internet Computer, built on top of ENS (Ethereum Name Service)
             </div>
             <div className="pagescard">
+                <a href="https://e7z3z-raaaa-aaaaj-aadwa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICP Dog</a> - GameFi on IC
+            </div>
+            <div className="pagescard">
                 <a href="https://xh4sm-oyaaa-aaaai-qaiva-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICPlaces</a> - Virtual reality prototype
             </div>
             <div className="pagescard">
@@ -132,7 +135,7 @@ export default function Watchlist() {
                 <a href="https://sonic.ooo/" target="_blank" rel="noopener noreferrer">Sonic</a> - Swap tokens, earn fees as a liquidity provider, &amp; build on the Internet Computer’s AMM
             </div>
             <div className="pagescard">
-                <a href="https://terabethia.ooo/" target="_blank" rel="noopener noreferrer">Terabethia</a> - Bridge between Ethereum and the Internet Computer that allows contracts on both chains to message each other, as well as mirror &amp; use any Ethereum asset on the IC
+                <a href="https://terabethia.ooo/" target="_blank" rel="noopener noreferrer">Terabethia</a> - Bridge between Ethereum and the Internet Computer that allows contracts on both chains to message each other
             </div>
             <div className="pagescard">
                 <a href="https://fbbjb-oyaaa-aaaah-qaojq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Usergeek</a> - The first decentralised product analytics tool built on the Internet Computer
