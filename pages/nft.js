@@ -123,6 +123,9 @@ export default function NFTs() {
                 <a href="https://xn--4n8h7h.ws/" target="_blank" rel="noopener noreferrer">ICSnakes</a> - A collection of 10,000 randomly generated Snake NFTs hunting for food
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/ICSpliffSters" target="_blank" rel="noopener noreferrer">ICSpliffsters</a> - Collection of 9999 unique SpliffSters
+            </div>
+            <div className="pagescard">
                 <a href="https://ictuts.com/" target="_blank" rel="noopener noreferrer">ICTuts</a> - 1st pharaohs NFTs in the world. 10,000 randomly generated TuTs
             </div>
             <div className="pagescard">
