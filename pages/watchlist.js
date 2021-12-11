@@ -33,6 +33,9 @@ export default function Watchlist() {
                 <a href="https://canistore.io/" target="_blank" rel="noopener noreferrer">Canistore</a> - Next-gen social store powered by DFINITY
             </div>
             <div className="pagescard">
+                <a href="https://ijnlb-jiaaa-aaaah-qaesa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">CetoSwap</a> - A fungible and non-fungible asset management platform
+            </div>
+            <div className="pagescard">
                 <a href="https://www.cipherproxy.com/" target="_blank" rel="noopener noreferrer">CipherProxy</a> - An Open Data Marketplace on the Internet Computer
             </div>
             {/* <div className="pagescard">
