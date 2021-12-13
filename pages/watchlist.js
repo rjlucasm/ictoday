@@ -63,6 +63,9 @@ export default function Watchlist() {
                 <a href="https://jbioa-siaaa-aaaai-qanfq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">DeFind</a> - A staking-based search engine
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/DFINITYNodes" target="_blank" rel="noopener noreferrer">DFINITYNodes</a> - Crowd-funded nodes
+            </div>
+            <div className="pagescard">
                 <a href="https://deland.one/" target="_blank" rel="noopener noreferrer">Deland</a> - Fungible Token Standard and DeFi components
             </div>
             {/* <div className="pagescard">
