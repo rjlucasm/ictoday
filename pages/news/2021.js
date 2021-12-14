@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">12/13 -&nbsp;
+                <a href="https://www.issuewire.com/icpswap-the-dfinity-game-changer-for-tokenization-and-swaps-1719019950216948" target="_blank" rel="noopener noreferrer">ICPSwap: The DFINITY Game Changer for Tokenization and Swaps</a>
+            </div>
             <div className="pagescard">12/10 -&nbsp;
                 <a href="https://www.bloomberg.com/news/videos/2021-12-10/dfinity-ceo-on-web3-moving-away-from-cloud-video?sref=kHbagO2u" target="_blank" rel="noopener noreferrer">DFINITY CEO on Web3, Moving Away From Cloud</a>
             </div>
