@@ -123,7 +123,7 @@ export default function Watchlist() {
                 <a href="https://learnd.dedn.eu/" target="_blank" rel="noopener noreferrer">LEARND</a> - Community driven educational platform running on Internet Computer
             </div>
             <div className="pagescard">
-                <a href="https://www.icp-20.com/" target="_blank" rel="noopener noreferrer">Liquid ICP</a> - World's first s-Bridge where bridged and staked assets remain liquid
+                <a href="https://www.icp-20.com/" target="_blank" rel="noopener noreferrer">Liquid ICP</a> - World&apos;s first s-Bridge where bridged and staked assets remain liquid
             </div>
             <div className="pagescard">
                 <a href="https://memecake.io/" target="_blank" rel="noopener noreferrer">Meme Cake</a> - Decentralized comedy platform
