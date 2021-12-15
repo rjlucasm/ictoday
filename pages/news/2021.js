@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">12/14 -&nbsp;
+                <a href="https://medium.com/dfinity/the-internet-computer-blockchains-privacy-advantages-73340c6c42db" target="_blank" rel="noopener noreferrer">The Internet Computer Blockchain&apos;s Privacy Advantages</a>
+            </div>
             <div className="pagescard">12/13 -&nbsp;
                 <a href="https://www.issuewire.com/icpswap-the-dfinity-game-changer-for-tokenization-and-swaps-1719019950216948" target="_blank" rel="noopener noreferrer">ICPSwap: The DFINITY Game Changer for Tokenization and Swaps</a>
             </div>
