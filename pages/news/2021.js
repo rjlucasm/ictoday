@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">12/16 -&nbsp;
+                <a href="https://medium.com/@sly_ooo/272a64a261f0" target="_blank" rel="noopener noreferrer">SLY: A Seamless CLI for the Internet Computer 🐈</a>
+            </div>
             <div className="pagescard">12/14 -&nbsp;
                 <a href="https://medium.com/dfinity/the-internet-computer-blockchains-privacy-advantages-73340c6c42db" target="_blank" rel="noopener noreferrer">The Internet Computer Blockchain&apos;s Privacy Advantages</a>
             </div>
