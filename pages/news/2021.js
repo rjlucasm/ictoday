@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">12/17 -&nbsp;
+                <a href="https://medium.com/dfinity/the-internet-computers-long-term-r-d-plans-motion-proposals-guide-dce6fdcd697d" target="_blank" rel="noopener noreferrer">The Internet Computer&apos;s Roadmap Guide: 25 Motion Proposals Outlining New Areas for Crypto Innovation</a>
+            </div>
             <div className="pagescard">12/16 -&nbsp;
                 <a href="https://medium.com/@sly_ooo/272a64a261f0" target="_blank" rel="noopener noreferrer">SLY: A Seamless CLI for the Internet Computer 🐈</a>
             </div>
@@ -102,7 +105,7 @@ export default function News21() {
                 <a href="https://medium.com/cap-ois/crowns-news-11-4-3bbc5e5f510f" target="_blank" rel="noopener noreferrer">Crowns News 👑</a>
             </div>
             <div className="pagescard">11/03 -&nbsp;
-                <a href="https://medium.com/dfinity/motoko-the-internet-computers-native-language-turns-two-a32c3c5ab704" target="_blank" rel="noopener noreferrer">Motoko, the Internet Computer’s Native Language, Turns Two</a>
+                <a href="https://medium.com/dfinity/motoko-the-internet-computers-native-language-turns-two-a32c3c5ab704" target="_blank" rel="noopener noreferrer">Motoko, the Internet Computer&apos;s Native Language, Turns Two</a>
             </div>
             <div className="pagescard">11/03 -&nbsp;
                 <a href="https://medium.com/dfinity/the-internet-computer-at-shanghai-international-blockchain-week-4de75b43cf5f" target="_blank" rel="noopener noreferrer">The Internet Computer at Shanghai International Blockchain Week</a>
@@ -129,13 +132,13 @@ export default function News21() {
                 <a href="https://medium.com/@houman_87430/customizable-nfts-the-future-of-no-code-2f62534061a5" target="_blank" rel="noopener noreferrer">Customizable NFTs: The Future of No Code</a>
             </div>
             <div className="pagescard">10/21 -&nbsp;
-                <a href="https://medium.com/dfinity/optimizing-the-internet-computer-memory-systems-performance-c0253e94f60" target="_blank" rel="noopener noreferrer">Optimizing the Internet Computer Memory System’s Performance</a>
+                <a href="https://medium.com/dfinity/optimizing-the-internet-computer-memory-systems-performance-c0253e94f60" target="_blank" rel="noopener noreferrer">Optimizing the Internet Computer Memory System&apos;s Performance</a>
             </div>
             <div className="pagescard">10/21 -&nbsp;
                 <a href="https://usethebitcoin.com/what-bitcoin-smart-contracts-will-mean-for-defi/" target="_blank" rel="noopener noreferrer">No Bridge: What Bitcoin Smart Contracts Will Mean for DeFi</a>
             </div>
             <div className="pagescard">10/20 -&nbsp;
-                <a href="https://medium.com/dfinity/secure-scalability-the-internet-computers-peer-to-peer-layer-6662d451f2cc" target="_blank" rel="noopener noreferrer">Secure Scalability: The Internet Computer’s Peer-to-Peer Layer</a>
+                <a href="https://medium.com/dfinity/secure-scalability-the-internet-computers-peer-to-peer-layer-6662d451f2cc" target="_blank" rel="noopener noreferrer">Secure Scalability: The Internet Computer&apos;s Peer-to-Peer Layer</a>
             </div>
             <div className="pagescard">10/19 -&nbsp;
                 <a href="https://youtu.be/7WvgON_5XCU" target="_blank" rel="noopener noreferrer">Blockchain Singularity with Dominic Williams</a>
