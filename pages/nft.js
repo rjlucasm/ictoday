@@ -14,7 +14,7 @@ export default function NFTs() {
 
             <>&#127917;</>
 
-            <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link> 
+            <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
             <div className="pagescard">
@@ -22,6 +22,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://bcheroes.com/" target="_blank" rel="noopener noreferrer">Blockchain Heroes</a> - Collectible digital trading card set. Join the battle for freedom and decentralization
+            </div>
+            <div className="pagescard">
+                <a href="https://qmr4u-2yaaa-aaaad-qbaxa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Bob NFTs</a> - An experimental cross-platform creator economy NFT project
             </div>
             <div className="pagescard">
                 <a href="https://6qmlj-viaaa-aaaad-qaxzq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">BTC Flower</a> - Randomly generated artworks by paris based streetartist Ludo
