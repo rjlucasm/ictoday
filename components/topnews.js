@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 const Topnews = () => (
     <div className="topnews">
-        <p><a href="https://medium.com/dfinity/the-internet-computers-long-term-r-d-plans-motion-proposals-guide-dce6fdcd697d" target="_blank" rel="noopener noreferrer">The Internet Computer&apos;s Roadmap Guide: 25 Motion Proposals Outlining New Areas for Crypto Innovation</a></p>
+        <p><a href="https://medium.com/dfinity/ultimate-decentralization-using-virtual-people-parties-that-deliver-proof-of-personhood-at-de575522c80" target="_blank" rel="noopener noreferrer">Ultimate Decentralization Using Virtual “People Parties” That Deliver “Proof of Personhood” At Scale</a></p>
         <Link href="/news/2021"><a style={{ color: 'inherit' }, {fontWeight: 'bold'}}>+News</a></Link>
     </div>
 );
