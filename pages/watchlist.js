@@ -24,6 +24,9 @@ export default function Watchlist() {
                 <a href="https://aizxe-qaaaa-aaaah-aapya-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">AstroX</a> - Dart developer tools and “mini apps” framework
             </div>
             <div className="pagescard">
+                <a href="https://ejgyp-syaaa-aaaai-qbc3a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Avocado Research</a> - NFT, DeFi, GameFi analytics for the Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://vzaga-2aaaa-aaaaf-qaaxq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Bunchd</a> - Create, collaborate, and earn on the subscription platform controlled by creators
             </div>
             <div className="pagescard">
@@ -90,6 +93,9 @@ export default function Watchlist() {
                 <a href="https://kdc2c-uaaaa-aaaae-qaafq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC Go</a> - Go links for the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/ic_naming" target="_blank" rel="noopener noreferrer">IC Naming</a> - Decentralized domain name server based on Dfinity network
+            </div>
+            <div className="pagescard">
                 <a href="https://jbxh5-eqaaa-aaaae-qaaoq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC Notary</a> - Notarized data on the Internet Computer
             </div>
             <div className="pagescard">
@@ -127,6 +133,9 @@ export default function Watchlist() {
             </div>
             <div className="pagescard">
                 <a href="https://memecake.io/" target="_blank" rel="noopener noreferrer">Meme Cake</a> - Decentralized comedy platform
+            </div>
+            <div className="pagescard">
+                <a href="https://metasportsbball.xyz/" target="_blank" rel="noopener noreferrer">MetaSports Basketball</a> - An open basketball metaverse, built on the Ethereum &amp; Internet Computer blockchains
             </div>
             <div className="pagescard">
                 <a href="https://modclub.app/" target="_blank" rel="noopener noreferrer">ModClub</a> - Decentralized user generated content moderation service, to integrate with existing Internet Computer dapps
