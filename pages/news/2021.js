@@ -17,6 +17,9 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">12/22 -&nbsp;
+                <a href="https://cointelegraph.com/news/terabithia-cross-chain-protocol-bridges-internet-computer-and-ethereum" target="_blank" rel="noopener noreferrer">Terabethia cross-chain protocol bridges Internet Computer and Ethereum</a>
+            </div>
             <div className="pagescard">12/19 -&nbsp;
                 <a href="https://medium.com/dfinity/ultimate-decentralization-using-virtual-people-parties-that-deliver-proof-of-personhood-at-de575522c80" target="_blank" rel="noopener noreferrer">Ultimate Decentralization Using Virtual “People Parties” That Deliver “Proof of Personhood” At Scale</a>
             </div>
