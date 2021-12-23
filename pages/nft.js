@@ -84,10 +84,13 @@ export default function NFTs() {
                 <a href="https://icturtles.com/" target="_blank" rel="noopener noreferrer">IC Turtles</a> - Customizable and breedable NFTS
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/ICAliensNFT" target="_blank" rel="noopener noreferrer">ICAliens</a> - First aliens NFT on IC
+            </div>
+            <div className="pagescard">
                 <a href="https://twitter.com/CeleberityI" target="_blank" rel="noopener noreferrer">ICelebrity</a> - 100 Uniquely Minted handmade artistic representation of the people we know and love
             </div>
             <div className="pagescard">
-                <a href="https://twitter.com/icircle_nft" target="_blank" rel="noopener noreferrer">ICircle</a> - 8888 Generative Art
+                <a href="https://icircle.gallery/" target="_blank" rel="noopener noreferrer">ICircle</a> - 8888 Generative Art
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/ICKitties" target="_blank" rel="noopener noreferrer">ICKitties</a> - 8-bit kitties living on the Internet Computer
@@ -102,7 +105,7 @@ export default function NFTs() {
                 <a href="https://twitter.com/icp_news" target="_blank" rel="noopener noreferrer">ICP News</a> - Artistic collection created by ICP News
             </div>
             <div className="pagescard">
-                <a href="https://twitter.com/ICPSquadNFT" target="_blank" rel="noopener noreferrer">ICP Squad</a> - First engage to earn NFTs game
+                <a href="https://p3z4x-vaaaa-aaaaj-qaixq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICP Squad</a> - First engage to earn NFTs game
             </div>
             <div className="pagescard">
                 <a href="https://linktr.ee/icpbunny" target="_blank" rel="noopener noreferrer">ICPBunny</a> - Yieldable and Breedable NFT
@@ -112,6 +115,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/ICPrime8s" target="_blank" rel="noopener noreferrer">ICPrime8s</a> - 5 releases of Prime8 focused, randomly generated NFTs on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://icpugs.com/" target="_blank" rel="noopener noreferrer">ICPugs</a> - 10,000 8-bit pug NFTs coming to the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://icpunks.com/" target="_blank" rel="noopener noreferrer">ICPunks</a> - 10K randomly generated clowns
