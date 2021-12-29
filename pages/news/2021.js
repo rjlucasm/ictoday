@@ -17,6 +17,12 @@ export default function News21() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">12/26 -&nbsp;
+                <a href="https://medium.com/@daolecticresearch/dfinity-internet-computer-the-new-internet-paradigm-shift-b5e72fb60ce9" target="_blank" rel="noopener noreferrer">Dfinity &amp; Internet Computer: The New Internet Paradigm Shift</a>
+            </div>
+            <div className="pagescard">12/24 -&nbsp;
+                <a href="https://news.8btc.com/warpspeed-2021-dfinityxiaf-hackathon-demo-day-ended-with-10-winning-teams" target="_blank" rel="noopener noreferrer">Warpspeed 2021 DFINITYxIAF Hackathon Demo Day Ended With 10 Winning Teams</a>
+            </div>
             <div className="pagescard">12/24 -&nbsp;
                 <a href="https://www.coindesk.com/tech/2021/12/24/dfinitys-internet-computer-opens-ethereum-bridge/" target="_blank" rel="noopener noreferrer">Dfinity&apos;s Internet Computer Opens Ethereum Bridge</a>
             </div>
