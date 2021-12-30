@@ -54,6 +54,9 @@ export default function NFTs() {
                 <a href="https://hzuo4-qiaaa-aaaag-qaarq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Dfinity Space Apes</a> - 10,000 Space Apes on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/eimolad" target="_blank" rel="noopener noreferrer">Eimolad</a> - Eimolad is a fantasy world full of adventures and populated by the first NFT game characters
+            </div>
+            <div className="pagescard">
                 <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
             </div>
             <div className="pagescard">
@@ -70,6 +73,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://ic.cards/" target="_blank" rel="noopener noreferrer">IC Cards</a> - NFT-based game on the IC
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/icdinos" target="_blank" rel="noopener noreferrer">IC Dinos</a> - Dinos NFT collection
             </div>
             <div className="pagescard">
                 <a href="https://dvr6e-lqaaa-aaaai-qam5a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Drip</a> - Randomly generated meta-commerce shopping carts for outfits and personas stored on chain

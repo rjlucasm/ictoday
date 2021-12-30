@@ -102,6 +102,9 @@ export default function Watchlist() {
                 <a href="https://kgrph-3yaaa-aaaaj-aacuq-cai.raw.ic0.app/home" target="_blank" rel="noopener noreferrer">IC Notes</a> - Your private notes on the blockchain
             </div>
             <div className="pagescard">
+                <a href="https://www.ices.one/" target="_blank" rel="noopener noreferrer">ICES</a> - Internet Computer Event System is a storage and analysis service for canister&apos;s event logs
+            </div>
+            <div className="pagescard">
                 <a href="https://2fpku-eiaaa-aaaad-qaq4a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICNS</a> - A naming service for the Internet Computer, built on top of ENS (Ethereum Name Service)
             </div>
             <div className="pagescard">
@@ -144,7 +147,10 @@ export default function Watchlist() {
                 <a href="https://muga.media/nft" target="_blank" rel="noopener noreferrer">MugaTunes</a> - Music curation and NFT platform
             </div>
             <div className="pagescard">
-                <a href="https://overchute.com/" target="_blank" rel="noopener noreferrer">Overchute</a> - Decentralized smart-contract application for crowdfunding the release of intellectual property 
+                <a href="https://overchute.com/" target="_blank" rel="noopener noreferrer">Overchute</a> - Decentralized smart-contract application for crowdfunding the release of intellectual property
+            </div>
+            <div className="pagescard">
+                <a href="https://ratels.app/" target="_blank" rel="noopener noreferrer">Ratels</a> - The most personalized crypto wallet on the IC
             </div>
             <div className="pagescard">
                 <a href="https://c3qag-6yaaa-aaaah-aaqta-cai.ic0.app/" target="_blank" rel="noopener noreferrer">SkyDocs</a> - Decentralized Google Docs alternative
