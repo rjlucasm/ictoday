@@ -21,6 +21,9 @@ export default function Games() {
                 <a href="https://qwsdo-xaaaa-aaaah-aaa3a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">2048</a> - Sliding addition game
             </div>
             <div className="pagescard">
+                <a href="https://hzuo4-qiaaa-aaaag-qaarq-cai.ic0.app/mining.html" target="_blank" rel="noopener noreferrer">Apes Dfinity</a> - Space Apes platform game
+            </div>
+            <div className="pagescard">
                 <a href="https://5pppv-eyaaa-aaaah-aan6q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Battle City</a> - Enjoy the classic battle tank game by Namco
             </div>
             <div className="pagescard">
