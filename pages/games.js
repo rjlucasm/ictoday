@@ -36,6 +36,9 @@ export default function Games() {
                 <a href="https://fcsfo-cyaaa-aaaah-aaiza-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Clandestine</a> - Gaming hub
             </div>
             <div className="pagescard">
+                <a href="https://fcd2j-eqaaa-aaaad-qbdgq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Clout Cats Maze 3D</a> - Simple maze puzzle game
+            </div>
+            <div className="pagescard">
                 <a href="https://2ji5m-raaaa-aaaah-aanoa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Coinflip</a> - Guess the coin toss
             </div>
             <div className="pagescard">
