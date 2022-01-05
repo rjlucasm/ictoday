@@ -18,6 +18,9 @@ export default function News22() {
 
             <div className="pagesgrid">
             <div className="pagescard">01/05 -&nbsp;
+                <a href="https://medium.com/dfinity/the-internet-computers-transaction-speed-and-finality-outpace-other-l1-blockchains-8e7d25e4b2ef" target="_blank" rel="noopener noreferrer">The Internet Computer&apos;s Transaction Speed and Finality Outpace Other L1 Blockchains</a>
+            </div>
+            <div className="pagescard">01/05 -&nbsp;
                 <a href="https://cointelegraph.com/news/internet-computer-correction-risk-rises-after-icp-price-gains-nearly-60-in-5-days" target="_blank" rel="noopener noreferrer">Internet Computer: Correction risk rises after ICP price gains nearly 60% in 5 days</a>
             </div>
             <div className="pagescard">01/05 -&nbsp;
