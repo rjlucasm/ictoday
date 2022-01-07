@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/06 -&nbsp;
+                <a href="https://www.crowdfundinsider.com/2022/01/185189-internet-computer-dfinity-shares-performance-updates-reports-solid-year-of-developer-and-community-growth/" target="_blank" rel="noopener noreferrer">Internet Computer: DFINITY Shares Performance Updates, Reports Solid Year of Developer and Community Growth</a>
+            </div>
             <div className="pagescard">01/05 -&nbsp;
                 <a href="https://medium.com/dfinity/the-internet-computers-transaction-speed-and-finality-outpace-other-l1-blockchains-8e7d25e4b2ef" target="_blank" rel="noopener noreferrer">The Internet Computer&apos;s Transaction Speed and Finality Outpace Other L1 Blockchains</a>
             </div>
