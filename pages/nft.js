@@ -48,6 +48,9 @@ export default function NFTs() {
                 <a href="https://www.cyman.live/" target="_blank" rel="noopener noreferrer">CYMAN</a> - 10,000 Randomly generated cybernetic humanoid&apos;s from 550,000,000 BCE built on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://demodroids.com/" target="_blank" rel="noopener noreferrer">Demodroids</a> - 10,000 demolition androids sent to wreak havoc
+            </div>
+            <div className="pagescard">
                 <a href="https://twitter.com/DBulls_NFT" target="_blank" rel="noopener noreferrer">Dfinity Bulls</a> - 8,888 Awesome Badass Bulls
             </div>
             <div className="pagescard">
@@ -109,6 +112,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://icmoji.com/" target="_blank" rel="noopener noreferrer">ICMojis</a> - NFT collection and strategy game
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/IcNotes" target="_blank" rel="noopener noreferrer">ICNotes</a> - 10,000 cute musical notes NFTs
             </div>
             <div className="pagescard">
                 <a href="https://linktr.ee/ICPArt" target="_blank" rel="noopener noreferrer">ICP Art</a> - Exclusive hand-crafted art collections
