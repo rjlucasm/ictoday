@@ -96,7 +96,13 @@ export default function NFTs() {
                 <a href="https://twitter.com/CeleberityI" target="_blank" rel="noopener noreferrer">ICelebrity</a> - 100 Uniquely Minted handmade artistic representation of the people we know and love
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/ICGiraffes" target="_blank" rel="noopener noreferrer">ICGiraffes</a> - 10,000 busy giraffes
+            </div>
+            <div className="pagescard">
                 <a href="https://icircle.gallery/" target="_blank" rel="noopener noreferrer">ICircle</a> - 8888 Generative Art
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/ICKitsune_NFT" target="_blank" rel="noopener noreferrer">ICKitsune</a> - 10,000 beautifully hand-drawn foxes
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/ICKitties" target="_blank" rel="noopener noreferrer">ICKitties</a> - 8-bit kitties living on the Internet Computer
@@ -163,6 +169,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a> - A friendly place for all of your favorite NFTs on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://nuah3-ayaaa-aaaad-qa7oa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village V2</a> - A friendly place for all of your favorite NFTs on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://www.origyn.ch/" target="_blank" rel="noopener noreferrer">Origyn</a> - Blending luxury goods, with NFTs by providing digital verifications for physical objects
