@@ -39,6 +39,9 @@ export default function Dapps() {
                 <a href="https://portal.one/" target="_blank" rel="noopener noreferrer">Portal</a> - Decentralized live streaming service
             </div>
             <div className="pagescard">
+                <a href="http://taggr.top/" target="_blank" rel="noopener noreferrer">Taggr</a> - An experimental social network
+            </div>
+            <div className="pagescard">
                 <a href="https://rivyl-6aaaa-aaaaf-qaapq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">The Wall</a> - A crossover Ethereum/Internet Computer demo app
             </div>
             </div>
