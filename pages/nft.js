@@ -72,6 +72,9 @@ export default function NFTs() {
                 <a href="https://icapeventures.com/" target="_blank" rel="noopener noreferrer">IC Apes</a> - 10,000 Unique Apes
             </div>
             <div className="pagescard">
+                <a href="https://icbirds.app" target="_blank" rel="noopener noreferrer">IC Birds</a> - 10,000 8-bit style NFTs
+            </div>
+            <div className="pagescard">
                 <a href="https://rdbii-uiaaa-aaaab-qadva-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Canvas</a> - Interactive art project
             </div>
             <div className="pagescard">
