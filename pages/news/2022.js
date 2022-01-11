@@ -17,6 +17,12 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/10 -&nbsp;
+                <a href="https://www.tronweekly.com/dfinity-integration-icp-with-btc/" target="_blank" rel="noopener noreferrer">DFINITY foundation inches closer for direct integration of ICP with BTC</a>
+            </div>
+            <div className="pagescard">01/10 -&nbsp;
+                <a href="https://www.banklesstimes.com/2022/01/10/internet-computer-price-at-risk-as-icp-forms-a-double-top/" target="_blank" rel="noopener noreferrer">Internet Computer price at risk as ICP forms a double-top</a>
+            </div>
             <div className="pagescard">01/06 -&nbsp;
                 <a href="https://www.crowdfundinsider.com/2022/01/185189-internet-computer-dfinity-shares-performance-updates-reports-solid-year-of-developer-and-community-growth/" target="_blank" rel="noopener noreferrer">Internet Computer: DFINITY Shares Performance Updates, Reports Solid Year of Developer and Community Growth</a>
             </div>
