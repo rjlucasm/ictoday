@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/12 -&nbsp;
+                <a href="https://medium.com/dfinity/built-for-scalability-how-the-internet-computer-allows-web3-dapps-to-infinitely-scale-35bbe4253318" target="_blank" rel="noopener noreferrer">Built for Scalability: How the Internet Computer Allows Web3 Dapps to Infinitely Scale</a>
+            </div>
             <div className="pagescard">01/10 -&nbsp;
                 <a href="https://www.tronweekly.com/dfinity-integration-icp-with-btc/" target="_blank" rel="noopener noreferrer">DFINITY foundation inches closer for direct integration of ICP with BTC</a>
             </div>
