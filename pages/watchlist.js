@@ -27,6 +27,9 @@ export default function Watchlist() {
                 <a href="https://ejgyp-syaaa-aaaai-qbc3a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Avocado Research</a> - NFT, DeFi, GameFi analytics for the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://blocks-editor.github.io/" target="_blank" rel="noopener noreferrer">Blocks.</a> - An online visual smart contract editor for the Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://vzaga-2aaaa-aaaaf-qaaxq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Bunchd</a> - Create, collaborate, and earn on the subscription platform controlled by creators
             </div>
             <div className="pagescard">
