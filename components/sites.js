@@ -104,19 +104,20 @@ const Sites = () => (
          <Link href="/games"><a><h4>Games</h4></a></Link>
          <p><a href="https://qwsdo-xaaaa-aaaah-aaa3a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">2048</a></p>
          <p><a href="https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">HexGL</a></p>
-         <p><a href="https://bgvbu-biaaa-aaaae-aaava-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Netwalk</a></p>
+         {/* <p><a href="https://bgvbu-biaaa-aaaae-aaava-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Netwalk</a></p> */}
+         <p><a href="https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Reversi</a></p>
          <p><a href="https://riseofthemagni.com/" target="_blank" rel="noopener noreferrer">ROTM</a></p>
          <p><a href="https://omro3-5yaaa-aaaad-qalta-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sudoku</a></p>
-         <p><a href="https://o2wyr-ryaaa-aaaah-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Tetris</a></p>    
+         <p><a href="https://o2wyr-ryaaa-aaaah-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Tetris</a></p>
       </div>      
     </div>
-    
+
     <div className="finalgrid">
       <div className="finalcard">
-        <Link href="/watchlist"><a>Watchlist</a></Link> 
+        <Link href="/watchlist"><a>Watchlist</a></Link>
       </div>
       <div className="finalcard">
-        <Link href="/news/2022"><a>News</a></Link> 
+        <Link href="/news/2022"><a>News</a></Link>
       </div>
     </div>
   </>

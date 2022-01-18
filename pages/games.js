@@ -83,9 +83,9 @@ export default function Games() {
             <div className="pagescard">
                 <a href="https://cieun-eiaaa-aaaad-qak6a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Motoko Runner</a> - Endless runner game
             </div>
-            <div className="pagescard">
+            {/* <div className="pagescard">
                 <a href="https://bgvbu-biaaa-aaaae-aaava-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Netwalk</a> - Addictive puzzle game
-            </div>
+            </div> */}
             <div className="pagescard">
                 <a href="https://y5ftq-viaaa-aaaad-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Pacman</a> - HTML5 Pacman
             </div>
@@ -96,10 +96,10 @@ export default function Games() {
                 <a href="https://ouuvz-kiaaa-aaaah-qad3q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Plants vs. Zombies</a> - Classic strategy game ported to IC
             </div> */}
             <div className="pagescard">
-                <a href="https://riseofthemagni.com/" target="_blank" rel="noopener noreferrer">Rise of the Magni</a> - Tactical unit deployment game
+                <a href="https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Reversi</a> - Multiplayer game on Internet Computer
             </div>
             <div className="pagescard">
-                <a href="https://ivg37-qiaaa-aaaab-aaaga-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Reversi</a> - Multiplayer game on Internet Computer
+                <a href="https://riseofthemagni.com/" target="_blank" rel="noopener noreferrer">Rise of the Magni</a> - Tactical unit deployment game
             </div>
             <div className="pagescard">
                 <a href="https://l2jyf-nqaaa-aaaah-qadha-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Saga Tarot</a> - Saga Tarot gives you a tarot reading in one click
