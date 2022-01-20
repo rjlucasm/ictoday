@@ -17,6 +17,15 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/19 -&nbsp;
+                <a href="https://invezz.com/news/2022/01/19/internet-computer-price-forecast-how-will-icp-perform-by-the-end-of-january-2022/" target="_blank" rel="noopener noreferrer">Internet Computer price forecast: how will ICP perform by the end of January 2022?</a>
+            </div>
+            <div className="pagescard">01/19 -&nbsp;
+                <a href="https://www.investing.com/news/cryptocurrency-news/origyn-foundation-to-launch-ogy-token-amid-major-partnerships-2742241" target="_blank" rel="noopener noreferrer">ORIGYN Foundation to Launch OGY Token Amid Major Partnerships</a>
+            </div>
+            <div className="pagescard">01/17 -&nbsp;
+                <a href="https://venturebeat.com/2022/01/17/united-esports-and-dfinity-foundation-create-10m-blockchain-game-dev-contest/" target="_blank" rel="noopener noreferrer">United Esports and Dfinity Foundation create $10M blockchain game dev contest</a>
+            </div>
             <div className="pagescard">01/14 -&nbsp;
                 <a href="https://medium.com/contentfly-app-blog/content-fly-bringing-nft-2-0-to-internet-computer-acb7b12a7ca2" target="_blank" rel="noopener noreferrer">Content Fly is Bringing NFT 2.0 to Internet Computer</a>
             </div>
