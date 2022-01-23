@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/21 -&nbsp;
+                <a href="https://sonic-ooo.medium.com/sonic-v1-is-out-swapping-tokens-and-liquidity-now-available-on-the-internet-computer-8abc28044cc9" target="_blank" rel="noopener noreferrer">Sonic V1 Is Out! Swapping Tokens and Earning Fees as a Liquidity Provider Now Available on the Internet Computer 🚀</a>
+            </div>
             <div className="pagescard">01/19 -&nbsp;
                 <a href="https://invezz.com/news/2022/01/19/internet-computer-price-forecast-how-will-icp-perform-by-the-end-of-january-2022/" target="_blank" rel="noopener noreferrer">Internet Computer price forecast: how will ICP perform by the end of January 2022?</a>
             </div>

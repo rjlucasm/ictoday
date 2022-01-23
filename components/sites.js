@@ -76,10 +76,11 @@ const Sites = () => (
       </div>
 
       <div className="card">
-         <h4>Podcasts</h4> 
-         <p><a href="https://www.buzzsprout.com/1790339" target="_blank" rel="noopener noreferrer">The IC Weekly</a></p>
+         <h4>Podcasts</h4>
          <p><a href="https://ic3o3-qiaaa-aaaae-qaaia-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Demergence</a></p>
+         <p><a href="https://ovwc5-5yaaa-aaaae-qaa5a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Podcrypt</a></p>
          <p><a href="https://www.icp.report/videos" target="_blank" rel="noopener noreferrer">The IC Report</a></p>
+         <p><a href="https://www.buzzsprout.com/1790339" target="_blank" rel="noopener noreferrer">The IC Weekly</a></p>
       </div>
 
       <div className="card">
