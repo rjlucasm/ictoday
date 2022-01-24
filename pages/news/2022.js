@@ -17,6 +17,11 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/24 -&nbsp;
+                <a href="https://medium.com/dfinity/sonic-dex-launches-new-era-of-defi-with-zero-gas-fees-on-the-internet-computer-f945f84e7793" target="_blank" rel="noopener noreferrer">Sonic DEX Launches New Era of DeFi With Zero Gas Fees on the Internet Computer</a>
+                <p>Related:&nbsp;
+                <a href="https://uk.sports.yahoo.com/news/first-decentralized-exchange-dfinity-internet-033219886.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMZS7wdbBQtJfiEj_teuRaxmxpMq_F8iP2IFj9NCr8_TPlwBJkqdyaiIfml7j2rjFVB8803wK7nf7C6urguyLljqPgPy9KOSlX0WcDcYliaRrqkGsRjb0JHmC6CLIA60LRcHaeRIoDx4FrXStKEiVBFcGnt629C7I3zTgcgGg1GB" target="_blank" rel="noopener noreferrer">Yahoo</a></p>
+            </div>
             <div className="pagescard">01/21 -&nbsp;
                 <a href="https://sonic-ooo.medium.com/sonic-v1-is-out-swapping-tokens-and-liquidity-now-available-on-the-internet-computer-8abc28044cc9" target="_blank" rel="noopener noreferrer">Sonic V1 Is Out! Swapping Tokens and Earning Fees as a Liquidity Provider Now Available on the Internet Computer 🚀</a>
             </div>
