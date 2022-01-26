@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/26 -&nbsp;
+                <a href="https://medium.com/dfinity/the-internet-computer-for-geeks-a-new-dfinity-white-paper-ecb075b2d525" target="_blank" rel="noopener noreferrer">'The Internet Computer for Geeks': A New DFINITY White Paper</a>
+            </div>
             <div className="pagescard">01/24 -&nbsp;
                 <a href="https://medium.com/dfinity/sonic-dex-launches-new-era-of-defi-with-zero-gas-fees-on-the-internet-computer-f945f84e7793" target="_blank" rel="noopener noreferrer">Sonic DEX Launches New Era of DeFi With Zero Gas Fees on the Internet Computer</a>
                 <p>Related:&nbsp;
