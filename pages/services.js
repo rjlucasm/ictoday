@@ -72,6 +72,12 @@ export default function Services() {
                 <a href="https://networknervoussystem.com/" target="_blank" rel="noopener noreferrer">Neuron Calculator</a> - Calculate your voting rewards in the Network Nervous System (NNS)
             </div>
             <div className="pagescard">
+                <a href="https://nuah3-ayaaa-aaaad-qa7oa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a> - A friendly place for all of your favorite NFTs on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://raisinrank.com/" target="_blank" rel="noopener noreferrer">Raisin Rank</a> - NFT Analytics
+            </div>
+            <div className="pagescard">
                 <a href="https://zpoap-tyaaa-aaaad-qa3hq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">SLY</a> - An open source, collaborative, and friendly CLI for developing on the Internet Computer
             </div>
             <div className="pagescard">

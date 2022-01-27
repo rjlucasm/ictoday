@@ -189,6 +189,9 @@ export default function NFTs() {
                 <a href="https://www.pokedstudiobotsnft.co.uk/" target="_blank" rel="noopener noreferrer">Pokedstudio BOTS</a> - A collection of 10,000 individual ROBOTS
             </div>
             <div className="pagescard">
+                <a href="https://raisinrank.com/" target="_blank" rel="noopener noreferrer">Raisin Rank</a> - NFT Analytics
+            </div>
+            <div className="pagescard">
                 <a href="https://starverse.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Starverse</a> - NFT collection of rare and unique Stars
             </div>
             <div className="pagescard">
