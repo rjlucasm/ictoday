@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/27 -&nbsp;
+                <a href="https://medium.com/dfinity/proposal-to-improve-icp-governance-staking-re-tax-and-tokenomics-df09903a2e0b" target="_blank" rel="noopener noreferrer">Proposal To Improve ICP Governance Staking Re: Tax and Tokenomics</a>
+            </div>
             <div className="pagescard">01/26 -&nbsp;
                 <a href="https://medium.com/dfinity/the-internet-computer-for-geeks-a-new-dfinity-white-paper-ecb075b2d525" target="_blank" rel="noopener noreferrer">&apos;The Internet Computer for Geeks&apos;: A New DFINITY White Paper</a>
             </div>
