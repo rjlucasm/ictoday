@@ -17,6 +17,15 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/28 -&nbsp;
+                <a href="https://medium.com/dank-ois/cycles-token-xtc-update-mint-from-icp-b626a5063254" target="_blank" rel="noopener noreferrer">Cycles Token (XTC) Update: Mint From ICP</a>
+            </div>
+            <div className="pagescard">01/28 -&nbsp;
+                <a href="https://cointelegraph.com/news/first-dex-on-internet-computer-launches-others-coming-soon" target="_blank" rel="noopener noreferrer">First DEX on Internet Computer launches, others coming soon</a>
+            </div>
+            <div className="pagescard">01/27 -&nbsp;
+                <a href="https://www.cryptopolitan.com/speed-and-scalability-comparing-ethereum-solana-avalanche-cardano-and-the-internet-computer/" target="_blank" rel="noopener noreferrer">Speed and Scalability: Comparing Ethereum, Solana, Avalanche, Cardano, and the Internet Computer</a>
+            </div>
             <div className="pagescard">01/27 -&nbsp;
                 <a href="https://medium.com/dfinity/proposal-to-improve-icp-governance-staking-re-tax-and-tokenomics-df09903a2e0b" target="_blank" rel="noopener noreferrer">Proposal To Improve ICP Governance Staking Re: Tax and Tokenomics</a>
             </div>
