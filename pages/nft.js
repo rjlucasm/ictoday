@@ -132,6 +132,9 @@ export default function NFTs() {
                 <a href="https://linktr.ee/icpbunny" target="_blank" rel="noopener noreferrer">ICPBunny</a> - Yieldable and Breedable NFT
             </div>
             <div className="pagescard">
+                <a href="https://icpcs.io/" target="_blank" rel="noopener noreferrer">ICPCS</a> - Collection of generative art
+            </div>
+            <div className="pagescard">
                 <a href="https://icpets.io/" target="_blank" rel="noopener noreferrer">ICPets</a> - 11,111 of Infinity Pets
             </div>
             <div className="pagescard">
