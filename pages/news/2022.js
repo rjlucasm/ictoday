@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/31 -&nbsp;
+                <a href="https://cointelegraph.com/news/internet-computer-plans-to-roll-out-btc-and-eth-integrations-by-year-end" target="_blank" rel="noopener noreferrer">Internet Computer plans to roll out BTC and ETH integrations by year-end</a>
+            </div>
             <div className="pagescard">01/28 -&nbsp;
                 <a href="https://medium.com/dank-ois/cycles-token-xtc-update-mint-from-icp-b626a5063254" target="_blank" rel="noopener noreferrer">Cycles Token (XTC) Update: Mint From ICP</a>
             </div>
