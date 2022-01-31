@@ -18,6 +18,9 @@ export default function Games() {
 
             <div className="pagesgrid">
             <div className="pagescard">
+                <a href="https://vu4zh-eqaaa-aaaad-qbhva-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">3D.City</a> - 3d city builder game
+            </div>
+            <div className="pagescard">
                 <a href="https://qwsdo-xaaaa-aaaah-aaa3a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">2048</a> - Sliding addition game
             </div>
             <div className="pagescard">
@@ -86,6 +89,9 @@ export default function Games() {
             {/* <div className="pagescard">
                 <a href="https://bgvbu-biaaa-aaaae-aaava-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Netwalk</a> - Addictive puzzle game
             </div> */}
+            <div className="pagescard">
+                <a href="https://bjee7-laaaa-aaaad-qbina-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">NiFTy Hextris</a> - Browser based game where players can claim NFT collectibles
+            </div>
             <div className="pagescard">
                 <a href="https://y5ftq-viaaa-aaaad-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Pacman</a> - HTML5 Pacman
             </div>
