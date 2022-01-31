@@ -39,6 +39,9 @@ export default function NFTs() {
                 <a href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Crowd Created Canvas</a> - CCC is the first canvas collaboration and creation platform on Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://kn5ky-6iaaa-aaaai-qbikq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Crowdfund NFT</a> - Crowdfunding on the Blockchain, using NFTs
+            </div>
+            <div className="pagescard">
                 <a href="https://crowns.ooo/" target="_blank" rel="noopener noreferrer">Crowns</a> - A collection of 10,000 uniquely generated NFTs with different levels of rarity showcasing our latest product, <a href="https://cap.ooo/" target="_blank" rel="noopener noreferrer">CAP</a>
             </div>
             <div className="pagescard">
