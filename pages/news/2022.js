@@ -18,6 +18,9 @@ export default function News22() {
 
             <div className="pagesgrid">
             <div className="pagescard">02/01 -&nbsp;
+                <a href="https://invezz.com/news/2022/02/01/internet-computer-price-forecast-how-will-the-btc-and-eth-integration-shape-the-value-of-icp/" target="_blank" rel="noopener noreferrer">Internet Computer price forecast: how will the BTC and ETH integration shape the value of ICP?</a>
+            </div>
+            <div className="pagescard">02/01 -&nbsp;
                 <a href="https://cryptoslate.com/press-releases/huobi-incubator-announces-groundbreaking-strategic-partnership-with-dfinity-to-boost-web3-development-to-new-heights-using-the-internet-computer/" target="_blank" rel="noopener noreferrer">Huobi Incubator announces groundbreaking strategic partnership with DFINITY to boost Web3 development to new heights using the Internet Computer</a>
             </div>
             <div className="pagescard">01/31 -&nbsp;
