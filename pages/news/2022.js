@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">02/01 -&nbsp;
+                <a href="https://cryptoslate.com/press-releases/huobi-incubator-announces-groundbreaking-strategic-partnership-with-dfinity-to-boost-web3-development-to-new-heights-using-the-internet-computer/" target="_blank" rel="noopener noreferrer">Huobi Incubator announces groundbreaking strategic partnership with DFINITY to boost Web3 development to new heights using the Internet Computer</a>
+            </div>
             <div className="pagescard">01/31 -&nbsp;
                 <a href="https://cointelegraph.com/news/internet-computer-plans-to-roll-out-btc-and-eth-integrations-by-year-end" target="_blank" rel="noopener noreferrer">Internet Computer plans to roll out BTC and ETH integrations by year-end</a>
             </div>
