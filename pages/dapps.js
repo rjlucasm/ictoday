@@ -30,6 +30,9 @@ export default function Dapps() {
                 <a href="http://icdrive.co/" target="_blank" rel="noopener noreferrer">IC Drive</a> - A decentralized private storage app built on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://fxnaj-yaaaa-aaaaf-qad3q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Nuance</a> - Web3 blogging. Built on, and for, the new web
+            </div>
+            <div className="pagescard">
                 <a href="https://oc.app/" target="_blank" rel="noopener noreferrer">Open Chat</a> - Chat. On the blockchain. In real time
             </div>
             <div className="pagescard">
