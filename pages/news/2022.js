@@ -20,6 +20,9 @@ export default function News22() {
             <div className="pagescard">02/03 -&nbsp;
                 <a href="https://medium.com/dfinity/the-internet-computers-bitcoin-developer-preview-is-now-available-85ce1df6b17d" target="_blank" rel="noopener noreferrer">The Internet Computer&apos;s Bitcoin Developer Preview Is Now Available</a>
             </div>
+            <div className="pagescard">02/03 -&nbsp;
+                <a href="https://medium.com/dfinity/the-internet-computers-post-genesis-r-d-roadmap-dce2938adcde" target="_blank" rel="noopener noreferrer">The Internet Computer&apos;s Post-Genesis R&amp;D Roadmap</a>
+            </div>
             <div className="pagescard">02/01 -&nbsp;
                 <a href="https://invezz.com/news/2022/02/01/internet-computer-price-forecast-how-will-the-btc-and-eth-integration-shape-the-value-of-icp/" target="_blank" rel="noopener noreferrer">Internet Computer price forecast: how will the BTC and ETH integration shape the value of ICP?</a>
             </div>
