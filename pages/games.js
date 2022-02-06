@@ -57,6 +57,9 @@ export default function Games() {
                 <a href="https://2kvgp-zyaaa-aaaai-aappq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DOTS ...</a> - On-chain classic snake game
             </div>
             <div className="pagescard">
+                <a href="https://tpku2-kiaaa-aaaai-abala-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">EmulatorJS</a> - Play classic retro games on the Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://avpoh-raaaa-aaaad-qavua-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">EZCraft</a> - Simple remake of the classic Minecraft game
             </div>
             <div className="pagescard">
