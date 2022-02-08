@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">02/07 -&nbsp;
+                <a href="https://thenewstack.io/internet-computer-where-were-going-we-dont-need-clouds/" target="_blank" rel="noopener noreferrer">Internet Computer: Where We&apos;re Going, We Don&apos;t Need Clouds</a>
+            </div>
             <div className="pagescard">02/03 -&nbsp;
                 <a href="https://medium.com/dfinity/the-internet-computers-bitcoin-developer-preview-is-now-available-85ce1df6b17d" target="_blank" rel="noopener noreferrer">The Internet Computer&apos;s Bitcoin Developer Preview Is Now Available</a>
             </div>
