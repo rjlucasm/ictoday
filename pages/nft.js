@@ -57,6 +57,9 @@ export default function NFTs() {
                 <a href="https://twitter.com/DBulls_NFT" target="_blank" rel="noopener noreferrer">Dfinity Bulls</a> - 8,888 Awesome Badass Bulls
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/DfinitySheep" target="_blank" rel="noopener noreferrer">Dfinity Nuclear Sheep</a> - 10,000 Super sheep
+            </div>
+            <div className="pagescard">
                 <a href="https://hzuo4-qiaaa-aaaag-qaarq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Dfinity Space Apes</a> - 10,000 Space Apes on the Internet Computer
             </div>
             <div className="pagescard">
@@ -64,6 +67,12 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://falling.tech/" target="_blank" rel="noopener noreferrer">FallingStars</a> - 10,000 clone children participating in the fierce wars of a distant galaxy
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/feminiverse" target="_blank" rel="noopener noreferrer">Feminiverse</a> - The first 10k feminism inspired NFTs living on the ICP
             </div>
             <div className="pagescard">
                 <a href="https://www.hauntedhamsters.io/" target="_blank" rel="noopener noreferrer">Haunted Hamsters</a> - NFT set of 6666 haunted hamsters spooking on DFINITY ICP
@@ -85,6 +94,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/icdinos" target="_blank" rel="noopener noreferrer">IC Dinos</a> - Dinos NFT collection
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/ICdolls" target="_blank" rel="noopener noreferrer">IC Dolls</a> - 4,444 randomly generated dolls looking for a home
             </div>
             <div className="pagescard">
                 <a href="https://dvr6e-lqaaa-aaaai-qam5a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Drip</a> - Randomly generated meta-commerce shopping carts for outfits and personas stored on chain
@@ -117,6 +129,9 @@ export default function NFTs() {
                 <a href="https://twitter.com/ICKitties" target="_blank" rel="noopener noreferrer">ICKitties</a> - 8-bit kitties living on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://www.ickoalas.com/" target="_blank" rel="noopener noreferrer">ICKoalas</a> - A collection of 5555 Cute Koalas
+            </div>
+            <div className="pagescard">
                 <a href="https://icmoji.com/" target="_blank" rel="noopener noreferrer">ICMojis</a> - NFT collection and strategy game
             </div>
             <div className="pagescard">
@@ -141,6 +156,9 @@ export default function NFTs() {
                 <a href="https://icpets.io/" target="_blank" rel="noopener noreferrer">ICPets</a> - 11,111 of Infinity Pets
             </div>
             <div className="pagescard">
+                <a href="https://www.ethnicpictures.ooo/" target="_blank" rel="noopener noreferrer">ICPics</a> - First text-to-image AI generated NFTs on the Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://twitter.com/ICPrime8s" target="_blank" rel="noopener noreferrer">ICPrime8s</a> - 5 releases of Prime8 focused, randomly generated NFTs on the Internet Computer
             </div>
             <div className="pagescard">
@@ -156,6 +174,9 @@ export default function NFTs() {
                 <a href="https://twitter.com/MyArtBar" target="_blank" rel="noopener noreferrer">ICPuzzle</a> - NFT creation platform that allows users to mint NFTs created on a web-based canvas using NFTs from the ICPuzzle NFT Line
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/icpxy" target="_blank" rel="noopener noreferrer">ICPxy</a> - Adorable pixel chars
+            </div>
+            <div className="pagescard">
                 <a href="https://xn--4n8h7h.ws/" target="_blank" rel="noopener noreferrer">ICSnakes</a> - A collection of 10,000 randomly generated Snake NFTs hunting for food
             </div>
             <div className="pagescard">
@@ -163,6 +184,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://ictuts.com/" target="_blank" rel="noopener noreferrer">ICTuts</a> - 1st pharaohs NFTs in the world. 10,000 randomly generated TuTs
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/ICVibesters" target="_blank" rel="noopener noreferrer">ICVibesters</a> - Vibesters is a community-driven, collectible NFT project with Interactive avatars in the IC Metaverse
             </div>
             <div className="pagescard">
                 <a href="https://www.infernalvampires.com/" target="_blank" rel="noopener noreferrer">Infernal Vampire Colony</a> - 666 randomly generated Vampires
@@ -175,6 +199,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://interastrosc.com/" target="_blank" rel="noopener noreferrer">Internet Astronauts</a> - A collection of 10,000 unique digital NFT collectibles only found on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/juicykicksnft" target="_blank" rel="noopener noreferrer">Juicy Kicks</a> - 10,000 generated NFT fruit with kicks
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/NewsieCartoon" target="_blank" rel="noopener noreferrer">Newsie</a> - Comic book and NFT collection
