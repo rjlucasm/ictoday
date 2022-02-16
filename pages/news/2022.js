@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">02/16 -&nbsp;
+                <a href="https://coinrivet.com/expect-to-see-bitcoin-traded-on-dexs-says-dfinitys-josh-drake/" target="_blank" rel="noopener noreferrer">Expect to see Bitcoin traded on DEXs, says DFINITY&apos;s Josh Drake</a>
+            </div>
             <div className="pagescard">02/10 -&nbsp;
                 <a href="https://medium.com/dfinity/dfinity-developer-grant-program-awards-grants-to-over-150-internet-computer-projects-d2f8973d02e4" target="_blank" rel="noopener noreferrer">DFINITY Developer Grant Program Awards Grants to Over 150 Internet Computer Projects</a>
             </div>
