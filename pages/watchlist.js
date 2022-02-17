@@ -120,6 +120,9 @@ export default function Watchlist() {
                 <a href="https://www.icpmeet.com/" target="_blank" rel="noopener noreferrer">ICPmeet</a> - A Tinder on Internet Computer
             </div>
             <div className="pagescard">
+                <a href="http://icproposal.co/" target="_blank" rel="noopener noreferrer">ICProposal</a> - A transparent, sustainable and community-driven DAO on Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://icpswap.com/" target="_blank" rel="noopener noreferrer">ICPSwap</a> - The Hub of Future Decentralized Finance
             </div>
             <div className="pagescard">
