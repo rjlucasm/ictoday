@@ -18,6 +18,9 @@ export default function News22() {
 
             <div className="pagesgrid">
             <div className="pagescard">02/16 -&nbsp;
+                <a href="https://www.cryptovantage.com/news/internet-computer-icp-is-bringing-smart-contracts-to-bitcoin/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Is Bringing Smart Contracts to Bitcoin</a>
+            </div>
+            <div className="pagescard">02/16 -&nbsp;
                 <a href="https://coinrivet.com/expect-to-see-bitcoin-traded-on-dexs-says-dfinitys-josh-drake/" target="_blank" rel="noopener noreferrer">Expect to see Bitcoin traded on DEXs, says DFINITY&apos;s Josh Drake</a>
             </div>
             <div className="pagescard">02/10 -&nbsp;
