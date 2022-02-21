@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">02/21 -&nbsp;
+                <a href="https://medium.com/dfinity/bitcoin-smart-contracts-are-coming-to-internet-computer-defi-projects-dd6786078853" target="_blank" rel="noopener noreferrer">Bitcoin Smart Contracts Are Coming to Internet Computer DeFi Projects</a>
+            </div>
             <div className="pagescard">02/16 -&nbsp;
                 <a href="https://www.cryptovantage.com/news/internet-computer-icp-is-bringing-smart-contracts-to-bitcoin/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Is Bringing Smart Contracts to Bitcoin</a>
             </div>
