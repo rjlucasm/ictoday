@@ -45,6 +45,9 @@ export default function Services() {
                 <a href="https://fleek.co/" target="_blank" rel="noopener noreferrer">Fleek</a> - Decentralized web-hosting to the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://pn6k5-zaaaa-aaaan-qaa6a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC NFT Floor</a> - Calculate floor value of NFTs
+            </div>
+            <div className="pagescard">
                 <a href="https://xe5ii-jiaaa-aaaaf-qaaya-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Picture Thing</a> - Upload and Share Images on the IC
             </div>
             <div className="pagescard">
