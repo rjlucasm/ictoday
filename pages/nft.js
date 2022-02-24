@@ -216,6 +216,9 @@ export default function NFTs() {
                 <a href="https://nuah3-ayaaa-aaaad-qa7oa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village V2</a> - A friendly place for all of your favorite NFTs on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://nftanvil.com/" target="_blank" rel="noopener noreferrer">Nftanvil</a> - NFT minting on the Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://www.origyn.ch/" target="_blank" rel="noopener noreferrer">Origyn</a> - Blending luxury goods, with NFTs by providing digital verifications for physical objects
             </div>
             <div className="pagescard">
