@@ -17,6 +17,15 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">02/24 -&nbsp;
+                <a href="https://www.newsanyway.com/2022/02/24/we-researched-dfinity-and-the-internet-computer-this-is-what-we-learned/" target="_blank" rel="noopener noreferrer">We Researched DFINITY and the Internet Computer: This Is What We Learned</a>
+            </div>
+            <div className="pagescard">02/24 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/is-internet-computer-icp-worth-the-risk-thursday" target="_blank" rel="noopener noreferrer">Is Internet Computer (ICP) Worth the Risk Thursday?</a>
+            </div>
+            <div className="pagescard">02/23 -&nbsp;
+                <a href="https://beincrypto.com/internet-computer-icp-generates-bullish-divergences-despite-new-all-time-low/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Generates Bullish Divergences Despite New All-Time Low</a>
+            </div>
             <div className="pagescard">02/21 -&nbsp;
                 <a href="https://medium.com/dfinity/bitcoin-smart-contracts-are-coming-to-internet-computer-defi-projects-dd6786078853" target="_blank" rel="noopener noreferrer">Bitcoin Smart Contracts Are Coming to Internet Computer DeFi Projects</a>
             </div>
