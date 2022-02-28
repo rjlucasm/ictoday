@@ -45,6 +45,9 @@ export default function Services() {
                 <a href="https://fleek.co/" target="_blank" rel="noopener noreferrer">Fleek</a> - Decentralized web-hosting to the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://icnaming.com/" target="_blank" rel="noopener noreferrer">IC Naming</a> - Decentralized domain name server based on Dfinity network
+            </div>
+            <div className="pagescard">
                 <a href="https://pn6k5-zaaaa-aaaan-qaa6a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC NFT Floor</a> - Calculate floor value of NFTs
             </div>
             <div className="pagescard">
@@ -58,6 +61,9 @@ export default function Services() {
             </div>
             <div className="pagescard">
                 <a href="https://sygsn-caaaa-aaaaf-qaahq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICME</a> - A no-code website builder
+            </div>
+            <div className="pagescard">
+                <a href="https://icns.id/" target="_blank" rel="noopener noreferrer">ICNS</a> - A naming service for the Internet Computer, built on top of ENS (Ethereum Name Service)
             </div>
             <div className="pagescard">
                 <a href="https://icp123.org/" target="_blank" rel="noopener noreferrer">ICP123</a> - Ecosystem page built on the Internet Computer

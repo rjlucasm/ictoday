@@ -96,9 +96,6 @@ export default function Watchlist() {
                 <a href="https://kdc2c-uaaaa-aaaae-qaafq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC Go</a> - Go links for the Internet Computer
             </div>
             <div className="pagescard">
-                <a href="https://twitter.com/ic_naming" target="_blank" rel="noopener noreferrer">IC Naming</a> - Decentralized domain name server based on Dfinity network
-            </div>
-            <div className="pagescard">
                 <a href="https://jbxh5-eqaaa-aaaae-qaaoq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC Notary</a> - Notarized data on the Internet Computer
             </div>
             <div className="pagescard">
@@ -106,9 +103,6 @@ export default function Watchlist() {
             </div>
             <div className="pagescard">
                 <a href="https://www.ices.one/" target="_blank" rel="noopener noreferrer">ICES</a> - Internet Computer Event System is a storage and analysis service for canister&apos;s event logs
-            </div>
-            <div className="pagescard">
-                <a href="https://icns.id/" target="_blank" rel="noopener noreferrer">ICNS</a> - A naming service for the Internet Computer, built on top of ENS (Ethereum Name Service)
             </div>
             <div className="pagescard">
                 <a href="https://e7z3z-raaaa-aaaaj-aadwa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICP Dog</a> - GameFi on IC
