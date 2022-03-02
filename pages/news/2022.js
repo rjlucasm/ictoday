@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/01 -&nbsp;
+                <a href="https://cryptoticker.io/en/internet-computer-icp-soars-20-good-buy-for-2022/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) SOARS +20% – Good BUY for 2022?</a>
+            </div>
             <div className="pagescard">02/24 -&nbsp;
                 <a href="https://www.newsanyway.com/2022/02/24/we-researched-dfinity-and-the-internet-computer-this-is-what-we-learned/" target="_blank" rel="noopener noreferrer">We Researched DFINITY and the Internet Computer: This Is What We Learned</a>
             </div>
