@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/04 -&nbsp;
+                <a href="https://www.itechpost.com/articles/109411/20220304/dfinity-the-spiritual-ancestor-of-the-world.htm" target="_blank" rel="noopener noreferrer">DFINITY, The Spiritual Ancestor of the World</a>
+            </div>
             <div className="pagescard">03/01 -&nbsp;
                 <a href="https://cryptoticker.io/en/internet-computer-icp-soars-20-good-buy-for-2022/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) SOARS +20% – Good BUY for 2022?</a>
             </div>
