@@ -95,7 +95,7 @@ const Sites = () => (
 
       <div className="card">
          <Link href="/nft"><a><h4>NFTs</h4></a></Link>
-         <p><a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a></p>
+         <p><a href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">CCC</a></p>
          <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a></p>
          <p><a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a></p>
          <p><a href="https://icpuppies.io/" target="_blank" rel="noopener noreferrer">ICPuppies</a></p>
