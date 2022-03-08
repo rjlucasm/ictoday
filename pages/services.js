@@ -91,7 +91,10 @@ export default function Services() {
             </div>
             <div className="pagescard">
                 <a href="https://i67uk-hiaaa-aaaae-qaaka-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Sudograph</a> - A GraphQL database for the Internet Computer
-            </div>    
+            </div>
+            <div className="pagescard">
+                <a href="https://opdit-ciaaa-aaaah-aa5ra-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">WICP</a> - WICP is an ICP-equivalent trading tool
+            </div>
             </div>
         </main>
 
