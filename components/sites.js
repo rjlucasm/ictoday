@@ -68,21 +68,22 @@ const Sites = () => (
       </div>
 
       <div className="card">
+         <h4>Podcasts</h4>
+         <p><a href="https://sites.libsyn.com/405647" target="_blank" rel="noopener noreferrer">Neurotic</a></p>
+         <p><a href="https://ovwc5-5yaaa-aaaae-qaa5a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Podcrypt</a></p>
+         <p><a href="https://ic3o3-qiaaa-aaaae-qaaia-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Demergence</a></p>
+         <p><a href="https://www.youtube.com/channel/UCHS-QgtP6FXD_DQ_kHkZLKQ" target="_blank" rel="noopener noreferrer">Dfinity Pill</a></p>
+         <p><a href="https://www.icp.report/videos" target="_blank" rel="noopener noreferrer">The IC Report</a></p>
+         <p><a href="https://www.buzzsprout.com/1790339" target="_blank" rel="noopener noreferrer">The IC Weekly</a></p>
+      </div>
+
+      <div className="card">
          <h4>Blogs</h4> 
          <p><a href="https://cycledao.xyz/blog" target="_blank" rel="noopener noreferrer">Cycle_dao</a></p>
          <p><a href="https://www.dfinitycommunity.com/" target="_blank" rel="noopener noreferrer">Dfinity Community</a></p>
          <p><a href="https://www.ic.community/" target="_blank" rel="noopener noreferrer">IC Community</a></p>
          <p><a href="https://dfinityclub.medium.com/" target="_blank" rel="noopener noreferrer">Dfinity Club</a></p>
          <p><a href="https://medium.com/icp-league" target="_blank" rel="noopener noreferrer">ICP League</a></p>
-      </div>
-
-      <div className="card">
-         <h4>Podcasts</h4>
-         <p><a href="https://ic3o3-qiaaa-aaaae-qaaia-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Demergence</a></p>
-         <p><a href="https://twitter.com/dfinitypill" target="_blank" rel="noopener noreferrer">DFINITY Pill</a></p>
-         <p><a href="https://ovwc5-5yaaa-aaaae-qaa5a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Podcrypt</a></p>
-         <p><a href="https://www.icp.report/videos" target="_blank" rel="noopener noreferrer">The IC Report</a></p>
-         <p><a href="https://www.buzzsprout.com/1790339" target="_blank" rel="noopener noreferrer">The IC Weekly</a></p>
       </div>
 
       <div className="card">
