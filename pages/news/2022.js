@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/11 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2022/03/11/internet-computer-coin-has-a-lot-of-room-to-grow/" target="_blank" rel="noopener noreferrer">Internet Computer Coin has a lot of room to grow</a>
+            </div>
             <div className="pagescard">03/08 -&nbsp;
                 <a href="https://medium.com/dfinity/btc-flower-generative-nfts-on-the-internet-computer-bloom-into-dao-559ffc78cb69" target="_blank" rel="noopener noreferrer">BTC Flower: Generative NFTs on the Internet Computer Bloom Into DAO</a>
             </div>
