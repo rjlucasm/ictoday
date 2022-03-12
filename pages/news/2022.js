@@ -18,6 +18,9 @@ export default function News22() {
 
             <div className="pagesgrid">
             <div className="pagescard">03/11 -&nbsp;
+                <a href="https://markets.businessinsider.com/news/stocks/the-dfinity-foundation-expands-its-presence-in-switzerland-with-new-zurich-office-1031274345" target="_blank" rel="noopener noreferrer">The DFINITY Foundation Expands Its Presence in Switzerland With New Zurich Office</a>
+            </div>
+            <div className="pagescard">03/11 -&nbsp;
                 <a href="https://www.thecoinrepublic.com/2022/03/11/internet-computer-coin-has-a-lot-of-room-to-grow/" target="_blank" rel="noopener noreferrer">Internet Computer Coin has a lot of room to grow</a>
             </div>
             <div className="pagescard">03/08 -&nbsp;
