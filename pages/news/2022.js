@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/15 -&nbsp;
+                <a href="https://thenewstack.io/blockchain-direct-http-requests-via-the-internet-computer/" target="_blank" rel="noopener noreferrer">Blockchain Direct HTTP Requests via the Internet Computer</a>
+            </div>
             <div className="pagescard">03/11 -&nbsp;
                 <a href="https://markets.businessinsider.com/news/stocks/the-dfinity-foundation-expands-its-presence-in-switzerland-with-new-zurich-office-1031274345" target="_blank" rel="noopener noreferrer">The DFINITY Foundation Expands Its Presence in Switzerland With New Zurich Office</a>
             </div>
