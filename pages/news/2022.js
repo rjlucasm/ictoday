@@ -22,6 +22,9 @@ export default function News22() {
             </div>
             <div className="pagescard">03/17 -&nbsp;
                 <a href="https://cointelegraph.com/news/internet-computer-founder-s-250m-plan-to-help-end-the-war-in-ukraine" target="_blank" rel="noopener noreferrer">Internet Computer founder&apos;s $250M plan to help end the war in Ukraine</a>
+                <p>Related:&nbsp;
+                <a href="https://www.techtimes.com/articles/273109/20220317/founder-of-dfinity-suggests-paying-russians-250-million-in-crypto-to-watch-whats-happening-in-ukraine.htm" target="_blank" rel="noopener noreferrer">Tech Times</a>,&nbsp;
+                <a href="https://www.tronweekly.com/icp-plans-a-250m-fund-to-help-ukraine-stop-war/" target="_blank" rel="noopener noreferrer">Tronweekly</a></p>
             </div>
             <div className="pagescard">03/15 -&nbsp;
                 <a href="https://thenewstack.io/blockchain-direct-http-requests-via-the-internet-computer/" target="_blank" rel="noopener noreferrer">Blockchain Direct HTTP Requests via the Internet Computer</a>
