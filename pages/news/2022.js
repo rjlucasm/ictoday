@@ -17,6 +17,12 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/17 -&nbsp;
+                <a href="https://trendingnewsbuzz.com/dfinity-and-the-internet-computer-are-introducing-smart-contracts-to-bitcoin/" target="_blank" rel="noopener noreferrer">Dfinity And The Internet Computer Are Introducing Smart Contracts To Bitcoin</a>
+            </div>
+            <div className="pagescard">03/17 -&nbsp;
+                <a href="https://cointelegraph.com/news/internet-computer-founder-s-250m-plan-to-help-end-the-war-in-ukraine" target="_blank" rel="noopener noreferrer">Internet Computer founder&apos;s $250M plan to help end the war in Ukraine</a>
+            </div>
             <div className="pagescard">03/15 -&nbsp;
                 <a href="https://thenewstack.io/blockchain-direct-http-requests-via-the-internet-computer/" target="_blank" rel="noopener noreferrer">Blockchain Direct HTTP Requests via the Internet Computer</a>
             </div>
