@@ -17,6 +17,12 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/18 -&nbsp;
+                <a href="https://www.fool.com/investing/2022/03/18/this-cryptocurrency-could-be-the-next-shiba-inu/" target="_blank" rel="noopener noreferrer">This Under-the-Radar Cryptocurrency Could Be the Next Shiba Inu</a>
+            </div>
+            <div className="pagescard">03/17 -&nbsp;
+                <a href="https://medium.com/dfinity/openchat-dapp-enables-icp-token-transfers-via-instant-message-ef1b12e4ade6" target="_blank" rel="noopener noreferrer">OpenChat Dapp Enables ICP Token Transfers Via Instant Message</a>
+            </div>
             <div className="pagescard">03/17 -&nbsp;
                 <a href="https://trendingnewsbuzz.com/dfinity-and-the-internet-computer-are-introducing-smart-contracts-to-bitcoin/" target="_blank" rel="noopener noreferrer">Dfinity And The Internet Computer Are Introducing Smart Contracts To Bitcoin</a>
             </div>
@@ -24,7 +30,10 @@ export default function News22() {
                 <a href="https://cointelegraph.com/news/internet-computer-founder-s-250m-plan-to-help-end-the-war-in-ukraine" target="_blank" rel="noopener noreferrer">Internet Computer founder&apos;s $250M plan to help end the war in Ukraine</a>
                 <p>Related:&nbsp;
                 <a href="https://www.techtimes.com/articles/273109/20220317/founder-of-dfinity-suggests-paying-russians-250-million-in-crypto-to-watch-whats-happening-in-ukraine.htm" target="_blank" rel="noopener noreferrer">Tech Times</a>,&nbsp;
-                <a href="https://www.tronweekly.com/icp-plans-a-250m-fund-to-help-ukraine-stop-war/" target="_blank" rel="noopener noreferrer">Tronweekly</a></p>
+                <a href="https://www.tronweekly.com/icp-plans-a-250m-fund-to-help-ukraine-stop-war/" target="_blank" rel="noopener noreferrer">Tronweekly</a>,&nbsp;
+                <a href="https://www.digitalmarketnews.com/internet-computer-plans-to-stop-the-war/" target="_blank" rel="noopener noreferrer">DMN</a>,&nbsp;
+                <a href="https://cryptoslate.com/icp-founder-wants-to-incentivize-russians-to-end-the-war/" target="_blank" rel="noopener noreferrer">CryptoSlate</a>,&nbsp;
+                <a href="https://cryptopotato.com/dfinity-foundation-founder-submits-250m-proposal-to-hasten-the-end-of-attacks-on-ukraine/" target="_blank" rel="noopener noreferrer">CryptoPotato</a></p>
             </div>
             <div className="pagescard">03/15 -&nbsp;
                 <a href="https://thenewstack.io/blockchain-direct-http-requests-via-the-internet-computer/" target="_blank" rel="noopener noreferrer">Blockchain Direct HTTP Requests via the Internet Computer</a>
