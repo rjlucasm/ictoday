@@ -33,6 +33,9 @@ export default function NFTs() {
                 <a href="https://hwqwz-ryaaa-aaaai-aasoa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Candy</a> - First software license as an NFT launched on the IC
             </div>
             <div className="pagescard">
+                <a href="https://7pnex-saaaa-aaaai-qbhwa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">CetoSwap</a> - A fungible and non-fungible asset management platform base
+            </div>
+            <div className="pagescard">
                 <a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a> - A Play-to-earn NFT game being developed by ToniqLabs
             </div>
             <div className="pagescard">
