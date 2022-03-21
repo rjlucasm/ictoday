@@ -93,6 +93,9 @@ export default function Watchlist() {
                 <a href="https://getimpactnow.org/" target="_blank" rel="noopener noreferrer">Get Impact Now</a> - Digital platform that enables responsible citizens to be a part of the decision-making process
             </div>
             <div className="pagescard">
+                <a href="http://ic1101.world/" target="_blank" rel="noopener noreferrer">IC1101</a> - Game studio
+            </div>
+            <div className="pagescard">
                 <a href="https://kdc2c-uaaaa-aaaae-qaafq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC Go</a> - Go links for the Internet Computer
             </div>
             <div className="pagescard">
@@ -160,6 +163,9 @@ export default function Watchlist() {
             </div>
             <div className="pagescard">
                 <a href="https://terabethia.ooo/" target="_blank" rel="noopener noreferrer">Terabethia</a> - Bridge between Ethereum and the Internet Computer that allows contracts on both chains to message each other
+            </div>
+            <div className="pagescard">
+                <a href="http://unfoldvr.com/" target="_blank" rel="noopener noreferrer">UnfoldVR</a> - The VR Metaverse on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://fbbjb-oyaaa-aaaah-qaojq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Usergeek</a> - The first decentralised product analytics tool built on the Internet Computer
