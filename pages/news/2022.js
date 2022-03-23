@@ -17,6 +17,12 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/23 -&nbsp;
+                <a href="https://medium.com/dfinity/icme-and-blocks-no-code-development-on-the-internet-computer-1e631dd1b040" target="_blank" rel="noopener noreferrer">ICME and Blocks: No-Code Development on the Internet Computer</a>
+            </div>
+            <div className="pagescard">03/23 -&nbsp;
+                <a href="https://cointelegraph.com/news/internet-computer-eyes-50-move-as-icp-enters-falling-wedge-breakout-territory" target="_blank" rel="noopener noreferrer">Internet Computer eyes 50% move as ICP enters &apos;falling wedge&apos; breakout territory</a>
+            </div>
             <div className="pagescard">03/18 -&nbsp;
                 <a href="https://www.fool.com/investing/2022/03/18/this-cryptocurrency-could-be-the-next-shiba-inu/" target="_blank" rel="noopener noreferrer">This Under-the-Radar Cryptocurrency Could Be the Next Shiba Inu</a>
             </div>
