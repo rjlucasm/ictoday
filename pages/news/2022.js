@@ -17,6 +17,9 @@ export default function News22() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/24 -&nbsp;
+                <a href="https://invezz.com/news/2022/03/24/is-icp-a-good-buy-opportunity-in-april-2022/" target="_blank" rel="noopener noreferrer">Is ICP a good buy opportunity in April 2022?</a>
+            </div>
             <div className="pagescard">03/23 -&nbsp;
                 <a href="https://medium.com/dfinity/icme-and-blocks-no-code-development-on-the-internet-computer-1e631dd1b040" target="_blank" rel="noopener noreferrer">ICME and Blocks: No-Code Development on the Internet Computer</a>
             </div>
