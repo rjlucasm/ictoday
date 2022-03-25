@@ -16,6 +16,8 @@ export default function News21() {
 
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
+            <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
+
             <div className="pagesgrid">
             <div className="pagescard">12/29 -&nbsp;
                 <a href="https://medium.com/dfinity/how-internet-computer-responses-are-certified-as-authentic-2ff1bb1ea659" target="_blank" rel="noopener noreferrer">How Internet Computer Responses Are Certified as Authentic</a>

@@ -16,6 +16,22 @@ export default function NFTs() {
 
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
+            <h3 className="title">Marketplaces</h3>
+
+            <div className="pagesgrid">
+            <div className="pagescard">
+                <a href="https://7pnex-saaaa-aaaai-qbhwa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">CetoSwap</a> - A fungible and non-fungible asset management platform base
+            </div>
+            <div className="pagescard">
+                <a href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Crowd Created Canvas</a> - CCC is the first canvas collaboration and creation platform on Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
+            </div>
+            </div>
+
+            <h3 className="title">Projects</h3>
+
             <div className="pagesgrid">
             <div className="pagescard">
                 <a href="https://twitter.com/a3capas" target="_blank" rel="noopener noreferrer">A3capas</a> - The universo is crashing, powerful creature species must fight to prevail
@@ -33,13 +49,7 @@ export default function NFTs() {
                 <a href="https://hwqwz-ryaaa-aaaai-aasoa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Candy</a> - First software license as an NFT launched on the IC
             </div>
             <div className="pagescard">
-                <a href="https://7pnex-saaaa-aaaai-qbhwa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">CetoSwap</a> - A fungible and non-fungible asset management platform base
-            </div>
-            <div className="pagescard">
                 <a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a> - A Play-to-earn NFT game being developed by ToniqLabs
-            </div>
-            <div className="pagescard">
-                <a href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Crowd Created Canvas</a> - CCC is the first canvas collaboration and creation platform on Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://kn5ky-6iaaa-aaaai-qbikq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Crowdfund NFT</a> - Crowdfunding on the Blockchain, using NFTs
@@ -67,9 +77,6 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://twitter.com/eimolad" target="_blank" rel="noopener noreferrer">Eimolad</a> - Eimolad is a fantasy world full of adventures and populated by the first NFT game characters
-            </div>
-            <div className="pagescard">
-                <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://falling.tech/" target="_blank" rel="noopener noreferrer">FallingStars</a> - 10,000 clone children participating in the fierce wars of a distant galaxy

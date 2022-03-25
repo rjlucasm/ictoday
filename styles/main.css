@@ -12,6 +12,10 @@ a {
   box-sizing: border-box;
 }
 
+h3 {
+  margin-bottom: 0;
+}
+
 .container {
   min-height: 100vh;
   padding: 0 0.3rem;
@@ -96,6 +100,7 @@ a {
 
 .pagescard p {
   margin: 0.5rem 0 0;
+  overflow-wrap: anywhere;
 }
 
 .sitegrid {
