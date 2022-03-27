@@ -28,6 +28,15 @@ export default function NFTs() {
             <div className="pagescard">
                 <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
             </div>
+            <div className="pagescard">
+                <a href="https://gigaversemarket.com/" target="_blank" rel="noopener noreferrer">Gigaverse</a> - Cross-chain NFT marketplace
+            </div>
+            <div className="pagescard">
+                <a href="https://twitter.com/icmarketapp" target="_blank" rel="noopener noreferrer">Icmarket</a> - NFT marketplace deployed on ICP in partnership with <a href="https://nnsdao.org/" target="_blank" rel="noopener noreferrer">NnsDAO</a>
+            </div>
+            <div className="pagescard">
+                <a href="https://tppkg-ziaaa-aaaal-qatrq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Yumi</a> - A gateway to the metaverse
+            </div>
             </div>
 
             <h3 className="title">Projects</h3>
