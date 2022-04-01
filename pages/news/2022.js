@@ -19,6 +19,12 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/29 -&nbsp;
+                <a href="https://medium.com/dfinity/introducing-supernova-the-first-global-internet-computer-hackathon-dbaec18e0fb3" target="_blank" rel="noopener noreferrer">Introducing Supernova, the First Global Internet Computer Hackathon</a>
+            </div>
+            <div className="pagescard">03/29 -&nbsp;
+                <a href="https://www.coinspeaker.com/bridgeless-crypto-blockchain-integrations/" target="_blank" rel="noopener noreferrer">Bridgeless Crypto: Promise of Direct Blockchain Integrations</a>
+            </div>
             <div className="pagescard">03/28 -&nbsp;
                 <a href="https://beincrypto.com/internet-computer-icp-breaks-out-from-176-day-resistance-line/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Breaks Out From 176 Day Resistance Line</a>
             </div>
