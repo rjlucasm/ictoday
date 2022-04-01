@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">04/01 -&nbsp;
+                <a href="https://beincrypto.com/the-internet-computer-we-have-restarted-the-internet-heres-why/" target="_blank" rel="noopener noreferrer">The Internet Computer: We Have Restarted the Internet. Here&apos;s Why.</a>
+            </div>
             <div className="pagescard">03/29 -&nbsp;
                 <a href="https://medium.com/dfinity/introducing-supernova-the-first-global-internet-computer-hackathon-dbaec18e0fb3" target="_blank" rel="noopener noreferrer">Introducing Supernova, the First Global Internet Computer Hackathon</a>
             </div>
