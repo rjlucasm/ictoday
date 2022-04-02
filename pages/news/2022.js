@@ -20,6 +20,9 @@ export default function News22() {
 
             <div className="pagesgrid">
             <div className="pagescard">04/01 -&nbsp;
+                <a href="https://medium.com/the-ic-gallery/a-unity-game-template-for-the-internet-computer-9b44e1c79add" target="_blank" rel="noopener noreferrer">A Unity Game Template for the Internet Computer</a>
+            </div>
+            <div className="pagescard">04/01 -&nbsp;
                 <a href="https://beincrypto.com/the-internet-computer-we-have-restarted-the-internet-heres-why/" target="_blank" rel="noopener noreferrer">The Internet Computer: We Have Restarted the Internet. Here&apos;s Why.</a>
             </div>
             <div className="pagescard">03/29 -&nbsp;
