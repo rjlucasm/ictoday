@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">04/04 -&nbsp;
+                <a href="https://investorplace.com/2022/04/icp-crypto-can-embracing-nfts-help-internet-computer-climb-to-the-top/" target="_blank" rel="noopener noreferrer">ICP Crypto: Can Embracing NFTs Help Internet Computer Climb to the Top?</a>
+            </div>
             <div className="pagescard">04/01 -&nbsp;
                 <a href="https://medium.com/the-ic-gallery/a-unity-game-template-for-the-internet-computer-9b44e1c79add" target="_blank" rel="noopener noreferrer">A Unity Game Template for the Internet Computer</a>
             </div>
