@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">04/07 -&nbsp;
+                <a href="https://medium.com/dfinity/internet-computer-nns-neurons-can-now-be-merged-8b4e44584dc2" target="_blank" rel="noopener noreferrer">Internet Computer NNS Neurons Can Now Be Merged</a>
+            </div>
             <div className="pagescard">04/06 -&nbsp;
                 <a href="https://www.ilounge.com/articles/how-bitcoin-etherium-and-dfinitys-internet-computer-can-be-the-group-of-crypto-heavy-hitters-that-releases-the-open-web" target="_blank" rel="noopener noreferrer">How Bitcoin, Ethereum and Internet Computer Can Be the Group of Crypto Heavy-Hitters That Releases the Open Web</a>
             </div>
