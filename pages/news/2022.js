@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">04/06 -&nbsp;
+                <a href="https://www.ilounge.com/articles/how-bitcoin-etherium-and-dfinitys-internet-computer-can-be-the-group-of-crypto-heavy-hitters-that-releases-the-open-web" target="_blank" rel="noopener noreferrer">How Bitcoin, Ethereum and Internet Computer Can Be the Group of Crypto Heavy-Hitters That Releases the Open Web</a>
+            </div>
             <div className="pagescard">04/04 -&nbsp;
                 <a href="https://investorplace.com/2022/04/icp-crypto-can-embracing-nfts-help-internet-computer-climb-to-the-top/" target="_blank" rel="noopener noreferrer">ICP Crypto: Can Embracing NFTs Help Internet Computer Climb to the Top?</a>
             </div>
