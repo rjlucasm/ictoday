@@ -21,6 +21,9 @@ export default function Services() {
                 <a href="https://axon.ooo/" target="_blank" rel="noopener noreferrer">Axon</a> - Multi-user, multi-neuron management canister
             </div>
             <div className="pagescard">
+                <a href="https://cusyh-iyaaa-aaaah-qcpba-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Canistergeek</a> - Open-source tool for developers to monitor the cycles and memory status of their canister smart contracts
+            </div>
+            <div className="pagescard">
                 <a href="https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Canlista</a> - The Internet Computer community canister registry
             </div>
             <div className="pagescard">
@@ -82,6 +85,9 @@ export default function Services() {
             </div>
             <div className="pagescard">
                 <a href="https://nuah3-ayaaa-aaaad-qa7oa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a> - A friendly place for all of your favorite NFTs on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">NFTgeek</a> - Real-time data about NFT listings, transactions, volume, and minting
             </div>
             <div className="pagescard">
                 <a href="https://raisinrank.com/" target="_blank" rel="noopener noreferrer">Raisin Rank</a> - NFT Analytics
