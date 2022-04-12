@@ -19,6 +19,12 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">04/11 -&nbsp;
+                <a href="https://medium.com/dfinity/blockchain-technology-is-already-rapidly-transforming-software-but-the-internet-computer-is-47fbec098267" target="_blank" rel="noopener noreferrer">Enterprise Software on the Internet Computer Blockchain</a>
+            </div>
+            <div className="pagescard">04/08 -&nbsp;
+                <a href="https://medium.com/dfinity/usergeek-data-analytics-for-dapps-running-on-the-internet-computer-blockchain-decc016348dc" target="_blank" rel="noopener noreferrer">Usergeek: Data Analytics for Dapps Running on the Internet Computer Blockchain</a>
+            </div>
             <div className="pagescard">04/07 -&nbsp;
                 <a href="https://medium.com/dfinity/internet-computer-nns-neurons-can-now-be-merged-8b4e44584dc2" target="_blank" rel="noopener noreferrer">Internet Computer NNS Neurons Can Now Be Merged</a>
             </div>
