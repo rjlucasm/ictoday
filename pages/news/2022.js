@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">04/12 -&nbsp;
+                <a href="https://coincodex.com/article/14198/layer-1-performance-comparing-6-leading-blockchains/" target="_blank" rel="noopener noreferrer">Layer-1 Performance: Comparing 6 Leading Blockchains</a>
+            </div>
             <div className="pagescard">04/11 -&nbsp;
                 <a href="https://medium.com/dfinity/blockchain-technology-is-already-rapidly-transforming-software-but-the-internet-computer-is-47fbec098267" target="_blank" rel="noopener noreferrer">Enterprise Software on the Internet Computer Blockchain</a>
             </div>
