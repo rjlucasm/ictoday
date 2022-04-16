@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">04/15 -&nbsp;
+                <a href="https://klever.finance/learn-more-about-internet-computer-icp/" target="_blank" rel="noopener noreferrer">What is Internet Computer?</a>
+            </div>
             <div className="pagescard">04/12 -&nbsp;
                 <a href="https://coincodex.com/article/14198/layer-1-performance-comparing-6-leading-blockchains/" target="_blank" rel="noopener noreferrer">Layer-1 Performance: Comparing 6 Leading Blockchains</a>
             </div>
