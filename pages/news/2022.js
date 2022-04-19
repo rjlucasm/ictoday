@@ -25,6 +25,9 @@ export default function News22() {
             <div className="pagescard">04/15 -&nbsp;
                 <a href="https://klever.finance/learn-more-about-internet-computer-icp/" target="_blank" rel="noopener noreferrer">What is Internet Computer?</a>
             </div>
+            <div className="pagescard">04/14 -&nbsp;
+                <a href="https://www.accesswire.com/697516/Ex-Cardano-Exec-Eva-Oberholzer-Joins-DFINITY-as-Chief-Growth-Officer" target="_blank" rel="noopener noreferrer">Ex-Cardano Exec Eva Oberholzer Joins DFINITY as Chief Growth Officer</a>
+            </div>
             <div className="pagescard">04/12 -&nbsp;
                 <a href="https://coincodex.com/article/14198/layer-1-performance-comparing-6-leading-blockchains/" target="_blank" rel="noopener noreferrer">Layer-1 Performance: Comparing 6 Leading Blockchains</a>
             </div>
