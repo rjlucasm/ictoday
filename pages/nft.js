@@ -82,6 +82,9 @@ export default function NFTs() {
                 <a href="https://twitter.com/DfinitySheep" target="_blank" rel="noopener noreferrer">Dfinity Nuclear Sheep</a> - 10,000 Super sheep
             </div>
             <div className="pagescard">
+                <a href="https://dfinityrats.io/" target="_blank" rel="noopener noreferrer">Dfinity Rats</a> - Next generation P2E game combining art, comedy, and gameplay
+            </div>
+            <div className="pagescard">
                 <a href="https://hzuo4-qiaaa-aaaag-qaarq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Dfinity Space Apes</a> - 10,000 Space Apes on the Internet Computer
             </div>
             <div className="pagescard">
@@ -208,6 +211,9 @@ export default function NFTs() {
                 <a href="https://twitter.com/ICVibesters" target="_blank" rel="noopener noreferrer">ICVibesters</a> - Vibesters is a community-driven, collectible NFT project with Interactive avatars in the IC Metaverse
             </div>
             <div className="pagescard">
+                <a href="https://icikuzo.com/" target="_blank" rel="noopener noreferrer">Ikuzo</a> - 5555 NFTs in the Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://www.infernalvampires.com/" target="_blank" rel="noopener noreferrer">Infernal Vampire Colony</a> - 666 randomly generated Vampires
             </div>
             <div className="pagescard">
@@ -239,6 +245,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://www.origyn.ch/" target="_blank" rel="noopener noreferrer">Origyn</a> - Blending luxury goods, with NFTs by providing digital verifications for physical objects
+            </div>
+            <div className="pagescard">
+                <a href="https://phasma.io/" target="_blank" rel="noopener noreferrer">PHASMA</a> - 5,000 unique PHASMAs on IC
             </div>
             <div className="pagescard">
                 <a href="https://www.pokedstudiobotsnft.co.uk/" target="_blank" rel="noopener noreferrer">Pokedstudio BOTS</a> - A collection of 10,000 individual ROBOTS
