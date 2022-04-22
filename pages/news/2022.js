@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">04/22 -&nbsp;
+                <a href="https://klever.finance/the-power-of-internet-computer-ic-and-its-icp-tokens/" target="_blank" rel="noopener noreferrer">The power of Internet Computer (IC) and its ICP tokens</a>
+            </div>
             <div className="pagescard">04/18 -&nbsp;
                 <a href="https://www.digitaljournal.com/pr/dfinitys-icp-bitcoin-and-ethereum-what-threshold-ecdsa-signing-means-for-crypto" target="_blank" rel="noopener noreferrer">Dfinity&apos;s ICP, Bitcoin, and Ethereum: What Threshold ECDSA Signing Means For Crypto</a>
             </div>
