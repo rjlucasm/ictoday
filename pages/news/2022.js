@@ -23,7 +23,7 @@ export default function News22() {
                 <a href="https://medium.com/dfinity/how-to-stake-icp-tokens-and-earn-rewards-using-the-nns-front-end-dapp-5059130652b7" target="_blank" rel="noopener noreferrer">How to Stake ICP Tokens and Earn Rewards Using the NNS Front-End Dapp</a>
             </div>
             <div className="pagescard">04/29 -&nbsp;
-                <a href="https://cointelegraph.com/news/internet-computer-s-origyn-is-watching-the-watches-using-nft-authentication" target="_blank" rel="noopener noreferrer">Internet Computer's ORIGYN is watching the watches using NFT authentication</a>
+                <a href="https://cointelegraph.com/news/internet-computer-s-origyn-is-watching-the-watches-using-nft-authentication" target="_blank" rel="noopener noreferrer">Internet Computer&apos;s ORIGYN is watching the watches using NFT authentication</a>
             </div>
             <div className="pagescard">04/22 -&nbsp;
                 <a href="https://klever.finance/the-power-of-internet-computer-ic-and-its-icp-tokens/" target="_blank" rel="noopener noreferrer">The power of Internet Computer (IC) and its ICP tokens</a>
