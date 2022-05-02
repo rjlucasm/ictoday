@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">05/02 -&nbsp;
+                <a href="https://medium.com/dfinity/the-internet-computers-bitcoin-integration-nears-completion-2b9b3a874b9c" target="_blank" rel="noopener noreferrer">The Internet Computer&apos;s Bitcoin Integration Nears Completion</a>
+            </div>
             <div className="pagescard">04/29 -&nbsp;
                 <a href="https://medium.com/dfinity/how-to-stake-icp-tokens-and-earn-rewards-using-the-nns-front-end-dapp-5059130652b7" target="_blank" rel="noopener noreferrer">How to Stake ICP Tokens and Earn Rewards Using the NNS Front-End Dapp</a>
             </div>
