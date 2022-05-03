@@ -20,6 +20,9 @@ export default function News22() {
 
             <div className="pagesgrid">
             <div className="pagescard">05/02 -&nbsp;
+                <a href="https://cointelegraph.com/news/dfinity-foundation-files-lawsuit-against-meta-over-infinity-logo" target="_blank" rel="noopener noreferrer">Dfinity Foundation files lawsuit against Meta over infinity logo</a>
+            </div>
+            <div className="pagescard">05/02 -&nbsp;
                 <a href="https://medium.com/dfinity/the-internet-computers-bitcoin-integration-nears-completion-2b9b3a874b9c" target="_blank" rel="noopener noreferrer">The Internet Computer&apos;s Bitcoin Integration Nears Completion</a>
             </div>
             <div className="pagescard">04/29 -&nbsp;
