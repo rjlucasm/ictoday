@@ -119,15 +119,15 @@ export default function Watchlist() {
             <div className="pagescard">
                 <a href="http://icproposal.co/" target="_blank" rel="noopener noreferrer">ICProposal</a> - A transparent, sustainable and community-driven DAO on Internet Computer
             </div>
-            <div className="pagescard">
+            {/* <div className="pagescard">
                 <a href="https://icpswap.com/" target="_blank" rel="noopener noreferrer">ICPSwap</a> - The Hub of Future Decentralized Finance
-            </div>
+            </div> */}
             <div className="pagescard">
                 <a href="http://icwallet.org/" target="_blank" rel="noopener noreferrer">ICWallet</a> - Your gateway to Dfinity ecosystem
             </div>
-            <div className="pagescard">
+            {/* <div className="pagescard">
                 <a href="https://infinityswap.one/" target="_blank" rel="noopener noreferrer">Infinity Swap</a> - A platform to create, stake and swap Dfinity tokens
-            </div>
+            </div> */}
             <div className="pagescard">
                 <a href="https://nceop-maaaa-aaaae-qaavq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">JSONIC</a> - The first EXT token written in TypeScript/JavaScript and deployed to the Internet Computer
             </div>
@@ -158,9 +158,9 @@ export default function Watchlist() {
             <div className="pagescard">
                 <a href="https://c3qag-6yaaa-aaaah-aaqta-cai.ic0.app/" target="_blank" rel="noopener noreferrer">SkyDocs</a> - Decentralized Google Docs alternative
             </div>
-            <div className="pagescard">
+            {/* <div className="pagescard">
                 <a href="https://sonic.ooo/" target="_blank" rel="noopener noreferrer">Sonic</a> - Swap tokens, earn fees as a liquidity provider, &amp; build on the Internet Computer&apos;s AMM
-            </div>
+            </div> */}
             <div className="pagescard">
                 <a href="https://terabethia.ooo/" target="_blank" rel="noopener noreferrer">Terabethia</a> - Bridge between Ethereum and the Internet Computer that allows contracts on both chains to message each other
             </div>

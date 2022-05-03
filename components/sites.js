@@ -95,6 +95,13 @@ const Sites = () => (
       </div>
 
       <div className="card">
+         <h4>DeFi</h4> 
+         <p><a href="https://icpswap.com/" target="_blank" rel="noopener noreferrer">ICPSwap</a></p>
+         <p><a href="https://infinityswap.one/" target="_blank" rel="noopener noreferrer">Infinity Swap</a></p>
+         <p><a href="https://sonic.ooo/" target="_blank" rel="noopener noreferrer">Sonic</a></p>
+      </div>
+
+      <div className="card">
          <Link href="/nft"><a><h4>NFTs</h4></a></Link>
          <p><a href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">CCC</a></p>
          <p><a href="https://7pnex-saaaa-aaaai-qbhwa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">CetoSwap</a></p>
