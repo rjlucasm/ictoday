@@ -19,6 +19,15 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">05/07 -&nbsp;
+                <a href="https://forcecommunity-official.medium.com/1st-anniversary-of-dfinity-mainnet-launch-leading-the-open-internet-boom-44018be6877" target="_blank" rel="noopener noreferrer">1st Anniversary of DFINITY Mainnet Launch: Leading the Open Internet Boom</a>
+            </div>
+            <div className="pagescard">05/05 -&nbsp;
+                <a href="https://medium.com/@talkingweb3/what-is-gas-fees-on-blockchain-transactions-how-is-icp-reversing-the-model-d1901a70347a" target="_blank" rel="noopener noreferrer">Zero &apos;Gas Fees&apos; —now made possible on the Internet Computer</a>
+            </div>
+            <div className="pagescard">05/04 -&nbsp;
+                <a href="https://medium.com/@InfinitySwap_Editor/bitcoin-integration-coming-to-the-internet-computer-and-infinityswap-a6a89c1e32b1" target="_blank" rel="noopener noreferrer">Bitcoin Integration Coming to the Internet Computer and InfinitySwap</a>
+            </div>
             <div className="pagescard">05/02 -&nbsp;
                 <a href="https://cointelegraph.com/news/dfinity-foundation-files-lawsuit-against-meta-over-infinity-logo" target="_blank" rel="noopener noreferrer">Dfinity Foundation files lawsuit against Meta over infinity logo</a>
             </div>
