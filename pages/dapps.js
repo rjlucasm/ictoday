@@ -27,6 +27,9 @@ export default function Dapps() {
                 <a href="https://dsocial.app" target="_blank" rel="noopener noreferrer">DSocial</a> - Decentralised &amp; censorship-resistant version of YouTube
             </div>
             <div className="pagescard">
+                <a href="http://gobazzinga.io/" target="_blank" rel="noopener noreferrer">GoBazzinga</a> - World&apos;s first decentralised &apos;Short-Video X Draft Kings&apos; social speculation platform
+            </div>
+            <div className="pagescard">
                 <a href="http://icdrive.co/" target="_blank" rel="noopener noreferrer">IC Drive</a> - A decentralized private storage app built on the Internet Computer
             </div>
             <div className="pagescard">
