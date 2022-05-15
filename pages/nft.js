@@ -91,9 +91,6 @@ export default function NFTs() {
                 <a href="https://twitter.com/eimolad" target="_blank" rel="noopener noreferrer">Eimolad</a> - Eimolad is a fantasy world full of adventures and populated by the first NFT game characters
             </div>
             <div className="pagescard">
-                <a href="https://falling.tech/" target="_blank" rel="noopener noreferrer">FallingStars</a> - 10,000 clone children participating in the fierce wars of a distant galaxy
-            </div>
-            <div className="pagescard">
                 <a href="https://twitter.com/feminiverse" target="_blank" rel="noopener noreferrer">Feminiverse</a> - The first 10k feminism inspired NFTs living on the ICP
             </div>
             <div className="pagescard">
