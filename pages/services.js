@@ -57,7 +57,7 @@ export default function Services() {
                 <a href="https://xe5ii-jiaaa-aaaaf-qaaya-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Picture Thing</a> - Upload and Share Images on the IC
             </div>
             <div className="pagescard">
-                <a href="https://dfinityapps.co/" target="_blank" rel="noopener noreferrer">iCAN</a> - The best easy-to-use canister management platform on Internet Computer
+                <a href="https://icantool.app/" target="_blank" rel="noopener noreferrer">iCAN</a> - The best easy-to-use canister management platform on Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://dfinityapps.co/" target="_blank" rel="noopener noreferrer">IcApps</a> - A list of apps powered by Internet Computer
