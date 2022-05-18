@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">05/18 -&nbsp;
+                <a href="https://medium.com/@roman.dobrik_82860/developing-enterprise-applications-with-the-internet-computer-using-java-agent-70b08f4d5300" target="_blank" rel="noopener noreferrer">Developing Enterprise Applications with the Internet Computer using Java Agent</a>
+            </div>
             <div className="pagescard">05/07 -&nbsp;
                 <a href="https://forcecommunity-official.medium.com/1st-anniversary-of-dfinity-mainnet-launch-leading-the-open-internet-boom-44018be6877" target="_blank" rel="noopener noreferrer">1st Anniversary of DFINITY Mainnet Launch: Leading the Open Internet Boom</a>
             </div>
