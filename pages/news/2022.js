@@ -20,6 +20,9 @@ export default function News22() {
 
             <div className="pagesgrid">
             <div className="pagescard">05/18 -&nbsp;
+                <a href="https://www.accesswire.com/701908/Foresight-Ventures-Sponsoring-DFINITY-Supernova-Hackathon-to-Bring-Next-Generation-of-Web3-Projects-to-Life" target="_blank" rel="noopener noreferrer">Foresight Ventures Sponsoring DFINITY Supernova Hackathon to Bring Next Generation of Web3 Projects to Life</a>
+            </div>
+            <div className="pagescard">05/18 -&nbsp;
                 <a href="https://medium.com/@roman.dobrik_82860/developing-enterprise-applications-with-the-internet-computer-using-java-agent-70b08f4d5300" target="_blank" rel="noopener noreferrer">Developing Enterprise Applications with the Internet Computer using Java Agent</a>
             </div>
             <div className="pagescard">05/07 -&nbsp;
