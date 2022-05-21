@@ -87,6 +87,9 @@ export default function Watchlist() {
                 <a href="https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Dstar</a> - Get your favorite Internet Identity numbers
             </div>
             <div className="pagescard">
+                <a href="https://finterest.ooo/" target="_blank" rel="noopener noreferrer">Finterest</a> - The first Borrow/Lending Protocol on The Internet Computer supporting native Bitcoin
+            </div>
+            <div className="pagescard">
                 <a href="https://fleek.ooo/" target="_blank" rel="noopener noreferrer">Fleek.ooo</a> - Easily build, deploy, and manage canisters, cycles, apps, &amp; infrastructure on Internet Computer
             </div>
             <div className="pagescard">
@@ -132,6 +135,9 @@ export default function Watchlist() {
                 <a href="https://nceop-maaaa-aaaae-qaavq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">JSONIC</a> - The first EXT token written in TypeScript/JavaScript and deployed to the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://twitter.com/kinic_app" target="_blank" rel="noopener noreferrer">Kinic</a> - Search re-imagined for web3. Front-end canister explorer
+            </div>
+            <div className="pagescard">
                 <a href="https://learnd.dedn.eu/" target="_blank" rel="noopener noreferrer">LEARND</a> - Community driven educational platform running on Internet Computer
             </div>
             <div className="pagescard">
@@ -156,7 +162,13 @@ export default function Watchlist() {
                 <a href="https://ratels.app/" target="_blank" rel="noopener noreferrer">Ratels</a> - The most personalized crypto wallet on the IC
             </div>
             <div className="pagescard">
+                <a href="http://seers.bet/" target="_blank" rel="noopener noreferrer">Seers</a> - Social Network for forecasting. Prediction Markets and much more
+            </div>
+            <div className="pagescard">
                 <a href="https://c3qag-6yaaa-aaaah-aaqta-cai.ic0.app/" target="_blank" rel="noopener noreferrer">SkyDocs</a> - Decentralized Google Docs alternative
+            </div>
+            <div className="pagescard">
+                <a href="https://spinner.cash/" target="_blank" rel="noopener noreferrer">Spinner</a> - Private transactions for ICP and BTC
             </div>
             {/* <div className="pagescard">
                 <a href="https://sonic.ooo/" target="_blank" rel="noopener noreferrer">Sonic</a> - Swap tokens, earn fees as a liquidity provider, &amp; build on the Internet Computer&apos;s AMM
