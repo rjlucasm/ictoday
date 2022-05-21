@@ -35,6 +35,9 @@ export default function NFTs() {
                 <a href="http://icmarket.app/" target="_blank" rel="noopener noreferrer">Icmarket</a> - NFT marketplace deployed on ICP in partnership with <a href="https://nnsdao.org/" target="_blank" rel="noopener noreferrer">NnsDAO</a>
             </div>
             <div className="pagescard">
+                <a href="https://jelly.xyz/" target="_blank" rel="noopener noreferrer">Jelly</a> - NFT Tools &amp; Marketplace Infrastructure
+            </div>
+            <div className="pagescard">
                 <a href="https://tppkg-ziaaa-aaaal-qatrq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Yumi</a> - A gateway to the metaverse
             </div>
             </div>
