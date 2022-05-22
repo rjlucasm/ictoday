@@ -81,6 +81,9 @@ export default function Services() {
                 <a href="https://identity.ic0.app/" target="_blank" rel="noopener noreferrer">Internet Identity</a> - Sign in to dapps on the IC and sites across the web anonymously and securely
             </div>
             <div className="pagescard">
+                <a href="https://kinic.io" target="_blank" rel="noopener noreferrer">Kinic</a> - Search re-imagined for web3. Front-end canister explorer
+            </div>
+            <div className="pagescard">
                 <a href="https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Motoko Playground</a> - Web IDE for developers to learn Motoko
             </div>
             <div className="pagescard">

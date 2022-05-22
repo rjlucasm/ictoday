@@ -135,9 +135,6 @@ export default function Watchlist() {
                 <a href="https://nceop-maaaa-aaaae-qaavq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">JSONIC</a> - The first EXT token written in TypeScript/JavaScript and deployed to the Internet Computer
             </div>
             <div className="pagescard">
-                <a href="https://twitter.com/kinic_app" target="_blank" rel="noopener noreferrer">Kinic</a> - Search re-imagined for web3. Front-end canister explorer
-            </div>
-            <div className="pagescard">
                 <a href="https://learnd.dedn.eu/" target="_blank" rel="noopener noreferrer">LEARND</a> - Community driven educational platform running on Internet Computer
             </div>
             <div className="pagescard">
