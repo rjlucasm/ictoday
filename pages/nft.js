@@ -229,6 +229,9 @@ export default function NFTs() {
                 <a href="https://twitter.com/juicykicksnft" target="_blank" rel="noopener noreferrer">Juicy Kicks</a> - 10,000 generated NFT fruit with kicks
             </div>
             <div className="pagescard">
+                <a href="https://kontribute.app/" target="_blank" rel="noopener noreferrer">Kontribute</a> - Interactive dapp that brings together readers, writers and NFTs
+            </div>
+            <div className="pagescard">
                 <a href="https://twitter.com/NewsieCartoon" target="_blank" rel="noopener noreferrer">Newsie</a> - Comic book and NFT collection
             </div>
             <div className="pagescard">
