@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">05/24 -&nbsp;
+                <a href="https://www.blog.infinityswap.one/dfinitys-titanium-milestone-is-good-news-for-defi-enthusiasts/" target="_blank" rel="noopener noreferrer">DFINITY's Titanium Milestone Is Good News for DeFi Enthusiasts</a>
+            </div>
             <div className="pagescard">05/18 -&nbsp;
                 <a href="https://www.accesswire.com/701908/Foresight-Ventures-Sponsoring-DFINITY-Supernova-Hackathon-to-Bring-Next-Generation-of-Web3-Projects-to-Life" target="_blank" rel="noopener noreferrer">Foresight Ventures Sponsoring DFINITY Supernova Hackathon to Bring Next Generation of Web3 Projects to Life</a>
             </div>
