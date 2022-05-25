@@ -63,13 +63,22 @@ export default function Games() {
                 <a href="https://avpoh-raaaa-aaaad-qavua-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">EZCraft</a> - Simple remake of the classic Minecraft game
             </div>
             <div className="pagescard">
+                <a href="https://jlsls-yaaaa-aaaah-aaoia-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Flappy Bird</a> - Another Flappy Bird clone
+            </div>
+            <div className="pagescard">
                 <a href="https://bjv3y-niaaa-aaaah-aadsq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Fly Aves</a> - Flappy Bird style game
             </div>
             <div className="pagescard">
                 <a href="https://zxkrk-xyaaa-aaaad-qad5q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Fudbuster</a> - Platform game created using Unity’s game engine
             </div>
             <div className="pagescard">
+                <a href="https://ucclg-dqaaa-aaaah-qanca-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Hexa Battle</a> - Assemble your party of heroes and venture into the dungeon
+            </div>
+            <div className="pagescard">
                 <a href="https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">HexGL</a> - A futuristic, fast-paced racing game built by BKcore
+            </div>
+            <div className="pagescard">
+                <a href="https://yqtpa-pqaaa-aaaan-qadba-cai.raw.ic0.app/game" target="_blank" rel="noopener noreferrer">IC Birds</a> - Play with your Birds NFTs
             </div>
             <div className="pagescard">
                 <a href="https://icmojis.com/" target="_blank" rel="noopener noreferrer">ICmoji Origins</a> - On-chain NFT strategy game
@@ -96,10 +105,16 @@ export default function Games() {
                 <a href="https://bjee7-laaaa-aaaad-qbina-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">NiFTy Hextris</a> - Browser based game where players can claim NFT collectibles
             </div>
             <div className="pagescard">
+                <a href="https://jmtng-vyaaa-aaaah-aaoiq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">P2BALL</a> - Puzzle game
+            </div>
+            <div className="pagescard">
                 <a href="https://y5ftq-viaaa-aaaad-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Pacman</a> - HTML5 Pacman
             </div>
             <div className="pagescard">
                 <a href="https://lm5fh-ayaaa-aaaah-aafua-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Poker</a> - Texas holdEm on Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://iaaxr-3yaaa-aaaai-aaacq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Radius Raid</a> - Space themed shoot&apos;em up where you must blast away unrelenting enemies before they destroy you
             </div>
             {/* <div className="pagescard">
                 <a href="https://ouuvz-kiaaa-aaaah-qad3q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Plants vs. Zombies</a> - Classic strategy game ported to IC
@@ -141,7 +156,16 @@ export default function Games() {
                 <a href="https://qwbig-wiaaa-aaaad-qaobq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">The Angler</a> - Fish hunting game
             </div>
             <div className="pagescard">
+                <a href="https://dfz3l-kiaaa-aaaah-aaeda-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">The Last Spartan</a> - Cut your enemies to pieces and defend your homeland
+            </div>
+            <div className="pagescard">
                 <a href="https://6jgp5-riaaa-aaaai-aapuq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Tiny Racing</a> - Racing game made with Unity
+            </div>
+            <div className="pagescard">
+                <a href="https://33igv-uaaaa-aaaam-aaa5a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Triip</a> - Magic memory game
+            </div>
+            <div className="pagescard">
+                <a href="http://trueodds.io/" target="_blank" rel="noopener noreferrer">True Odds</a> - Provably fair gambling dApp
             </div>
             <div className="pagescard">
                 <a href="https://lc7ip-3iaaa-aaaah-aafva-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Welcome into the Metaverse!</a> - Explore the Internet Computer and its community
