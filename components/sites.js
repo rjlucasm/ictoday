@@ -34,10 +34,10 @@ const Sites = () => (
          <Link href="/services"><a><h4>Services</h4></a></Link>
          <p><a href="https://faucet.dfinity.org/auth" target="_blank" rel="noopener noreferrer">Cycles Faucet</a></p>
          <p><a href="https://identity.ic0.app/" target="_blank" rel="noopener noreferrer">Internet Identity</a></p>
-         <p><a href="https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Motoko Playground</a></p>
          <p><a href="https://networknervoussystem.com/" target="_blank" rel="noopener noreferrer">Neuron Calculator</a></p>
          <p><a href="https://icp.guide/" target="_blank" rel="noopener noreferrer">ICP Guide</a></p>
-         <p><a href="https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Canlista</a></p>
+         <p><a href="https://icns.id/" target="_blank" rel="noopener noreferrer">ICNS</a></p>
+         <p><a href="https://kinic.io/" target="_blank" rel="noopener noreferrer">Kinic</a></p>
        </div>
 
        <div className="card">
