@@ -42,6 +42,38 @@ export default function NFTs() {
             </div>
             </div>
 
+            <h3 className="title">Services</h3>
+
+            <div className="pagesgrid">
+            <div className="pagescard">
+                <a href="https://kn5ky-6iaaa-aaaai-qbikq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Crowdfund NFT</a> - Crowdfunding on the Blockchain, using NFTs
+            </div>
+            <div className="pagescard">
+                <a href="https://www.dgastonia.com/nfts/collections/" target="_blank" rel="noopener noreferrer">Dgastonia</a> - The most comprehensive browsing experience for NFTs on The IC
+            </div>
+            <div className="pagescard">
+                <a href="https://hatch.market/" target="_blank" rel="noopener noreferrer">Hatch</a> - Mint your own NFT collection, customize your metadata, and configure your sale, all without touching a single line of code
+            </div>
+            <div className="pagescard">
+                <a href="https://pn6k5-zaaaa-aaaan-qaa6a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">IC NFT Floor</a> - Calculate floor value of NFTs
+            </div>
+            <div className="pagescard">
+                <a href="https://nntkg-vqaaa-aaaad-qamfa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">NFT Village</a> - A friendly place for all of your favorite NFTs on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://nuah3-ayaaa-aaaad-qa7oa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">NFT Village V2</a> - A friendly place for all of your favorite NFTs on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://nftanvil.com/" target="_blank" rel="noopener noreferrer">Nftanvil</a> - NFT minting on the Internet Computer
+            </div>
+            <div className="pagescard">
+                <a href="https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">NFTgeek</a> - Real-time data about NFT listings, transactions, volume, and minting
+            </div>
+            <div className="pagescard">
+                <a href="https://raisinrank.com/" target="_blank" rel="noopener noreferrer">Raisin Rank</a> - NFT Analytics
+            </div>
+            </div>
+
             <h3 className="title">Projects</h3>
 
             <div className="pagesgrid">
@@ -62,9 +94,6 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://cronic.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Cronic</a> - A Play-to-earn NFT game being developed by ToniqLabs
-            </div>
-            <div className="pagescard">
-                <a href="https://kn5ky-6iaaa-aaaai-qbikq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Crowdfund NFT</a> - Crowdfunding on the Blockchain, using NFTs
             </div>
             <div className="pagescard">
                 <a href="https://crowns.ooo/" target="_blank" rel="noopener noreferrer">Crowns</a> - A collection of 10,000 uniquely generated NFTs with different levels of rarity showcasing our latest product, <a href="https://cap.ooo/" target="_blank" rel="noopener noreferrer">CAP</a>
@@ -238,15 +267,6 @@ export default function NFTs() {
                 <a href="http://nftstudio.biz/" target="_blank" rel="noopener noreferrer">NFT Studio</a> - Mint, buy and sell 3DWASM NFTs
             </div>
             <div className="pagescard">
-                <a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a> - A friendly place for all of your favorite NFTs on the Internet Computer
-            </div>
-            <div className="pagescard">
-                <a href="https://nuah3-ayaaa-aaaad-qa7oa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village V2</a> - A friendly place for all of your favorite NFTs on the Internet Computer
-            </div>
-            <div className="pagescard">
-                <a href="https://nftanvil.com/" target="_blank" rel="noopener noreferrer">Nftanvil</a> - NFT minting on the Internet Computer
-            </div>
-            <div className="pagescard">
                 <a href="https://www.origyn.ch/" target="_blank" rel="noopener noreferrer">Origyn</a> - Blending luxury goods, with NFTs by providing digital verifications for physical objects
             </div>
             <div className="pagescard">
@@ -254,9 +274,6 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://www.pokedstudiobotsnft.co.uk/" target="_blank" rel="noopener noreferrer">Pokedstudio BOTS</a> - A collection of 10,000 individual ROBOTS
-            </div>
-            <div className="pagescard">
-                <a href="https://raisinrank.com/" target="_blank" rel="noopener noreferrer">Raisin Rank</a> - NFT Analytics
             </div>
             <div className="pagescard">
                 <a href="https://starverse.toniqlabs.com/" target="_blank" rel="noopener noreferrer">Starverse</a> - NFT collection of rare and unique Stars
