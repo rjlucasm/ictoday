@@ -19,6 +19,12 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">06/09 -&nbsp;
+                <a href="https://cryptoleaks.info/case-no-2" target="_blank" rel="noopener noreferrer">New York Times elevates Arkham Intelligence, and causes billions in damages to ICP holders</a>
+            </div>
+            <div className="pagescard">06/09 -&nbsp;
+                <a href="https://cryptoleaks.info/case-no-1" target="_blank" rel="noopener noreferrer">The multi-billion dollar attack on ICP token holders — which resulted from market manipulation on FTX</a>
+            </div>
             <div className="pagescard">06/01 -&nbsp;
                 <a href="https://medium.com/@talkingweb3/a-blockchain-greener-than-google-727fb7bbe574" target="_blank" rel="noopener noreferrer">The Internet Computer — A blockchain greener than Google</a>
             </div>
