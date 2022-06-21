@@ -26,6 +26,9 @@ export default function NFTs() {
                 <a href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Crowd Created Canvas</a> - CCC is the first canvas collaboration and creation platform on Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://n5eqg-pqaaa-aaaak-ab3aa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">CrowdFund NFT Marketplace</a> - Secondary marketplace to trade NFTs from successfully funded projects on CrowdFund NFT
+            </div>
+            <div className="pagescard">
                 <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
             </div>
             <div className="pagescard">
