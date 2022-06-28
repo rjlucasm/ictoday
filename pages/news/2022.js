@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">06/27 -&nbsp;
+                <a href="https://medium.com/dfinity/threshold-ecdsa-the-key-ingredient-behind-the-internet-computers-bitcoin-and-ethereum-cf22649b98a1" target="_blank" rel="noopener noreferrer">Threshold ECDSA: The Key Ingredient Behind the Internet Computer&apos;s Bitcoin and Ethereum Integrations</a>
+            </div>
             <div className="pagescard">06/09 -&nbsp;
                 <a href="https://cryptoleaks.info/case-no-2" target="_blank" rel="noopener noreferrer">New York Times elevates Arkham Intelligence, and causes billions in damages to ICP holders</a>
             </div>
