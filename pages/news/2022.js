@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">06/28 -&nbsp;
+                <a href="https://www.prnewswire.com/news-releases/dfinity-foundation-files-defamation-lawsuit-against-the-new-york-times-and-star-business-reporter-andrew-ross-sorkin-among-others-301577279.html" target="_blank" rel="noopener noreferrer">Dfinity Foundation Files Defamation Lawsuit Against The New York Times and Star Business Reporter Andrew Ross Sorkin Among Others</a>
+            </div>
             <div className="pagescard">06/27 -&nbsp;
                 <a href="https://medium.com/dfinity/threshold-ecdsa-the-key-ingredient-behind-the-internet-computers-bitcoin-and-ethereum-cf22649b98a1" target="_blank" rel="noopener noreferrer">Threshold ECDSA: The Key Ingredient Behind the Internet Computer&apos;s Bitcoin and Ethereum Integrations</a>
             </div>
