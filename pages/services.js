@@ -66,6 +66,9 @@ export default function Services() {
                 <a href="https://znisf-eqaaa-aaaaj-aabta-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICEvent</a> - An open event service. Publish, subscribe, collaborate, communicate..
             </div>
             <div className="pagescard">
+                <a href="https://icjobs.app/" target="_blank" rel="noopener noreferrer">ICJobs</a> - Remote only jobs specifically for the Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://sygsn-caaaa-aaaaf-qaahq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICME</a> - A no-code website builder
             </div>
             <div className="pagescard">
