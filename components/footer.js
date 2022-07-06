@@ -16,7 +16,7 @@ const Footer = () => (
         |
 
         <span>
-            <a style={{ color: 'blue' }} href="https://ic.rocks/account/5a8d75e42bf41fd4eb91a25ea2bd8fcb9ffbad8bcd2dd7c16f9f9304b702c5fb" target="_blank" rel="noopener noreferrer">Donate</a>
+            <a style={{ color: 'blue' }} href="https://icscan.io/account/5a8d75e42bf41fd4eb91a25ea2bd8fcb9ffbad8bcd2dd7c16f9f9304b702c5fb" target="_blank" rel="noopener noreferrer">Donate</a>
         </span>
     </footer>
 );
