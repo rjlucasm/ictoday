@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">07/07 -&nbsp;
+                <a href="https://www.bitcoininsider.org/article/174174/internet-computer-hackathon-supernova-attracted-3633-blockchain-developers-resulting" target="_blank" rel="noopener noreferrer">Internet Computer Hackathon &apos;Supernova&apos; attracted 3,633 blockchain developers resulting in several breakthroughs in Web3</a>
+            </div>
             <div className="pagescard">06/28 -&nbsp;
                 <a href="https://www.prnewswire.com/news-releases/dfinity-foundation-files-defamation-lawsuit-against-the-new-york-times-and-star-business-reporter-andrew-ross-sorkin-among-others-301577279.html" target="_blank" rel="noopener noreferrer">Dfinity Foundation Files Defamation Lawsuit Against The New York Times and Star Business Reporter Andrew Ross Sorkin Among Others</a>
             </div>
