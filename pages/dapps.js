@@ -48,6 +48,12 @@ export default function Dapps() {
                 <a href="https://portal.one/" target="_blank" rel="noopener noreferrer">Portal</a> - Decentralized live streaming service
             </div>
             <div className="pagescard">
+                <a href="https://th2xf-nyaaa-aaaap-qaitq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Seachan</a> - Censorship resistant decentralized fileboard
+            </div>
+            <div className="pagescard">
+                <a href="http://seers.bet/" target="_blank" rel="noopener noreferrer">Seers</a> - Social Network for forecasting. Prediction Markets and much more
+            </div>
+            <div className="pagescard">
                 <a href="http://taggr.top/" target="_blank" rel="noopener noreferrer">Taggr</a> - An experimental social network
             </div>
             <div className="pagescard">

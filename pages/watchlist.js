@@ -159,9 +159,6 @@ export default function Watchlist() {
                 <a href="https://ratels.app/" target="_blank" rel="noopener noreferrer">Ratels</a> - The most personalized crypto wallet on the IC
             </div>
             <div className="pagescard">
-                <a href="http://seers.bet/" target="_blank" rel="noopener noreferrer">Seers</a> - Social Network for forecasting. Prediction Markets and much more
-            </div>
-            <div className="pagescard">
                 <a href="https://c3qag-6yaaa-aaaah-aaqta-cai.ic0.app/" target="_blank" rel="noopener noreferrer">SkyDocs</a> - Decentralized Google Docs alternative
             </div>
             <div className="pagescard">
