@@ -25,7 +25,7 @@ const Sites = () => (
        <div className="card">
          <h4>Explorers</h4> 
          {/* <p><a href="https://ic.rocks/" target="_blank" rel="noopener noreferrer">IC Rocks</a></p> */}
-         {/* <p><a href="https://www.dfinityexplorer.org/#/" target="_blank" rel="noopener noreferrer">Dfinity Explorer</a></p> */}
+         <p><a href="https://www.icpexplorer.org/#/" target="_blank" rel="noopener noreferrer">ICP Explorer</a></p>
          <p><a href="https://dashboard.internetcomputer.org/" target="_blank" rel="noopener noreferrer">Network Status</a></p>
          <p><a href="https://sznps-4aaaa-aaaah-qab2a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Icpscan</a></p>
          <p><a href="https://icscan.io/" target="_blank" rel="noopener noreferrer">Icscan</a></p>
