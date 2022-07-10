@@ -36,7 +36,7 @@ export default function Services() {
                 <a href="https://faucet.dfinity.org/auth" target="_blank" rel="noopener noreferrer">Cycles Faucet</a> - Get free cycles to power your dapp
             </div>
             <div className="pagescard">
-                <a href="https://cycles.watch/" target="_blank" rel="noopener noreferrer">Cycles Watch</a> - Track the cycles' consumption of canister smart contracts
+                <a href="https://cycles.watch/" target="_blank" rel="noopener noreferrer">Cycles Watch</a> - Track the cycles&apos; consumption of canister smart contracts
             </div>
             <div className="pagescard">
                 <a href="https://dab.ooo/" target="_blank" rel="noopener noreferrer">DAB</a> - An open internet service for NFT, Token, Canister, and Dapp registries
