@@ -27,7 +27,7 @@ export default function Services() {
                 <a href="https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Canlista</a> - The Internet Computer community canister registry
             </div>
             <div className="pagescard">
-                <a href="https://cap.ooo/" target="_blank" rel="noopener noreferrer">CAP</a> - An open internet service providing transaction history &amp; asset provenance for NFT’s &amp; Tokens
+                <a href="https://cap.ooo/" target="_blank" rel="noopener noreferrer">CAP</a> - An open internet service providing transaction history &amp; asset provenance for NFT&apos;s &amp; Tokens
             </div>
             <div className="pagescard">
                 <a href="https://sn4ia-7qaaa-aaaad-qa22a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Cover</a> - Open internet service that can be used by developers to verify and prove that a canister&apos;s code matches the open source code
