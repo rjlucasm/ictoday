@@ -51,6 +51,9 @@ export default function Games() {
                 <a href="https://7qx3n-ziaaa-aaaad-qaqca-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">CubeRun</a> - Avoid cubes while the spaceship you control gradually goes faster and faster
             </div>
             <div className="pagescard">
+                <a href="https://mqkdm-zqaaa-aaaah-ablsa-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Cubetopia</a> - Own a unique island on the blockchain. Create whatever you desire
+            </div>
+            <div className="pagescard">
                 <a href="https://cycles.bet/" target="_blank" rel="noopener noreferrer">Cycles Bet</a> - Bet cycles play dices
             </div>
             <div className="pagescard">
@@ -63,13 +66,19 @@ export default function Games() {
                 <a href="https://avpoh-raaaa-aaaad-qavua-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">EZCraft</a> - Simple remake of the classic Minecraft game
             </div>
             <div className="pagescard">
+                <a href="https://ge5fs-qyaaa-aaaap-qam6a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">FaeFolk</a> - A multiplayer, slice of life, NFT role-playing game where you use your NFTs to craft tools, equipment, and train your skills
+            </div>
+            <div className="pagescard">
                 <a href="https://jlsls-yaaaa-aaaah-aaoia-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Flappy Bird</a> - Another Flappy Bird clone
             </div>
             <div className="pagescard">
                 <a href="https://bjv3y-niaaa-aaaah-aadsq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Fly Aves</a> - Flappy Bird style game
             </div>
             <div className="pagescard">
-                <a href="https://zxkrk-xyaaa-aaaad-qad5q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Fudbuster</a> - Platform game created using Unity’s game engine
+                <a href="https://zxkrk-xyaaa-aaaad-qad5q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Fudbuster</a> - Platform game created using Unity&apos;s game engine
+            </div>
+            <div className="pagescard">
+                <a href="https://kwcwy-yaaaa-aaaak-aagma-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Haunted Hamsters Game</a> - Endless runner game whith the Haunted Hamsters NFT
             </div>
             <div className="pagescard">
                 <a href="https://ucclg-dqaaa-aaaah-qanca-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Hexa Battle</a> - Assemble your party of heroes and venture into the dungeon
@@ -82,6 +91,9 @@ export default function Games() {
             </div>
             <div className="pagescard">
                 <a href="https://icmojis.com/" target="_blank" rel="noopener noreferrer">ICmoji Origins</a> - On-chain NFT strategy game
+            </div>
+            <div className="pagescard">
+                <a href="https://w7s2y-nqaaa-aaaag-aao3a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Jumpy Motoko</a> - Play to earn game
             </div>
             <div className="pagescard">
                 <a href="https://hl2zz-gyaaa-aaaad-qas3a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Lo-Fi Player</a> - A virtual room in your browser that lets you play with the BEAT
@@ -109,6 +121,12 @@ export default function Games() {
             </div>
             <div className="pagescard">
                 <a href="https://y5ftq-viaaa-aaaad-qad2q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Pacman</a> - HTML5 Pacman
+            </div>
+            <div className="pagescard">
+                <a href="https://kphpx-3iaaa-aaaad-qcbca-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Pi Game</a> - Enter as many digits as you know of Pi
+            </div>
+            <div className="pagescard">
+                <a href="https://plethora.game/" target="_blank" rel="noopener noreferrer">Plethora</a> - A Web3 launchpad gaming world built on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://lm5fh-ayaaa-aaaah-aafua-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Poker</a> - Texas holdEm on Internet Computer
