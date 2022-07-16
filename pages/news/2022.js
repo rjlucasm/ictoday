@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">07/14 -&nbsp;
+                <a href="https://www.blockchaintechnology-news.com/2022/07/internet-computer-protocol-achieves-1b-blocks-in-just-over-a-year/" target="_blank" rel="noopener noreferrer">Internet Computer Protocol achieves 1B blocks in just over a year</a>
+            </div>
             <div className="pagescard">07/07 -&nbsp;
                 <a href="https://www.bitcoininsider.org/article/174174/internet-computer-hackathon-supernova-attracted-3633-blockchain-developers-resulting" target="_blank" rel="noopener noreferrer">Internet Computer Hackathon &apos;Supernova&apos; attracted 3,633 blockchain developers resulting in several breakthroughs in Web3</a>
             </div>
