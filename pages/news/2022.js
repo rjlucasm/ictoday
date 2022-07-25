@@ -19,6 +19,15 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">07/24 -&nbsp;
+                <a href="https://medium.com/@arthurfalls/back-to-badlands-rebuilding-the-internet-computer-32fd0e27d14e" target="_blank" rel="noopener noreferrer">Back to Badlands: Rebuilding the Internet Computer</a>
+            </div>
+            <div className="pagescard">07/22 -&nbsp;
+                <a href="https://www.delfi.lt/en/business/why-build-horse-carriages-when-engines-are-available-embracing-web3-with-icp-part-i.d?id=90799671" target="_blank" rel="noopener noreferrer">Why Build Horse Carriages when Engines are Available? Embracing Web3 with ICP</a>
+            </div>
+            <div className="pagescard">07/17 -&nbsp;
+                <a href="https://hackernoon.com/gamefi-on-the-internet-computer-a-multiplayer-rpg-sandbox-called-cubetopia" target="_blank" rel="noopener noreferrer">GameFi On The Internet Computer: A Multiplayer RPG Sandbox Called Cubetopia</a>
+            </div>
             <div className="pagescard">07/14 -&nbsp;
                 <a href="https://www.blockchaintechnology-news.com/2022/07/internet-computer-protocol-achieves-1b-blocks-in-just-over-a-year/" target="_blank" rel="noopener noreferrer">Internet Computer Protocol achieves 1B blocks in just over a year</a>
             </div>
