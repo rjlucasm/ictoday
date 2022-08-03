@@ -20,6 +20,7 @@ const Sites = () => (
          <p><a href="https://www.stoicwallet.com/" target="_blank" rel="noopener noreferrer">Stoic</a></p>
          <p><a href="https://plugwallet.ooo/" target="_blank" rel="noopener noreferrer">Plug</a></p>
          <p><a href="https://www.earthwallet.io/" target="_blank" rel="noopener noreferrer">Earth</a></p>
+         <p><a href="https://chrome.google.com/webstore/detail/infinity-wallet/jnldfbidonfeldmalbflbmlebbipcnle" target="_blank" rel="noopener noreferrer">Infinity</a></p>
        </div>
 
        <div className="card">
