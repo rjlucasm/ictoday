@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">07/27 -&nbsp;
+                <a href="https://medium.com/dfinity/developer-tooling-and-why-it-matters-for-the-internet-computer-c49779ce8fea" target="_blank" rel="noopener noreferrer">Developer Tooling, and Why It Matters for the Internet Computer</a>
+            </div>
             <div className="pagescard">07/24 -&nbsp;
                 <a href="https://medium.com/@arthurfalls/back-to-badlands-rebuilding-the-internet-computer-32fd0e27d14e" target="_blank" rel="noopener noreferrer">Back to Badlands: Rebuilding the Internet Computer</a>
             </div>
