@@ -19,8 +19,13 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">08/05 -&nbsp;
+                <a href="https://www.blog.infinityswap.one/bridges-to-nowhere-why-bridges-get-hacked-and-how-the-ic-will-solve-the-bridging-dilemma/" target="_blank" rel="noopener noreferrer">Bridges to Nowhere- Why Bridges get Hacked and how the IC Will Solve the Bridging Dilemma</a>
+            </div>
             <div className="pagescard">08/04 -&nbsp;
                 <a href="https://medium.com/dfinity/btc-icp-integration-beta-release-the-bitcoin-testnet-api-is-now-available-bab84c378c1e" target="_blank" rel="noopener noreferrer">BTC x ICP Integration Beta Release: The Bitcoin Testnet API Is Now Available</a>
+                <p>Related:&nbsp;
+                <a href="https://www.cryptonewsz.com/dfinity-r-and-d-team-announces-btc-icp-integration-beta-release/" target="_blank" rel="noopener noreferrer">CryptoNewsZ</a></p>
             </div>
             <div className="pagescard">07/27 -&nbsp;
                 <a href="https://medium.com/dfinity/developer-tooling-and-why-it-matters-for-the-internet-computer-c49779ce8fea" target="_blank" rel="noopener noreferrer">Developer Tooling, and Why It Matters for the Internet Computer</a>
