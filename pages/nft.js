@@ -41,6 +41,9 @@ export default function NFTs() {
                 <a href="https://jelly.xyz/" target="_blank" rel="noopener noreferrer">Jelly</a> - NFT Tools &amp; Marketplace Infrastructure
             </div>
             <div className="pagescard">
+                <a href="https://memecake.io/" target="_blank" rel="noopener noreferrer">Meme Cake</a> - Social NFT multi-chain marketplace
+            </div>
+            <div className="pagescard">
                 <a href="https://tppkg-ziaaa-aaaal-qatrq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Yumi</a> - A gateway to the metaverse
             </div>
             </div>
