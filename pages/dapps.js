@@ -14,11 +14,14 @@ export default function Dapps() {
 
             <>&#128172;</>
 
-            <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link> 
+            <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <div className="pagesgrid">
             <div className="pagescard">
                 <a href="https://distrikt.app/" target="_blank" rel="noopener noreferrer">Distrikt</a> - A decentralized, professional social media network that empowers users. 100% on the blockchain
+            </div>
+            <div className="pagescard">
+                <a href="https://dmail.ai/" target="_blank" rel="noopener noreferrer">DMail</a> - The first blockchain mailbox product
             </div>
             <div className="pagescard">
                 <a href="https://dscvr.one/" target="_blank" rel="noopener noreferrer">Dscvr</a> - A completely decentralized social content platform
@@ -40,6 +43,9 @@ export default function Dapps() {
             </div>
             <div className="pagescard">
                 <a href="https://oc.app/" target="_blank" rel="noopener noreferrer">Open Chat</a> - Chat. On the blockchain. In real time
+            </div>
+            <div className="pagescard">
+                <a href="https://papy.rs/" target="_blank" rel="noopener noreferrer">Papyrs</a> - An open-source, privacy-first, decentralized blogging platform that lives 100% on chain
             </div>
             <div className="pagescard">
                 <a href="https://y3f56-pyaaa-aaaad-qaxoq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Piped</a> - An alternative privacy-friendly YouTube frontend which is efficient by design

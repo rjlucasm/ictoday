@@ -81,9 +81,6 @@ export default function Watchlist() {
                 <a href="https://ymglq-2qaaa-aaaah-qcbzq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">DFiRocks</a> - Generate your unique rock
             </div>
             <div className="pagescard">
-                <a href="https://dmail.ai/" target="_blank" rel="noopener noreferrer">DMail</a> - The first blockchain mailbox product
-            </div>
-            <div className="pagescard">
                 <a href="https://yunqk-aqaaa-aaaai-qawva-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Dstar</a> - Get your favorite Internet Identity numbers
             </div>
             <div className="pagescard">
