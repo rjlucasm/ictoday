@@ -25,8 +25,23 @@ export default function News22() {
             <div className="pagescard">09/06 -&nbsp;
                 <a href="https://medium.com/dfinity/introducing-the-internet-computers-new-icp-official-discord-server-join-now-24f3a8b39f8d" target="_blank" rel="noopener noreferrer">Introducing the New ICP Discord Server: Join NOW!</a>
             </div>
+            <div className="pagescard">09/03 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2022/09/03/internet-computer-price-analysis-icp-battles-on-20-dma-while-price-action-is-sideways/" target="_blank" rel="noopener noreferrer">Internet Computer Price Analysis: ICP Battles on 20-DMA While Price Action is Sideways</a>
+            </div>
+            <div className="pagescard">08/31 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2022/08/31/internet-computer-price-analysis-icp-dropped-30-in-august-will-there-be-a-recovery-next-month/" target="_blank" rel="noopener noreferrer">Internet Computer Price Analysis: ICP Dropped 30% in August, Will There be a Recovery Next Month?</a>
+            </div>
+            <div className="pagescard">08/23 -&nbsp;
+                <a href="https://www.cryptonewsz.com/infinityswap-supports-icrc-1-token-standard-on-internet-computer/" target="_blank" rel="noopener noreferrer">InfinitySwap Supports ICRC-1 Token Standard on Internet Computer</a>
+            </div>
+            <div className="pagescard">08/22 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2022/08/22/internet-computer-price-analysis-icp-crypto-is-on-its-way-to-follow-bears-orders-but-for-how-long/" target="_blank" rel="noopener noreferrer">Internet Computer Price Analysis: ICP Crypto Is On Its Way To Follow Bear&apos;s Orders But For How Long?</a>
+            </div>
             <div className="pagescard">08/16 -&nbsp;
                 <a href="https://medium.com/dfinity/azle-a-typescript-cdk-for-javascript-developers-on-the-internet-computer-444b86cd2da1" target="_blank" rel="noopener noreferrer">Azle: A TypeScript CDK for JavaScript Developers on the Internet Computer</a>
+            </div>
+            <div className="pagescard">08/12 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2022/08/12/internet-computer-price-analysis-icp-trading-inside-an-ascending-channel-whats-next/" target="_blank" rel="noopener noreferrer">Internet Computer Price Analysis: ICP Trading Inside an Ascending Channel, What&apos;s Next?</a>
             </div>
             <div className="pagescard">08/05 -&nbsp;
                 <a href="https://www.blog.infinityswap.one/bridges-to-nowhere-why-bridges-get-hacked-and-how-the-ic-will-solve-the-bridging-dilemma/" target="_blank" rel="noopener noreferrer">Bridges to Nowhere- Why Bridges get Hacked and how the IC Will Solve the Bridging Dilemma</a>
