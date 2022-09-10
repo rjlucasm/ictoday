@@ -19,6 +19,12 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">09/10 -&nbsp;
+                <a href="https://www.blog.infinityswap.one/how-to-buy-nfts-on-the-internet-computer-blockchain/" target="_blank" rel="noopener noreferrer">How to Buy NFTs on the Internet Computer Blockchain</a>
+            </div>
+            <div className="pagescard">09/06 -&nbsp;
+                <a href="https://medium.com/dfinity/introducing-the-internet-computers-new-icp-official-discord-server-join-now-24f3a8b39f8d" target="_blank" rel="noopener noreferrer">Introducing the New ICP Discord Server: Join NOW!</a>
+            </div>
             <div className="pagescard">08/16 -&nbsp;
                 <a href="https://medium.com/dfinity/azle-a-typescript-cdk-for-javascript-developers-on-the-internet-computer-444b86cd2da1" target="_blank" rel="noopener noreferrer">Azle: A TypeScript CDK for JavaScript Developers on the Internet Computer</a>
             </div>
