@@ -48,9 +48,6 @@ export default function Watchlist() {
                 <a href="https://www.civol.co/" target="_blank" rel="noopener noreferrer">Civol</a> - Asynchronous video conversation platform enabling decentralized discourse, debate, and collective decision-making
             </div> */}
             <div className="pagescard">
-                <a href="https://grwwk-gaaaa-aaaah-aapma-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Content Fly</a> - Content marketplace connecting high-quality creators with brands
-            </div>
-            <div className="pagescard">
                 <a href="https://sdnoa-fiaaa-aaaah-aaubq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Crowd Creative Collections</a> - Open and autonomous organization dedicated to building a decentralized artistic creation organization
             </div>
             <div className="pagescard">
@@ -142,9 +139,6 @@ export default function Watchlist() {
             </div>
             <div className="pagescard">
                 <a href="https://metasportsbball.xyz/" target="_blank" rel="noopener noreferrer">MetaSports Basketball</a> - An open basketball metaverse, built on the Ethereum &amp; Internet Computer blockchains
-            </div>
-            <div className="pagescard">
-                <a href="https://modclub.app/" target="_blank" rel="noopener noreferrer">ModClub</a> - Decentralized user generated content moderation service, to integrate with existing Internet Computer dapps
             </div>
             <div className="pagescard">
                 <a href="https://muga.media/nft" target="_blank" rel="noopener noreferrer">MugaTunes</a> - Music curation and NFT platform

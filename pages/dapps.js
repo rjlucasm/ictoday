@@ -18,6 +18,9 @@ export default function Dapps() {
 
             <div className="pagesgrid">
             <div className="pagescard">
+                <a href="https://contentfly.app/" target="_blank" rel="noopener noreferrer">Content Fly</a> - Web3 Job Management Tool &amp; Marketplace
+            </div>
+            <div className="pagescard">
                 <a href="https://distrikt.app/" target="_blank" rel="noopener noreferrer">Distrikt</a> - A decentralized, professional social media network that empowers users. 100% on the blockchain
             </div>
             <div className="pagescard">
@@ -37,6 +40,9 @@ export default function Dapps() {
             </div>
             <div className="pagescard">
                 <a href="https://kontribute.app/" target="_blank" rel="noopener noreferrer">Kontribute</a> - Interactive dapp that brings together readers, writers and NFTs
+            </div>
+            <div className="pagescard">
+                <a href="https://modclub.app/" target="_blank" rel="noopener noreferrer">ModClub</a> - Decentralized user generated content moderation service, to integrate with existing Internet Computer dapps
             </div>
             <div className="pagescard">
                 <a href="https://exwqn-uaaaa-aaaaf-qaeaa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Nuance</a> - Web3 blogging. Built on, and for, the new web
