@@ -96,6 +96,9 @@ export default function Services() {
                 <a href="https://networknervoussystem.com/" target="_blank" rel="noopener noreferrer">Neuron Calculator</a> - Calculate your voting rewards in the Network Nervous System (NNS)
             </div>
             <div className="pagescard">
+                <a href="https://nfid.one/" target="_blank" rel="noopener noreferrer">NFID</a> - The Identity layer for the Internet
+            </div>
+            <div className="pagescard">
                 <a href="https://nuah3-ayaaa-aaaad-qa7oa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a> - A friendly place for all of your favorite NFTs on the Internet Computer
             </div>
             <div className="pagescard">
