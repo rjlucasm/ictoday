@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">09/19 -&nbsp;
+                <a href="https://medium.com/dfinity/nns-metrics-tracking-the-internet-computers-token-economics-5f50b379bc76" target="_blank" rel="noopener noreferrer">NNS Metrics: Tracking the Internet Computer&apos;s Token Economics</a>
+            </div>
             <div className="pagescard">09/10 -&nbsp;
                 <a href="https://www.blog.infinityswap.one/how-to-buy-nfts-on-the-internet-computer-blockchain/" target="_blank" rel="noopener noreferrer">How to Buy NFTs on the Internet Computer Blockchain</a>
             </div>
