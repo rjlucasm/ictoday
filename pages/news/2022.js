@@ -19,6 +19,12 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">09/27 -&nbsp;
+                <a href="https://medium.com/dfinity/beyond-oracles-direct-https-outcalls-from-canister-smart-contracts-on-the-internet-computer-2e4a5bcbee43" target="_blank" rel="noopener noreferrer">Beyond Oracles: Direct HTTPS Outcalls From Canister Smart Contracts on the Internet Computer</a>
+            </div>
+            <div className="pagescard">09/23 -&nbsp;
+                <a href="https://medium.com/dfinity/considerations-for-nft-developers-on-the-internet-computer-a289c92e2c33" target="_blank" rel="noopener noreferrer">Considerations for NFT Developers on the Internet Computer</a>
+            </div>
             <div className="pagescard">09/19 -&nbsp;
                 <a href="https://medium.com/dfinity/nns-metrics-tracking-the-internet-computers-token-economics-5f50b379bc76" target="_blank" rel="noopener noreferrer">NNS Metrics: Tracking the Internet Computer&apos;s Token Economics</a>
             </div>
@@ -56,6 +62,9 @@ export default function News22() {
             </div>
             <div className="pagescard">07/27 -&nbsp;
                 <a href="https://medium.com/dfinity/developer-tooling-and-why-it-matters-for-the-internet-computer-c49779ce8fea" target="_blank" rel="noopener noreferrer">Developer Tooling, and Why It Matters for the Internet Computer</a>
+            </div>
+            <div className="pagescard">07/25 -&nbsp;
+                <a href="https://medium.com/dfinity/web3-social-platform-dscvr-raises-9m-seed-round-led-by-polychain-capital-1d8f2b9ddb4b" target="_blank" rel="noopener noreferrer">Web3 Social Platform DSCVR Raises $9M Seed Round Led by Polychain Capital</a>
             </div>
             <div className="pagescard">07/24 -&nbsp;
                 <a href="https://medium.com/@arthurfalls/back-to-badlands-rebuilding-the-internet-computer-32fd0e27d14e" target="_blank" rel="noopener noreferrer">Back to Badlands: Rebuilding the Internet Computer</a>
