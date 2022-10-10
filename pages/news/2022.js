@@ -19,6 +19,12 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">10/05 -&nbsp;
+                <a href="https://medium.com/dfinity/internet-computer-footprint-assessing-ic-energy-consumption-and-sustainability-4a4dcf10707a" target="_blank" rel="noopener noreferrer">Internet Computer Footprint: Assessing IC Energy Consumption and Sustainability</a>
+            </div>
+            <div className="pagescard">09/29 -&nbsp;
+                <a href="https://ffnews.com/newsarticle/icp-blockchain-introduces-https-outcalls-to-advance-web3s-growth/" target="_blank" rel="noopener noreferrer">ICP Blockchain Introduces HTTPS Outcalls To Advance Web3&apos;s Growth</a>
+            </div>
             <div className="pagescard">09/27 -&nbsp;
                 <a href="https://medium.com/dfinity/beyond-oracles-direct-https-outcalls-from-canister-smart-contracts-on-the-internet-computer-2e4a5bcbee43" target="_blank" rel="noopener noreferrer">Beyond Oracles: Direct HTTPS Outcalls From Canister Smart Contracts on the Internet Computer</a>
             </div>
