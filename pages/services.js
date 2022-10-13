@@ -21,6 +21,9 @@ export default function Services() {
                 <a href="https://axon.ooo/" target="_blank" rel="noopener noreferrer">Axon</a> - Multi-user, multi-neuron management canister
             </div>
             <div className="pagescard">
+                <a href="https://beamfi.app/" target="_blank" rel="noopener noreferrer">Beam</a> - Send or Receive a constant stream of ICP
+            </div>
+            <div className="pagescard">
                 <a href="https://cusyh-iyaaa-aaaah-qcpba-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Canistergeek</a> - Open-source tool for developers to monitor the cycles and memory status of their canister smart contracts
             </div>
             <div className="pagescard">
