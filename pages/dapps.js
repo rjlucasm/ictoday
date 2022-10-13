@@ -39,6 +39,9 @@ export default function Dapps() {
                 <a href="http://icdrive.co/" target="_blank" rel="noopener noreferrer">IC Drive</a> - A decentralized private storage app built on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://icworks.xyz/" target="_blank" rel="noopener noreferrer">ICWorks</a> - A decentralized job marketplace for the Web3 era
+            </div>
+            <div className="pagescard">
                 <a href="https://kontribute.app/" target="_blank" rel="noopener noreferrer">Kontribute</a> - Interactive dapp that brings together readers, writers and NFTs
             </div>
             <div className="pagescard">
@@ -64,6 +67,9 @@ export default function Dapps() {
             </div>
             <div className="pagescard">
                 <a href="http://seers.bet/" target="_blank" rel="noopener noreferrer">Seers</a> - Social Network for forecasting. Prediction Markets and much more
+            </div>
+            <div className="pagescard">
+                <a href="https://2fydv-iqaaa-aaaak-qap6q-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Signals</a> -  A location based chat app for making connections, creating communities and discovering events
             </div>
             <div className="pagescard">
                 <a href="http://taggr.top/" target="_blank" rel="noopener noreferrer">Taggr</a> - An experimental social network
