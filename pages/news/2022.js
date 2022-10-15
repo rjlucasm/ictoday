@@ -19,6 +19,15 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">10/13 -&nbsp;
+                <a href="https://medium.com/dfinity/lets-grow-the-internet-computer-network-why-and-how-and-general-updates-1c8d0770a299" target="_blank" rel="noopener noreferrer">Let&apos;s grow the Internet Computer network: why and how, and general updates</a>
+            </div>
+            <div className="pagescard">10/12 -&nbsp;
+                <a href="https://www.dailypioneer.com/2022/business/what-can-you-use-internet-computer--icp--for-.html" target="_blank" rel="noopener noreferrer">What Can You Use Internet Computer (ICP) For?</a>
+            </div>
+            <div className="pagescard">10/11 -&nbsp;
+                <a href="https://www.cryptonewsz.com/forecast/internet-computer-price-prediction/" target="_blank" rel="noopener noreferrer">Internet Computer Price Prediction</a>
+            </div>
             <div className="pagescard">10/05 -&nbsp;
                 <a href="https://medium.com/dfinity/internet-computer-footprint-assessing-ic-energy-consumption-and-sustainability-4a4dcf10707a" target="_blank" rel="noopener noreferrer">Internet Computer Footprint: Assessing IC Energy Consumption and Sustainability</a>
             </div>
@@ -31,8 +40,14 @@ export default function News22() {
             <div className="pagescard">09/23 -&nbsp;
                 <a href="https://medium.com/dfinity/considerations-for-nft-developers-on-the-internet-computer-a289c92e2c33" target="_blank" rel="noopener noreferrer">Considerations for NFT Developers on the Internet Computer</a>
             </div>
+            <div className="pagescard">09/23 -&nbsp;
+                <a href="https://www.cryptopolitan.com/icp-price-prediction/" target="_blank" rel="noopener noreferrer">ICP Price Prediction 2022-2031: Is Internet Computer Resurgence Possible?</a>
+            </div>
             <div className="pagescard">09/19 -&nbsp;
                 <a href="https://medium.com/dfinity/nns-metrics-tracking-the-internet-computers-token-economics-5f50b379bc76" target="_blank" rel="noopener noreferrer">NNS Metrics: Tracking the Internet Computer&apos;s Token Economics</a>
+            </div>
+            <div className="pagescard">09/18 -&nbsp;
+                <a href="https://www.securities.io/investing-in-internet-computer-icp-everything-you-need-to-know/" target="_blank" rel="noopener noreferrer">Investing In Internet Computer (ICP) – Everything You Need to Know</a>
             </div>
             <div className="pagescard">09/10 -&nbsp;
                 <a href="https://www.blog.infinityswap.one/how-to-buy-nfts-on-the-internet-computer-blockchain/" target="_blank" rel="noopener noreferrer">How to Buy NFTs on the Internet Computer Blockchain</a>
@@ -57,6 +72,9 @@ export default function News22() {
             </div>
             <div className="pagescard">08/12 -&nbsp;
                 <a href="https://www.thecoinrepublic.com/2022/08/12/internet-computer-price-analysis-icp-trading-inside-an-ascending-channel-whats-next/" target="_blank" rel="noopener noreferrer">Internet Computer Price Analysis: ICP Trading Inside an Ascending Channel, What&apos;s Next?</a>
+            </div>
+            <div className="pagescard">08/10 -&nbsp;
+                <a href="https://capital.com/internet-computer-icp-price-predictions" target="_blank" rel="noopener noreferrer">Internet Computer price prediction: Has the ICP price bottomed out?</a>
             </div>
             <div className="pagescard">08/05 -&nbsp;
                 <a href="https://www.blog.infinityswap.one/bridges-to-nowhere-why-bridges-get-hacked-and-how-the-ic-will-solve-the-bridging-dilemma/" target="_blank" rel="noopener noreferrer">Bridges to Nowhere- Why Bridges get Hacked and how the IC Will Solve the Bridging Dilemma</a>
