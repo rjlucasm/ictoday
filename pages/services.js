@@ -108,6 +108,9 @@ export default function Services() {
                 <a href="https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">NFTgeek</a> - Real-time data about NFT listings, transactions, volume, and minting
             </div>
             <div className="pagescard">
+                <a href="https://nnsproposal.icp.xyz/" target="_blank" rel="noopener noreferrer">NNS Proposal</a> - This dapp makes submitting NNS proposals easy for non-technical users with the lowest cost possible
+            </div>
+            <div className="pagescard">
                 <a href="https://raisinrank.com/" target="_blank" rel="noopener noreferrer">Raisin Rank</a> - NFT Analytics
             </div>
             <div className="pagescard">
