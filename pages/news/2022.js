@@ -19,6 +19,12 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">10/20 -&nbsp;
+                <a href="https://medium.com/dfinity/nns-and-icp-token-metrics-monthly-report-sept-2022-d288e9ed3277" target="_blank" rel="noopener noreferrer">NNS and ICP Token Metrics Monthly Report, Sept 2022</a>
+            </div>
+            <div className="pagescard">10/17 -&nbsp;
+                <a href="https://medium.com/dfinity/internet-computer-ecosystem-growth-charted-by-cycles-burned-73188905cdcd" target="_blank" rel="noopener noreferrer">Internet Computer Ecosystem Growth Charted by Cycles Burned</a>
+            </div>
             <div className="pagescard">10/13 -&nbsp;
                 <a href="https://medium.com/dfinity/lets-grow-the-internet-computer-network-why-and-how-and-general-updates-1c8d0770a299" target="_blank" rel="noopener noreferrer">Let&apos;s grow the Internet Computer network: why and how, and general updates</a>
             </div>
