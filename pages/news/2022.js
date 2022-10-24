@@ -22,6 +22,9 @@ export default function News22() {
             <div className="pagescard">10/20 -&nbsp;
                 <a href="https://medium.com/dfinity/nns-and-icp-token-metrics-monthly-report-sept-2022-d288e9ed3277" target="_blank" rel="noopener noreferrer">NNS and ICP Token Metrics Monthly Report, Sept 2022</a>
             </div>
+            <div className="pagescard">10/18 -&nbsp;
+                <a href="https://hackernoon.com/problems-with-blockchain-and-why-we-need-the-internet-computer" target="_blank" rel="noopener noreferrer">Problems With Blockchain and Why We Need the Internet Computer</a>
+            </div>
             <div className="pagescard">10/17 -&nbsp;
                 <a href="https://medium.com/dfinity/internet-computer-ecosystem-growth-charted-by-cycles-burned-73188905cdcd" target="_blank" rel="noopener noreferrer">Internet Computer Ecosystem Growth Charted by Cycles Burned</a>
             </div>
