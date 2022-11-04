@@ -18,7 +18,10 @@ export default function Dapps() {
 
             <div className="pagesgrid">
             <div className="pagescard">
-                <a href="https://contentfly.app/" target="_blank" rel="noopener noreferrer">Content Fly</a> - Web3 Job Management Tool &amp; Marketplace
+                <a href="https://catalyze.one/" target="_blank" rel="noopener noreferrer">Catalyze</a> - The premier Web 3 Discord/Telegram alternative for community engagement & growth
+            </div>
+            <div className="pagescard">
+                <a href="https://contentfly.app/" target="_blank" rel="noopener noreferrer">Content Fly</a> - Web3 job management tool &amp; marketplace
             </div>
             <div className="pagescard">
                 <a href="https://distrikt.app/" target="_blank" rel="noopener noreferrer">Distrikt</a> - A decentralized, professional social media network that empowers users. 100% on the blockchain
