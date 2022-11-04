@@ -19,6 +19,15 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/03 -&nbsp;
+                <a href="https://finance.yahoo.com/news/decentralized-social-media-deso-platform-141000435.html" target="_blank" rel="noopener noreferrer">Decentralized Social Media (DeSo) platform Catalyze Opens Beta to the Public</a>
+            </div>
+            <div className="pagescard">11/01 -&nbsp;
+                <a href="https://www.blog.infinityswap.one/regulatory-advantages-of-the-internet-computer/" target="_blank" rel="noopener noreferrer">Regulatory Advantages of the Internet Computer</a>
+            </div>
+            <div className="pagescard">10/24 -&nbsp;
+                <a href="https://www.blog.infinityswap.one/how-the-internet-computer-is-bridging-the-gap-between-web2-and-web3/" target="_blank" rel="noopener noreferrer">How the Internet Computer is Bridging the Gap Between Web2 and Web3</a>
+            </div>
             <div className="pagescard">10/20 -&nbsp;
                 <a href="https://medium.com/dfinity/nns-and-icp-token-metrics-monthly-report-sept-2022-d288e9ed3277" target="_blank" rel="noopener noreferrer">NNS and ICP Token Metrics Monthly Report, Sept 2022</a>
             </div>
@@ -45,6 +54,9 @@ export default function News22() {
             </div>
             <div className="pagescard">09/27 -&nbsp;
                 <a href="https://medium.com/dfinity/beyond-oracles-direct-https-outcalls-from-canister-smart-contracts-on-the-internet-computer-2e4a5bcbee43" target="_blank" rel="noopener noreferrer">Beyond Oracles: Direct HTTPS Outcalls From Canister Smart Contracts on the Internet Computer</a>
+            </div>
+            <div className="pagescard">09/23 -&nbsp;
+                <a href="https://www.coindesk.com/video/dfinity-foundations-internet-computer-blockchain-brings-smart-contract-capabilities-to-bitcoin-network/" target="_blank" rel="noopener noreferrer">Dfinity Foundation&apos;s Internet Computer Blockchain Brings Smart-Contract Capabilities to Bitcoin Network</a>
             </div>
             <div className="pagescard">09/23 -&nbsp;
                 <a href="https://medium.com/dfinity/considerations-for-nft-developers-on-the-internet-computer-a289c92e2c33" target="_blank" rel="noopener noreferrer">Considerations for NFT Developers on the Internet Computer</a>
