@@ -26,6 +26,9 @@ export default function News22() {
                 <a href="https://www.blog.infinityswap.one/regulatory-advantages-of-the-internet-computer/" target="_blank" rel="noopener noreferrer">Regulatory Advantages of the Internet Computer</a>
             </div>
             <div className="pagescard">10/24 -&nbsp;
+                <a href="https://coincodex.com/article/20463/no-blockchain-oracles-integrating-web3-and-web2-via-http/" target="_blank" rel="noopener noreferrer">No Blockchain Oracles? Integrating Web3 and Web2 via HTTP</a>
+            </div>
+            <div className="pagescard">10/24 -&nbsp;
                 <a href="https://www.blog.infinityswap.one/how-the-internet-computer-is-bridging-the-gap-between-web2-and-web3/" target="_blank" rel="noopener noreferrer">How the Internet Computer is Bridging the Gap Between Web2 and Web3</a>
             </div>
             <div className="pagescard">10/20 -&nbsp;
