@@ -19,6 +19,15 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/09 -&nbsp;
+                <a href="https://blog.cex.io/education/the-internet-computer-updates-31901" target="_blank" rel="noopener noreferrer">Is The Internet Computer (ICP) Ready To Turn The Tides?</a>
+            </div>
+            <div className="pagescard">11/09 -&nbsp;
+                <a href="https://medium.com/dfinity/nns-and-icp-token-metrics-monthly-report-oct-2022-fba10ce1ea63" target="_blank" rel="noopener noreferrer">NNS and ICP Token Metrics Monthly Report, Oct 2022</a>
+            </div>
+            <div className="pagescard">11/04 -&nbsp;
+                <a href="https://medium.com/dfinity/seo-support-for-100-on-chain-websites-built-on-the-internet-computer-19c951d73853" target="_blank" rel="noopener noreferrer">SEO Support for 100% On-Chain Websites Built on the Internet Computer</a>
+            </div>
             <div className="pagescard">11/03 -&nbsp;
                 <a href="https://finance.yahoo.com/news/decentralized-social-media-deso-platform-141000435.html" target="_blank" rel="noopener noreferrer">Decentralized Social Media (DeSo) platform Catalyze Opens Beta to the Public</a>
             </div>
