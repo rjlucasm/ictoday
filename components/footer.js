@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-const trippysrc = "https://internetcomputer.today/trippy_ic_logo.svg";
+const trippysrc = "https://internetcomputer.today/trippy_ic_logo.png";
 const Footer = () => (
     <footer className="footer">
         Powered by
