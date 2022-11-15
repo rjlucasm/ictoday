@@ -23,7 +23,7 @@ const Footer = () => (
         </span> */}
 
         <div className="credits">
-            <a href="https://usertest.icp.page/" target="_blank" rel="noopener noreferrer"><Image src={trippysrc} alt="usertest" width={30} height={15}/></a>
+            <a href="https://usertest.icp.xyz/" target="_blank" rel="noopener noreferrer"><Image src={trippysrc} alt="usertest" width={30} height={15}/></a>
         </div>
         
     </footer>
