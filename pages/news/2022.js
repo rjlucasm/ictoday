@@ -29,6 +29,9 @@ export default function News22() {
                 <a href="https://medium.com/dfinity/seo-support-for-100-on-chain-websites-built-on-the-internet-computer-19c951d73853" target="_blank" rel="noopener noreferrer">SEO Support for 100% On-Chain Websites Built on the Internet Computer</a>
             </div>
             <div className="pagescard">11/03 -&nbsp;
+                <a href="https://www.investing.com/news/cryptocurrency-news/icp-bulls-buck-the-bearish-trend-and-raise-prices-by-over-576-2930481" target="_blank" rel="noopener noreferrer">ICP Bulls Buck the Bearish Trend and Raise Prices by Over 5.76%</a>
+            </div>
+            <div className="pagescard">11/03 -&nbsp;
                 <a href="https://finance.yahoo.com/news/decentralized-social-media-deso-platform-141000435.html" target="_blank" rel="noopener noreferrer">Decentralized Social Media (DeSo) platform Catalyze Opens Beta to the Public</a>
             </div>
             <div className="pagescard">11/01 -&nbsp;
