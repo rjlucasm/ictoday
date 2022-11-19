@@ -69,7 +69,7 @@ export default function Dapps() {
                 <a href="https://sfjch-siaaa-aaaak-qarnq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Seachan</a> - Censorship resistant decentralized fileboard
             </div>
             <div className="pagescard">
-                <a href="http://seers.bet/" target="_blank" rel="noopener noreferrer">Seers</a> - Social Network for forecasting. Prediction Markets and much more
+                <a href="https://seers.social/" target="_blank" rel="noopener noreferrer">Seers</a> - Social Network for forecasting. Prediction Markets and much more
             </div>
             <div className="pagescard">
                 <a href="https://2fydv-iqaaa-aaaak-qap6q-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Signals</a> -  A location based chat app for making connections, creating communities and discovering events
