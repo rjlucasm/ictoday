@@ -19,6 +19,12 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/18 -&nbsp;
+                <a href="https://medium.com/dfinity/how-infinityswap-will-leverage-internet-computer-tech-to-become-the-next-iteration-of-defi-10fa55e8f630" target="_blank" rel="noopener noreferrer">How InfinitySwap Will Leverage Internet Computer Tech to Become the Next Iteration of DeFi</a>
+            </div>
+            <div className="pagescard">11/17 -&nbsp;
+                <a href="https://medium.com/dfinity/building-in-rust-on-icp-unlock-the-power-of-the-world-computer-709e75d5f44e" target="_blank" rel="noopener noreferrer">Building in Rust on ICP: Unlock the Power of the World Computer</a>
+            </div>
             <div className="pagescard">11/09 -&nbsp;
                 <a href="https://blog.cex.io/education/the-internet-computer-updates-31901" target="_blank" rel="noopener noreferrer">Is The Internet Computer (ICP) Ready To Turn The Tides?</a>
             </div>
