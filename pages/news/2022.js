@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">11/21 -&nbsp;
+                <a href="https://newsbtc.com/all/assessing-the-top-performing-layer-1-blockchain-protocols/" target="_blank" rel="noopener noreferrer">Assessing the Top-Performing Layer-1 Blockchain Protocols</a>
+            </div>
             <div className="pagescard">11/18 -&nbsp;
                 <a href="https://medium.com/dfinity/how-infinityswap-will-leverage-internet-computer-tech-to-become-the-next-iteration-of-defi-10fa55e8f630" target="_blank" rel="noopener noreferrer">How InfinitySwap Will Leverage Internet Computer Tech to Become the Next Iteration of DeFi</a>
             </div>
