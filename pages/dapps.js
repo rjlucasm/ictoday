@@ -36,7 +36,7 @@ export default function Dapps() {
                 <a href="https://dsocial.app" target="_blank" rel="noopener noreferrer">DSocial</a> - Decentralised &amp; censorship-resistant version of YouTube
             </div>
             <div className="pagescard">
-                <a href="http://gobazzinga.io/" target="_blank" rel="noopener noreferrer">GoBazzinga</a> - World&apos;s first decentralised &apos;Short-Video X Draft Kings&apos; social speculation platform
+                <a href="https://hotornot.wtf/" target="_blank" rel="noopener noreferrer">Hot or Not</a> - IC&apos;s first decentralised TikTok
             </div>
             <div className="pagescard">
                 <a href="http://icdrive.co/" target="_blank" rel="noopener noreferrer">IC Drive</a> - A decentralized private storage app built on the Internet Computer
@@ -75,7 +75,7 @@ export default function Dapps() {
                 <a href="https://2fydv-iqaaa-aaaak-qap6q-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Signals</a> -  A location based chat app for making connections, creating communities and discovering events
             </div>
             <div className="pagescard">
-                <a href="http://taggr.top/" target="_blank" rel="noopener noreferrer">Taggr</a> - An experimental social network
+                <a href="https://taggr.top/" target="_blank" rel="noopener noreferrer">Taggr</a> - An experimental social network
             </div>
             <div className="pagescard">
                 <a href="https://rivyl-6aaaa-aaaaf-qaapq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">The Wall</a> - A crossover Ethereum/Internet Computer demo app
