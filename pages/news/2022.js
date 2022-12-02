@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">12/02 -&nbsp;
+                <a href="https://coinbold.io/the-internet-computer-ic-brings-smart-contract-functionality-to-bitcoin/" target="_blank" rel="noopener noreferrer">The Internet Computer Brings Smart Contract Functionality to Bitcoin</a>
+            </div>
             <div className="pagescard">11/28 -&nbsp;
                 <a href="https://www.publish0x.com/johnwege/we-ve-been-fooled-how-ftx-tried-to-destroy-internet-computer-xnnyjqr" target="_blank" rel="noopener noreferrer">We&apos;ve Been Fooled - How FTX Tried to Destroy Internet Computer (ICP)</a>
             </div>
