@@ -19,8 +19,23 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">12/12 -&nbsp;
+                <a href="https://businesscloud.co.uk/news/in-crypto-dfinity-foundation-unveils-female-blockchain-grants/" target="_blank" rel="noopener noreferrer">In Crypto: DFINITY Foundation unveils female blockchain grants</a>
+            </div>
+            <div className="pagescard">12/11 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2022/12/11/shib-can-now-be-held-natively-on-internet-computer/" target="_blank" rel="noopener noreferrer">SHIB can now be held natively on Internet Computer</a>
+            </div>
+            <div className="pagescard">12/09 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2022/12/09/internet-computer-price-predictionicp-coin-price-fails-to-regain-its-position-above-5/" target="_blank" rel="noopener noreferrer">Internet Computer Price Prediction: ICP Coin Price Fails To Regain Its Position Above $5</a>
+            </div>
             <div className="pagescard">12/02 -&nbsp;
                 <a href="https://coinbold.io/the-internet-computer-ic-brings-smart-contract-functionality-to-bitcoin/" target="_blank" rel="noopener noreferrer">The Internet Computer Brings Smart Contract Functionality to Bitcoin</a>
+            </div>
+            <div className="pagescard">12/01 -&nbsp;
+                <a href="https://www.crowdfundinsider.com/2022/12/199344-dfinity-foundation-announces-100k-in-grants-for-female-devs-entrepreneurs/" target="_blank" rel="noopener noreferrer">DFINITY Foundation Announces $100K in Grants for Female Devs, Entrepreneurs</a>
+            </div>
+            <div className="pagescard">12/01 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2022/12/01/internet-computer-price-prediction-icp-token-bids-cheap-recovery-to-5-level-likely/" target="_blank" rel="noopener noreferrer">Internet Computer Price Prediction: ICP Token Bids Cheap, Recovery to $5 Level Likely</a>
             </div>
             <div className="pagescard">11/28 -&nbsp;
                 <a href="https://www.publish0x.com/johnwege/we-ve-been-fooled-how-ftx-tried-to-destroy-internet-computer-xnnyjqr" target="_blank" rel="noopener noreferrer">We&apos;ve Been Fooled - How FTX Tried to Destroy Internet Computer (ICP)</a>
