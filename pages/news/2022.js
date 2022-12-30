@@ -19,6 +19,9 @@ export default function News22() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">12/22 -&nbsp;
+                <a href="https://ambcrypto.com/internet-computer-secures-the-lead-as-the-metaverse-project-bullish-recovery-is/" target="_blank" rel="noopener noreferrer">Internet Computer secures the lead as the metaverse project, bullish recovery is…</a>
+            </div>
             <div className="pagescard">12/12 -&nbsp;
                 <a href="https://businesscloud.co.uk/news/in-crypto-dfinity-foundation-unveils-female-blockchain-grants/" target="_blank" rel="noopener noreferrer">In Crypto: DFINITY Foundation unveils female blockchain grants</a>
             </div>
