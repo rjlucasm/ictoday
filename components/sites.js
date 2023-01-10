@@ -67,7 +67,7 @@ const Sites = () => (
          <p><a href="https://oc.app/" target="_blank" rel="noopener noreferrer">Open Chat</a></p>
          <p><a href="http://icdrive.co/" target="_blank" rel="noopener noreferrer">IC Drive</a></p>
          <p><a href="https://exwqn-uaaaa-aaaaf-qaeaa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Nuance</a></p>
-         <p><a href="https://portal.one/" target="_blank" rel="noopener noreferrer">Portal</a></p>
+         <p><a href="https://taggr.top/" target="_blank" rel="noopener noreferrer">TAGGR</a></p>
       </div>
 
       <div className="card">
@@ -95,6 +95,7 @@ const Sites = () => (
          <p><a href="https://www.weekindfinity.com/" target="_blank" rel="noopener noreferrer">Week in Dfinity</a></p>
          <p><a href="https://allthingsinternetcomputer.substack.com/" target="_blank" rel="noopener noreferrer">All Things IC</a></p>
          <p><a href="https://kylelangham.substack.com/" target="_blank" rel="noopener noreferrer">ICP Analysis</a></p>
+         <p><a href="https://wnftq-taaaa-aaaaf-qahca-cai.raw.ic0.app/subscription" target="_blank" rel="noopener noreferrer">FastBlocks</a></p>
       </div>
 
       <div className="card">
