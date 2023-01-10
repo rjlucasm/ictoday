@@ -131,7 +131,7 @@ const Sites = () => (
         <Link href="/watchlist"><a>Watchlist</a></Link>
       </div>
       <div className="finalcard">
-        <Link href="/news/2022"><a>News</a></Link>
+        <Link href="/news/2023"><a>News</a></Link>
       </div>
     </div>
   </>

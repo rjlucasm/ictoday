@@ -17,6 +17,7 @@ export default function Archives() {
             <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
 
             <>&nbsp;<Link href="/news/2021"><a style={{ color: 'inherit' }}>2021</a></Link></>
+            <>&nbsp;<Link href="/news/2022"><a style={{ color: 'inherit' }}>2022</a></Link></>
         </main>
 
         <Footer/>
