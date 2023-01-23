@@ -19,6 +19,9 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/20 -&nbsp;
+                <a href="https://medium.com/@dfinity/icp-ecosystem-continues-to-soar-despite-crypto-winter-f8d5aaa0008e" target="_blank" rel="noopener noreferrer">ICP Ecosystem Continues to Soar Despite Crypto Winter</a>
+            </div>
             <div className="pagescard">01/18 -&nbsp;
                 <a href="https://www.banklesstimes.com/news/2023/01/18/internet-computer-stages-a-59percent-comeback-what-next-for-icp/" target="_blank" rel="noopener noreferrer">Internet Computer Stages a 59% Comeback: What Next for ICP?</a>
             </div>
