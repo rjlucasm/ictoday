@@ -19,6 +19,12 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/24 -&nbsp;
+                <a href="https://coinedition.com/analyst-predicts-icp-to-be-number-one-coin-for-the-bull-market/" target="_blank" rel="noopener noreferrer">Analyst Predicts ICP to be Number One Coin for the Bull Market</a>
+            </div>
+            <div className="pagescard">01/24 -&nbsp;
+                <a href="https://bsc.news/post/4-dexes-to-check-out-on-internet-computer-icp-blockchain" target="_blank" rel="noopener noreferrer">4 DEXes to Check Out on Internet Computer (ICP) Blockchain</a>
+            </div>
             <div className="pagescard">01/20 -&nbsp;
                 <a href="https://medium.com/@dfinity/icp-ecosystem-continues-to-soar-despite-crypto-winter-f8d5aaa0008e" target="_blank" rel="noopener noreferrer">ICP Ecosystem Continues to Soar Despite Crypto Winter</a>
             </div>
