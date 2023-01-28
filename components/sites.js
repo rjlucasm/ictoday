@@ -96,6 +96,7 @@ const Sites = () => (
          <p><a href="https://allthingsinternetcomputer.substack.com/" target="_blank" rel="noopener noreferrer">All Things IC</a></p>
          <p><a href="https://kylelangham.substack.com/" target="_blank" rel="noopener noreferrer">ICP Analysis</a></p>
          <p><a href="https://wnftq-taaaa-aaaaf-qahca-cai.raw.ic0.app/subscription" target="_blank" rel="noopener noreferrer">FastBlocks</a></p>
+         <p><a href="https://www.exploringicp.com/" target="_blank" rel="noopener noreferrer">Exploring ICP</a></p>
       </div>
 
       <div className="card">
