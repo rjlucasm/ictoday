@@ -8,7 +8,7 @@ export default function News23() {
         <Head>
         <title>Internet Computer News</title>
         </Head>
-        
+
         <main className="main">
             <h2 className="title">Internet Computer News</h2>
 
@@ -19,6 +19,9 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/29 -&nbsp;
+                <a href="https://bsc.news/post/icp-begins-revolution-with-attention-and-buyers" target="_blank" rel="noopener noreferrer">ICP Begins Revolution With Attention and Buyers</a>
+            </div>
             <div className="pagescard">01/24 -&nbsp;
                 <a href="https://coinedition.com/analyst-predicts-icp-to-be-number-one-coin-for-the-bull-market/" target="_blank" rel="noopener noreferrer">Analyst Predicts ICP to be Number One Coin for the Bull Market</a>
             </div>
