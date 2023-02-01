@@ -19,6 +19,9 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">01/31 -&nbsp;
+                <a href="https://bsc.news/post/in-comparison-the-internet-computer-vs-other-blockchains?utm_source=Twitter&utm_medium=+Socials" target="_blank" rel="noopener noreferrer">In Comparison: The Internet Computer vs. Other Blockchains</a>
+            </div>
             <div className="pagescard">01/29 -&nbsp;
                 <a href="https://bsc.news/post/icp-begins-revolution-with-attention-and-buyers" target="_blank" rel="noopener noreferrer">ICP Begins Revolution With Attention and Buyers</a>
             </div>
