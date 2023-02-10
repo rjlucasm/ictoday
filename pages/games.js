@@ -87,7 +87,13 @@ export default function Games() {
                 <a href="https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">HexGL</a> - A futuristic, fast-paced racing game built by BKcore
             </div>
             <div className="pagescard">
+                <a href="https://blmbz-yqaaa-aaaag-qbwiq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Hodl Crypto Winter</a> - Avoid obstacles and collect coins
+            </div>
+            <div className="pagescard">
                 <a href="https://yqtpa-pqaaa-aaaan-qadba-cai.raw.ic0.app/game" target="_blank" rel="noopener noreferrer">IC Birds</a> - Play with your Birds NFTs
+            </div>
+            <div className="pagescard">
+                <a href="https://2n2qt-5aaaa-aaaak-aebiq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IC Pinball</a> - Internet Computer Pinball
             </div>
             <div className="pagescard">
                 <a href="https://icmojis.com/" target="_blank" rel="noopener noreferrer">ICmoji Origins</a> - On-chain NFT strategy game
