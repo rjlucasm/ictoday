@@ -19,6 +19,15 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">02/12 -&nbsp;
+                <a href="https://bsc.news/post/bitcoin-defi-is-here-internet-computer-debuts-ckbtcicp-swaps" target="_blank" rel="noopener noreferrer">Bitcoin DeFi is Here: Internet Computer Debuts ckBTC/ICP Swaps</a>
+            </div>
+            <div className="pagescard">02/05 -&nbsp;
+                <a href="https://www.bsc.news/post/5-facts-about-the-internet-computer-icp-blockchain" target="_blank" rel="noopener noreferrer">5 Facts About the Internet Computer (ICP) Blockchain</a>
+            </div>
+            <div className="pagescard">02/03 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2023/02/03/discovering-hidden-chart-patterns-a-technical-analysis-of-icp/" target="_blank" rel="noopener noreferrer">Discovering Hidden Chart Patterns: A Technical Analysis of ICP</a>
+            </div>
             <div className="pagescard">01/31 -&nbsp;
                 <a href="https://bsc.news/post/in-comparison-the-internet-computer-vs-other-blockchains?utm_source=Twitter&utm_medium=+Socials" target="_blank" rel="noopener noreferrer">In Comparison: The Internet Computer vs. Other Blockchains</a>
             </div>
@@ -30,6 +39,9 @@ export default function News23() {
             </div>
             <div className="pagescard">01/24 -&nbsp;
                 <a href="https://bsc.news/post/4-dexes-to-check-out-on-internet-computer-icp-blockchain" target="_blank" rel="noopener noreferrer">4 DEXes to Check Out on Internet Computer (ICP) Blockchain</a>
+            </div>
+            <div className="pagescard">01/21 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2023/01/21/icp-price-analysis-token-breaks-out-of-the-consolidation-zone-whats-next/" target="_blank" rel="noopener noreferrer">ICP Price Analysis: Token breaks out of the consolidation zone, what&apos;s next?</a>
             </div>
             <div className="pagescard">01/20 -&nbsp;
                 <a href="https://medium.com/@dfinity/icp-ecosystem-continues-to-soar-despite-crypto-winter-f8d5aaa0008e" target="_blank" rel="noopener noreferrer">ICP Ecosystem Continues to Soar Despite Crypto Winter</a>
