@@ -19,6 +19,15 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">02/16 -&nbsp;
+                <a href="https://airgapit.medium.com/airgap-integrates-the-internet-computer-protocol-icp-a1699c08444d" target="_blank" rel="noopener noreferrer">AirGap integrates the Internet Computer Protocol (ICP)</a>
+            </div>
+            <div className="pagescard">02/15 -&nbsp;
+                <a href="https://medium.com/@dfinity/100-made-in-italy-brand-to-leverage-the-internet-computer-protocol-ecb3df45371c" target="_blank" rel="noopener noreferrer">&apos;100% Made in Italy&apos; Brand to Leverage the Internet Computer Protocol</a>
+                <p>Related:&nbsp;
+                <a href="https://www.bsc.news/post/federitaly-to-use-internet-computer-to-verify-products-made-in-italy" target="_blank" rel="noopener noreferrer">BSC News</a>,&nbsp;
+                <a href="https://cvj.ch/en/focus/blockchain/italian-advocacy-group-federitaly-uses-blockchain-for-verification-processes/" target="_blank" rel="noopener noreferrer">CVJ</a></p>
+            </div>
             <div className="pagescard">02/12 -&nbsp;
                 <a href="https://bsc.news/post/bitcoin-defi-is-here-internet-computer-debuts-ckbtcicp-swaps" target="_blank" rel="noopener noreferrer">Bitcoin DeFi is Here: Internet Computer Debuts ckBTC/ICP Swaps</a>
             </div>
