@@ -19,6 +19,24 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">02/28 -&nbsp;
+                <a href="https://ambcrypto.com/internet-computer-icp-outperforms-its-competitors-in-this-area/" target="_blank" rel="noopener noreferrer">Internet Computer outperforms its competitors in this area</a>
+            </div>
+            <div className="pagescard">02/27 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2023/02/27/icp-price-analysis-is-icp-price-taking-rejection-from-200-ema/" target="_blank" rel="noopener noreferrer">ICP Price Analysis: Is ICP price taking rejection from 200 EMA?</a>
+            </div>
+            <div className="pagescard">02/27 -&nbsp;
+                <a href="https://www.banklesstimes.com/news/2023/02/27/internet-computer-faces-headwinds-as-web-3-adoption-slows/" target="_blank" rel="noopener noreferrer">Internet Computer Faces Headwinds as Web 3 Adoption Slows</a>
+            </div>
+            <div className="pagescard">02/26 -&nbsp;
+                <a href="https://www.dailyexcelsior.com/how-cryptocurrencies-like-dogetti-internet-computer-and-quant-are-changing-the-future-with-blockchain-technology/" target="_blank" rel="noopener noreferrer">How Cryptocurrencies like Dogetti, Internet Computer and Quant are changing the future with blockchain technology</a>
+            </div>
+            <div className="pagescard">02/23 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/internet-computer-icp-does-it-score-poorly-on-long-term-trading-metrics-thursday" target="_blank" rel="noopener noreferrer">Internet Computer (ICP): Does it Score Poorly on Long-Term Trading Metrics Thursday?</a>
+            </div>
+            <div className="pagescard">02/18 -&nbsp;
+                <a href="https://www.bsc.news/post/enormous-growth-from-icp-in-2022-carries-into-q1-of-2023" target="_blank" rel="noopener noreferrer">Enormous Growth From ICP in 2022 Carries into Q1 of 2023</a>
+            </div>
             <div className="pagescard">02/16 -&nbsp;
                 <a href="https://airgapit.medium.com/airgap-integrates-the-internet-computer-protocol-icp-a1699c08444d" target="_blank" rel="noopener noreferrer">AirGap integrates the Internet Computer Protocol (ICP)</a>
             </div>
