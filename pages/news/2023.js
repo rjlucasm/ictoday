@@ -19,6 +19,14 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/06 -&nbsp;
+                <a href="https://www.cryptonewsz.com/infinityswaps-evmc-on-internet-computer-blockchain/" target="_blank" rel="noopener noreferrer">InfinitySwap&apos;s EVMC on Internet Computer blockchain</a>
+            </div>
+            <div className="pagescard">03/03 -&nbsp;
+                <a href="https://ffnews.com/newsarticle/funding/openchat-raises-5-5m-in-under-5-hours-via-pioneering-community-led-decentralized-fundraising-model/" target="_blank" rel="noopener noreferrer">OpenChat Raises $5.5M in Under 5 Hours via Pioneering Community-Led Decentralized Fundraising Model</a>
+                <p>Related:&nbsp;
+                <a href="https://mpost.io/openchat-raises-5-5m-in-less-than-five-hours-via-community-driven-decentralized-fundraise/" target="_blank" rel="noopener noreferrer">Metaverse Post</a></p>
+            </div>
             <div className="pagescard">02/28 -&nbsp;
                 <a href="https://ambcrypto.com/internet-computer-icp-outperforms-its-competitors-in-this-area/" target="_blank" rel="noopener noreferrer">Internet Computer outperforms its competitors in this area</a>
             </div>
