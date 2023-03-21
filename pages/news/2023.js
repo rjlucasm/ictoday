@@ -20,6 +20,9 @@ export default function News23() {
 
             <div className="pagesgrid">
             <div className="pagescard">03/09 -&nbsp;
+                <a href="https://blockzeit.com/a-breakdown-of-the-revolutionary-internet-computer-protocol/" target="_blank" rel="noopener noreferrer">A Breakdown Of The Revolutionary Internet Computer Protocol</a>
+            </div>
+            <div className="pagescard">03/09 -&nbsp;
                 <a href="https://ambcrypto.com/internet-computer-is-a-bullish-relief-on-the-cards-for-icp/" target="_blank" rel="noopener noreferrer">Internet Computer: Is a bullish relief on the cards for ICP traders?</a>
             </div>
             <div className="pagescard">03/06 -&nbsp;
