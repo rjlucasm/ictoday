@@ -19,6 +19,9 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/09 -&nbsp;
+                <a href="https://ambcrypto.com/internet-computer-is-a-bullish-relief-on-the-cards-for-icp/" target="_blank" rel="noopener noreferrer">Internet Computer: Is a bullish relief on the cards for ICP traders?</a>
+            </div>
             <div className="pagescard">03/06 -&nbsp;
                 <a href="https://www.cryptonewsz.com/infinityswaps-evmc-on-internet-computer-blockchain/" target="_blank" rel="noopener noreferrer">InfinitySwap&apos;s EVMC on Internet Computer blockchain</a>
             </div>
