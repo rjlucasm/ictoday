@@ -19,6 +19,21 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/29 -&nbsp;
+                <a href="https://cyprus-mail.com/2023/03/29/new-project-enables-bitcoin-smart-contracts-offers-developer-grants/" target="_blank" rel="noopener noreferrer">New project enables Bitcoin smart contracts, offers developer grants</a>
+            </div>
+            <div className="pagescard">03/29 -&nbsp;
+                <a href="https://medium.com/dfinity/internet-computer-canister-timers-21cd3201b831" target="_blank" rel="noopener noreferrer">Internet Computer: Canister Timers</a>
+            </div>
+            <div className="pagescard">03/28 -&nbsp;
+                <a href="https://medium.com/dfinity/icp-blockchain-technology-revolutionizes-authentication-and-digital-certification-of-real-products-84ce58892e8f" target="_blank" rel="noopener noreferrer">ICP Blockchain Technology Revolutionizes Authentication and Digital Certification of Real Products</a>
+            </div>
+            <div className="pagescard">03/27 -&nbsp;
+                <a href="https://ambcrypto.com/internet-computer-draws-developer-frenzy-social-attention-heres-why/" target="_blank" rel="noopener noreferrer">Internet Computer draws developer frenzy, social attention- Here&apos;s why</a>
+            </div>
+            <div className="pagescard">03/25 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2023/03/25/icp-price-prediction-2023-is-bearish-trend-hovering-over-icp-price/" target="_blank" rel="noopener noreferrer">ICP Price Prediction 2023: Is Bearish Trend Hovering Over ICP Price?</a>
+            </div>
             <div className="pagescard">03/09 -&nbsp;
                 <a href="https://blockzeit.com/a-breakdown-of-the-revolutionary-internet-computer-protocol/" target="_blank" rel="noopener noreferrer">A Breakdown Of The Revolutionary Internet Computer Protocol</a>
             </div>
