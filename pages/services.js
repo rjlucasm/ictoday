@@ -84,6 +84,9 @@ export default function Services() {
                 <a href="https://icp123.org/" target="_blank" rel="noopener noreferrer">ICP123</a> - Ecosystem page built on the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://icpcoins.com/" target="_blank" rel="noopener noreferrer">ICPCoins</a> - Internet Computer cryptocurrencies by market cap
+            </div>
+            <div className="pagescard">
                 <a href="https://icp.guide/" target="_blank" rel="noopener noreferrer">ICP Guide</a> - The definitive guide to the Internet Computer Protocol (ICP)
             </div>
             <div className="pagescard">
