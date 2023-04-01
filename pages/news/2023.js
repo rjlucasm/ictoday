@@ -19,6 +19,9 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">03/31 -&nbsp;
+                <a href="https://beincrypto.com/yes-we-need-bitcoin-for-defi-without-bridges/" target="_blank" rel="noopener noreferrer">Yes, We Need Bitcoin For DeFi Without Bridges</a>
+            </div>
             <div className="pagescard">03/29 -&nbsp;
                 <a href="https://cyprus-mail.com/2023/03/29/new-project-enables-bitcoin-smart-contracts-offers-developer-grants/" target="_blank" rel="noopener noreferrer">New project enables Bitcoin smart contracts, offers developer grants</a>
             </div>
