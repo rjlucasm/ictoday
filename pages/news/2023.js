@@ -19,6 +19,12 @@ export default function News23() {
             <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">04/03 -&nbsp;
+                <a href="https://medium.com/dfinity/chain-key-bitcoin-a-decentralized-bitcoin-twin-ceb8f4ddf95e" target="_blank" rel="noopener noreferrer">Chain-Key Bitcoin: A Decentralized Bitcoin Twin</a>
+            </div>
+            <div className="pagescard">04/03 -&nbsp;
+                <a href="https://www.coindesk.com/markets/2023/04/03/internet-computer-issues-liquid-bitcoin-for-faster-and-affordable-btc-transactions/" target="_blank" rel="noopener noreferrer">Internet Computer Issues &apos;Liquid Bitcoin,&apos; for Faster, Cheaper BTC Transactions</a>
+            </div>
             <div className="pagescard">03/31 -&nbsp;
                 <a href="https://beincrypto.com/yes-we-need-bitcoin-for-defi-without-bridges/" target="_blank" rel="noopener noreferrer">Yes, We Need Bitcoin For DeFi Without Bridges</a>
             </div>
