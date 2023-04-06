@@ -21,6 +21,9 @@ export default function News23() {
             <div className="pagesgrid">
             <div className="pagescard">04/03 -&nbsp;
                 <a href="https://medium.com/dfinity/chain-key-bitcoin-a-decentralized-bitcoin-twin-ceb8f4ddf95e" target="_blank" rel="noopener noreferrer">Chain-Key Bitcoin: A Decentralized Bitcoin Twin</a>
+                <p>Related:&nbsp;
+                <a href="https://en.cryptonomist.ch/2023/04/04/crypto-news-chain-key-bitcoin-launched/" target="_blank" rel="noopener noreferrer">The Cryptonomist</a>,&nbsp;
+                <a href="https://news.bitcoin.com/dfinity-foundation-launches-chain-key-bitcoin-a-native-internet-computer-btc-derivative-token/" target="_blank" rel="noopener noreferrer">Bitcoin.com</a></p>
             </div>
             <div className="pagescard">04/03 -&nbsp;
                 <a href="https://www.coindesk.com/markets/2023/04/03/internet-computer-issues-liquid-bitcoin-for-faster-and-affordable-btc-transactions/" target="_blank" rel="noopener noreferrer">Internet Computer Issues &apos;Liquid Bitcoin,&apos; for Faster, Cheaper BTC Transactions</a>
