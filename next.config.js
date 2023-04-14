@@ -5,13 +5,7 @@ module.exports = {
   //   path: "",
   // },
   images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'internetcomputer.today',
-        port: '',
-      },
-    ],
+    unoptimized: true,
   },
   
   trailingSlash: true,
