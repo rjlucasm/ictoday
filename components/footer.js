@@ -1,7 +1,7 @@
 import Image from 'next/image'
-import trippysrc from '../public/trippy_ic_logo.png'
+// import trippysrc from '../public/trippy_ic_logo.png'
 
-// const trippysrc = "https://internetcomputer.today/trippy_ic_logo.png";
+const trippysrc = "https://internetcomputer.today/trippy_ic_logo.png";
 const Footer = () => (
     <footer className="footer">
         Powered by

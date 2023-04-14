@@ -4,9 +4,9 @@ import Sites from '../components/sites'
 import Footer from '../components/footer'
 // import Topnews from '../components/topnews'
 import useSWR, { SWRConfig } from 'swr'
-import imgSrc from '../public/icp.png'
+// import imgSrc from '../public/icp.png'
 
-// const imgSrc = "https://internetcomputer.today/icp.png";
+const imgSrc = "https://internetcomputer.today/icp.png";
 const fetcher = (...args) => fetch(...args).then(res => res.json());
 
 export default function Home() {

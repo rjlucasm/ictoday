@@ -4,9 +4,15 @@ module.exports = {
   //   loader: 'imgix',
   //   path: "",
   // },
-    images: {
-      unoptimized: true,
-    },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'internetcomputer.today',
+        port: '',
+      },
+    ],
+  },
   
   trailingSlash: true,
   // exportPathMap: async function () {
