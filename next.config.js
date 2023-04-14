@@ -1,9 +1,9 @@
 module.exports = {
   reactStrictMode: true,
-  images: {
-    loader: 'imgix',
-    path: "",
-  },
+  // images: {
+  //   loader: 'imgix',
+  //   path: "",
+  // },
   
   trailingSlash: true,
   // exportPathMap: async function () {
