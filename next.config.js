@@ -4,6 +4,9 @@ module.exports = {
   //   loader: 'imgix',
   //   path: "",
   // },
+    images: {
+      unoptimized: true,
+    },
   
   trailingSlash: true,
   // exportPathMap: async function () {
