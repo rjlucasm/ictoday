@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 const Sites = () => (
-  <>
+  <div className='grid-container'>
     <div className="grid">
        <div className="card">
          <h4>Websites</h4> 
@@ -34,7 +34,7 @@ const Sites = () => (
        </div>
 
        <div className="card">
-         <Link href="/services"><a><h4>Services</h4></a></Link>
+         <Link href="/services"><h4>Services</h4></Link>
          <p><a href="https://faucet.dfinity.org/auth" target="_blank" rel="noopener noreferrer">Cycles Faucet</a></p>
          <p><a href="https://identity.ic0.app/" target="_blank" rel="noopener noreferrer">Internet Identity</a></p>
          <p><a href="https://networknervoussystem.com/" target="_blank" rel="noopener noreferrer">Neuron Calculator</a></p>
@@ -62,7 +62,7 @@ const Sites = () => (
 
     <div className="sitegrid">
       <div className="card">
-         <Link href="/dapps"><a><h4>Dapps</h4></a></Link>
+         <Link href="/dapps"><h4>Dapps</h4></Link>
          <p><a href="https://dscvr.one/" target="_blank" rel="noopener noreferrer">Dscvr</a></p>
          <p><a href="https://distrikt.app/" target="_blank" rel="noopener noreferrer">Distrikt</a></p>
          <p><a href="https://oc.app/" target="_blank" rel="noopener noreferrer">Open Chat</a></p>
@@ -109,7 +109,7 @@ const Sites = () => (
       </div>
 
       <div className="card">
-         <Link href="/nft"><a><h4>NFTs</h4></a></Link>
+         <Link href="/nft"><h4>NFTs</h4></Link>
          <p><a href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">CCC</a></p>
          <p><a href="https://7pnex-saaaa-aaaai-qbhwa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">CetoSwap</a></p>
          <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a></p>
@@ -119,7 +119,7 @@ const Sites = () => (
       </div>
 
       <div className="card">
-         <Link href="/games"><a><h4>Games</h4></a></Link>
+         <Link href="/games"><h4>Games</h4></Link>
          <p><a href="https://qwsdo-xaaaa-aaaah-aaa3a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">2048</a></p>
          <p><a href="https://neqb2-dyaaa-aaaad-qameq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">HexGL</a></p>
          {/* <p><a href="https://bgvbu-biaaa-aaaae-aaava-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Netwalk</a></p> */}
@@ -132,13 +132,13 @@ const Sites = () => (
 
     <div className="finalgrid">
       <div className="finalcard">
-        <Link href="/watchlist"><a>Watchlist</a></Link>
+        <Link href="/watchlist">Watchlist</Link>
       </div>
       <div className="finalcard">
-        <Link href="/news/2023"><a>News</a></Link>
+        <Link href="/news/2023">News</Link>
       </div>
     </div>
-  </>
+  </div>
 );
 
 export default Sites;

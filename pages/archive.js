@@ -14,10 +14,10 @@ export default function Archives() {
 
             <>&#128240;</>
 
-            <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
+            <Link href="/">Home</Link>
 
-            <>&nbsp;<Link href="/news/2021"><a style={{ color: 'inherit' }}>2021</a></Link></>
-            <>&nbsp;<Link href="/news/2022"><a style={{ color: 'inherit' }}>2022</a></Link></>
+            <>&nbsp;<Link href="/news/2021">2021</Link></>
+            <>&nbsp;<Link href="/news/2022">2022</Link></>
         </main>
 
         <Footer/>

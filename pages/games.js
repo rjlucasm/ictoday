@@ -14,7 +14,7 @@ export default function Games() {
 
             <>&#127918;</>
 
-            <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
+            <Link href="/">Home</Link>
 
             <div className="pagesgrid">
             <div className="pagescard">

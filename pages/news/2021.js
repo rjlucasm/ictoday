@@ -14,9 +14,9 @@ export default function News21() {
 
             <>&#128240;</>
 
-            <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
+            <Link href="/">Home</Link>
 
-            <Link href="/archive"><a style={{ color: 'inherit' }}>Archives</a></Link>
+            <Link href="/archive">Archives</Link>
 
             <div className="pagesgrid">
             <div className="pagescard">12/29 -&nbsp;

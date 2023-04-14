@@ -14,7 +14,7 @@ export default function NFTs() {
 
             <>&#127917;</>
 
-            <Link href="/"><a style={{ color: 'inherit' }}>Home</a></Link>
+            <Link href="/">Home</Link>
 
             <h3 className="title">Marketplaces</h3>
 
