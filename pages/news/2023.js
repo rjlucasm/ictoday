@@ -19,6 +19,18 @@ export default function News23() {
             <Link href="/archive">Archives</Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">04/18 -&nbsp;
+                <a href="https://thecurrencyanalytics.com/altcoins/internet-computer-icp-surges-7-heres-why-the-crypto-market-remains-bullish-on-this-project-52563.php" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Surges 7%: Here&apos;s Why the Crypto Market Remains Bullish on This Project</a>
+            </div>
+            <div className="pagescard">04/18 -&nbsp;
+                <a href="https://cryptoslate.com/dfinity-foundation-says-icp-consumes-less-energy-than-cardano-launches-proof-of-green-initiative/" target="_blank" rel="noopener noreferrer">Dfinity Foundation says ICP consumes less energy than Cardano, launches &apos;proof of green&apos; initiative</a>
+            </div>
+            <div className="pagescard">04/14 -&nbsp;
+                <a href="https://medium.com/dfinity/jens-groth-principal-researcher-at-dfinity-receives-the-iacr-test-of-time-award-512bcddceed9" target="_blank" rel="noopener noreferrer">Jens Groth, World-Renowned Cryptographer and Principal Researcher at DFINITY, Receives the IACR Test-of-Time Award for the second time.</a>
+            </div>
+            <div className="pagescard">04/12 -&nbsp;
+                <a href="https://www.accesswire.com/744696/AirGap-Integrates-With-the-Internet-Computer-Adds-Support-for-ICP-and-ckBTC-for-300k-Users" target="_blank" rel="noopener noreferrer">AirGap Integrates With the Internet Computer; Adds Support for ICP and ckBTC for 300k Users</a>
+            </div>
             <div className="pagescard">04/03 -&nbsp;
                 <a href="https://medium.com/dfinity/chain-key-bitcoin-a-decentralized-bitcoin-twin-ceb8f4ddf95e" target="_blank" rel="noopener noreferrer">Chain-Key Bitcoin: A Decentralized Bitcoin Twin</a>
                 <p>Related:&nbsp;
@@ -27,6 +39,9 @@ export default function News23() {
             </div>
             <div className="pagescard">04/03 -&nbsp;
                 <a href="https://www.coindesk.com/markets/2023/04/03/internet-computer-issues-liquid-bitcoin-for-faster-and-affordable-btc-transactions/" target="_blank" rel="noopener noreferrer">Internet Computer Issues &apos;Liquid Bitcoin,&apos; for Faster, Cheaper BTC Transactions</a>
+            </div>
+            <div className="pagescard">04/03 -&nbsp;
+                <a href="https://beincrypto.com/internet-computer-icp-decentralization-smart-contracts-developer-opportunities/" target="_blank" rel="noopener noreferrer">Exploring Internet Computer (ICP): Promise, Pitfalls, and Possibilities in the Decentralized Landscape</a>
             </div>
             <div className="pagescard">03/31 -&nbsp;
                 <a href="https://beincrypto.com/yes-we-need-bitcoin-for-defi-without-bridges/" target="_blank" rel="noopener noreferrer">Yes, We Need Bitcoin For DeFi Without Bridges</a>
