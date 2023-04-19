@@ -54,7 +54,7 @@ export default function Dapps() {
                 <a href="https://exwqn-uaaaa-aaaaf-qaeaa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Nuance</a> - Web3 blogging. Built on, and for, the new web
             </div>
             <div className="pagescard">
-                <a href="https://oc.app/" target="_blank" rel="noopener noreferrer">Open Chat</a> - Chat. On the blockchain. In real time
+                <a href="https://oc.app/?ref=7vpgo-vaaaa-aaaaf-aah5a-cai" target="_blank" rel="noopener noreferrer">Open Chat</a> - Chat. On the blockchain. In real time
             </div>
             <div className="pagescard">
                 <a href="https://papy.rs/" target="_blank" rel="noopener noreferrer">Papyrs</a> - An open-source, privacy-first, decentralized blogging platform that lives 100% on chain
