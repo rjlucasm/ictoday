@@ -19,6 +19,9 @@ export default function News23() {
             <Link href="/archive">Archives</Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">04/20 -&nbsp;
+                <a href="https://medium.com/dfinity/the-internet-computer-embraces-real-time-energy-reporting-and-the-proof-of-green-initiative-f78fc8787d31" target="_blank" rel="noopener noreferrer">The Internet Computer Embraces Real-Time Energy Reporting and the Proof of Green Initiative</a>
+            </div>
             <div className="pagescard">04/18 -&nbsp;
                 <a href="https://thecurrencyanalytics.com/altcoins/internet-computer-icp-surges-7-heres-why-the-crypto-market-remains-bullish-on-this-project-52563.php" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Surges 7%: Here&apos;s Why the Crypto Market Remains Bullish on This Project</a>
             </div>
