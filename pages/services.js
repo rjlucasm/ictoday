@@ -90,7 +90,7 @@ export default function Services() {
                 <a href="https://icp.guide/" target="_blank" rel="noopener noreferrer">ICP Guide</a> - The definitive guide to the Internet Computer Protocol (ICP)
             </div>
             <div className="pagescard">
-                <a href="https://icp.guide/" target="_blank" rel="noopener noreferrer">IDgeek</a> - A secure, automated and decentralized marketplace for buying or selling Internet Identity Anchors
+                <a href="https://xdtth-dyaaa-aaaah-qc73q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">IDgeek</a> - A secure, automated and decentralized marketplace for buying or selling Internet Identity Anchors
             </div>
             <div className="pagescard">
                 <a href="https://identity.ic0.app/" target="_blank" rel="noopener noreferrer">Internet Identity</a> - Sign in to dapps on the IC and sites across the web anonymously and securely
