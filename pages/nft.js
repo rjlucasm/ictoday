@@ -29,9 +29,6 @@ export default function NFTs() {
                 <a href="https://n5eqg-pqaaa-aaaak-ab3aa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">CrowdFund NFT Marketplace</a> - Secondary marketplace to trade NFTs from successfully funded projects on CrowdFund NFT
             </div>
             <div className="pagescard">
-                <a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a> - The most trusted NFT marketplace on the Internet Computer
-            </div>
-            <div className="pagescard">
                 <a href="https://gigaversemarket.com/" target="_blank" rel="noopener noreferrer">Gigaverse</a> - Cross-chain NFT marketplace
             </div>
             <div className="pagescard">
@@ -45,6 +42,9 @@ export default function NFTs() {
             </div>
             <div className="pagescard">
                 <a href="https://memecake.io/" target="_blank" rel="noopener noreferrer">Meme Cake</a> - Social NFT multi-chain marketplace
+            </div>
+            <div className="pagescard">
+                <a href="https://toniq.io/" target="_blank" rel="noopener noreferrer">Toniq</a> - The most trusted NFT marketplace on the Internet Computer
             </div>
             <div className="pagescard">
                 <a href="https://tppkg-ziaaa-aaaal-qatrq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Yumi</a> - A gateway to the metaverse

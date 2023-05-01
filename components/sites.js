@@ -112,7 +112,7 @@ const Sites = () => (
          <Link href="/nft"><h4>NFTs</h4></Link>
          <p><a href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">CCC</a></p>
          <p><a href="https://7pnex-saaaa-aaaai-qbhwa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">CetoSwap</a></p>
-         <p><a href="https://entrepot.app/" target="_blank" rel="noopener noreferrer">Entrepot</a></p>
+         <p><a href="https://toniq.io/" target="_blank" rel="noopener noreferrer">Toniq</a></p>
          <p><a href="https://nntkg-vqaaa-aaaad-qamfa-cai.ic.fleek.co/" target="_blank" rel="noopener noreferrer">NFT Village</a></p>
          <p><a href="https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">NFTgeek</a></p>
          <p><a href="https://tppkg-ziaaa-aaaal-qatrq-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Yumi</a></p>
