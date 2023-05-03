@@ -19,14 +19,47 @@ export default function News23() {
             <Link href="/archive">Archives</Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">05/02 -&nbsp;
+                <a href="https://www.newsbtc.com/crypto/internet-computer-icp-bleeds/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Bleeds, What Are The Chances For Reversal?</a>
+            </div>
+            <div className="pagescard">05/01 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/what-does-a-risk-analysis-say-about-internet-computer-icp-monday" target="_blank" rel="noopener noreferrer">What Does a Risk Analysis Say About Internet Computer (ICP) Monday?</a>
+            </div>
+            <div className="pagescard">05/01 -&nbsp;
+                <a href="https://africa.businessinsider.com/local/markets/riding-the-waves-of-internet-computer-price-history-and-future-predictions/2xc5dc2" target="_blank" rel="noopener noreferrer">Riding the waves of internet computer: Price history and future predictions</a>
+            </div>
+            <div className="pagescard">05/01 -&nbsp;
+                <a href="https://www.newsbtc.com/altcoin/internet-computer-icp-social-dominance-hits-top-in/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Social Dominance Hits 23-Month High, Top In?</a>
+            </div>
+            <div className="pagescard">04/30 -&nbsp;
+                <a href="https://www.analyticsinsight.net/internet-computer-icp-price-performs-well-but-analysts-are-more-focused-on-another-token/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Price Performs Well, But Analysts Are More Focused On Another Token</a>
+            </div>
+            <div className="pagescard">04/30 -&nbsp;
+                <a href="https://u.today/icp-shows-23-price-surge-internet-computer-debate-heats-up" target="_blank" rel="noopener noreferrer">ICP Shows 23% Price Surge: Internet Computer Debate Heats Up</a>
+            </div>
+            <div className="pagescard">04/29 -&nbsp;
+                <a href="https://invezz.com/news/2023/04/29/heres-why-internet-computers-icp-price-has-regained-momentum/" target="_blank" rel="noopener noreferrer">Here&apos;s why Internet Computer&apos;s ICP price has regained momentum</a>
+            </div>
+            <div className="pagescard">04/29 -&nbsp;
+                <a href="https://www.cryptotimes.io/internet-computer-emerges-as-top-gainer-with-25-jump/" target="_blank" rel="noopener noreferrer">Internet Computer Emerges as Top Gainer with a 25% Jump</a>
+            </div>
+            <div className="pagescard">04/28 -&nbsp;
+                <a href="https://www.newsbtc.com/altcoin/icp-rallies-by-17-emerges-as-biggest-gainer-in-top-50-cryptocurrencies/" target="_blank" rel="noopener noreferrer">ICP Rallies By 17%, Emerges As Biggest Gainer In Top 50 Cryptocurrencies</a>
+            </div>
             <div className="pagescard">04/20 -&nbsp;
                 <a href="https://medium.com/dfinity/the-internet-computer-embraces-real-time-energy-reporting-and-the-proof-of-green-initiative-f78fc8787d31" target="_blank" rel="noopener noreferrer">The Internet Computer Embraces Real-Time Energy Reporting and the Proof of Green Initiative</a>
+            </div>
+            <div className="pagescard">04/18 -&nbsp;
+                <a href="https://www.fool.com/investing/2023/04/18/why-internet-computer-is-seeing-high-speed-growth/" target="_blank" rel="noopener noreferrer">Why Internet Computer Is Seeing High-Speed Growth Today</a>
             </div>
             <div className="pagescard">04/18 -&nbsp;
                 <a href="https://thecurrencyanalytics.com/altcoins/internet-computer-icp-surges-7-heres-why-the-crypto-market-remains-bullish-on-this-project-52563.php" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Surges 7%: Here&apos;s Why the Crypto Market Remains Bullish on This Project</a>
             </div>
             <div className="pagescard">04/18 -&nbsp;
                 <a href="https://cryptoslate.com/dfinity-foundation-says-icp-consumes-less-energy-than-cardano-launches-proof-of-green-initiative/" target="_blank" rel="noopener noreferrer">Dfinity Foundation says ICP consumes less energy than Cardano, launches &apos;proof of green&apos; initiative</a>
+            </div>
+            <div className="pagescard">04/14 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2023/04/14/internet-computer-price-prediction-will-icp-sustain-bullish-trend/" target="_blank" rel="noopener noreferrer">Internet Computer Price Prediction: Will ICP Sustain Bullish Trend?</a>
             </div>
             <div className="pagescard">04/14 -&nbsp;
                 <a href="https://medium.com/dfinity/jens-groth-principal-researcher-at-dfinity-receives-the-iacr-test-of-time-award-512bcddceed9" target="_blank" rel="noopener noreferrer">Jens Groth, World-Renowned Cryptographer and Principal Researcher at DFINITY, Receives the IACR Test-of-Time Award for the second time.</a>
