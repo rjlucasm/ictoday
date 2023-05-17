@@ -19,6 +19,18 @@ export default function News23() {
             <Link href="/archive">Archives</Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">05/17 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/internet-computer-icp-do-the-risks-outweigh-the-rewards-wednesday" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Do the Risks Outweigh the Rewards Wednesday?</a>
+            </div>
+            <div className="pagescard">05/10 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/internet-computer-icp-how-does-the-chart-look-wednesday" target="_blank" rel="noopener noreferrer">Internet Computer (ICP): How Does the Chart Look Wednesday?</a>
+            </div>
+            <div className="pagescard">05/09 -&nbsp;
+                <a href="https://www.cryptodaily.co.uk/2023/05/dscvr-passes-200k-user-milestone" target="_blank" rel="noopener noreferrer">DSCVR Passes 200k User Milestone</a>
+            </div>
+            <div className="pagescard">05/02 -&nbsp;
+                <a href="https://irishtechnews.ie/the-dfinity-foundation-proof-of-green-initiative-dr-aisling-connolly-the-dfinity-foundation/" target="_blank" rel="noopener noreferrer">The Dfinity Foundation Proof Of Green Initiative Dr. Aisling Connolly, The Dfinity Foundation</a>
+            </div>
             <div className="pagescard">05/02 -&nbsp;
                 <a href="https://www.newsbtc.com/crypto/internet-computer-icp-bleeds/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Bleeds, What Are The Chances For Reversal?</a>
             </div>
