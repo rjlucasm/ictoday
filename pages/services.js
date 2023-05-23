@@ -36,6 +36,9 @@ export default function Services() {
                 <a href="https://sn4ia-7qaaa-aaaad-qa22a-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Cover</a> - Open internet service that can be used by developers to verify and prove that a canister&apos;s code matches the open source code
             </div>
             <div className="pagescard">
+                <a href="https://cycleops.dev/" target="_blank" rel="noopener noreferrer">CycleOps</a> - Proactive, automated, no-code canister management for the Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://faucet.dfinity.org/auth" target="_blank" rel="noopener noreferrer">Cycles Faucet</a> - Get free cycles to power your dapp
             </div>
             <div className="pagescard">
@@ -96,6 +99,9 @@ export default function Services() {
                 <a href="https://identity.ic0.app/" target="_blank" rel="noopener noreferrer">Internet Identity</a> - Sign in to dapps on the IC and sites across the web anonymously and securely
             </div>
             <div className="pagescard">
+                <a href="https://juno.build/" target="_blank" rel="noopener noreferrer">Juno</a> - An Open Source Blockchain-as-a-Service
+            </div>
+            <div className="pagescard">
                 <a href="https://kinic.io" target="_blank" rel="noopener noreferrer">Kinic</a> - Search re-imagined for web3. Front-end canister explorer
             </div>
             <div className="pagescard">
@@ -115,6 +121,9 @@ export default function Services() {
             </div>
             <div className="pagescard">
                 <a href="https://nnsproposal.icp.xyz/" target="_blank" rel="noopener noreferrer">NNS Proposal</a> - This dapp makes submitting NNS proposals easy for non-technical users with the lowest cost possible
+            </div>
+            <div className="pagescard">
+                <a href="https://plug-tip.icp.xyz/" target="_blank" rel="noopener noreferrer">Plug Tip</a> - Tip tokens to your favorite Twitter users with ease
             </div>
             <div className="pagescard">
                 <a href="https://raisinrank.com/" target="_blank" rel="noopener noreferrer">Raisin Rank</a> - NFT Analytics
