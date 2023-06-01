@@ -19,6 +19,18 @@ export default function News23() {
             <Link href="/archive">Archives</Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">05/31 -&nbsp;
+                <a href="https://www.accesswire.com/758447/200-Developer-Teams-Take-Part-in-The-First-Ever-Bitcoin-BUIDL-Hackathon-Organized-by-the-DFINITY-Foundation-and-Encode-Club" target="_blank" rel="noopener noreferrer">200 Developer Teams Take Part in The First Ever Bitcoin BUIDL Hackathon Organized by the DFINITY Foundation and Encode Club</a>
+            </div>
+            <div className="pagescard">05/29 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/whats-next-for-bearish-rated-internet-computer-icp" target="_blank" rel="noopener noreferrer">What&apos;s Next for Bearish Rated Internet Computer (ICP)?</a>
+            </div>
+            <div className="pagescard">05/24 -&nbsp;
+                <a href="https://www.cryptopolitan.com/vitalik-calls-dfinity-ethers-sister-network/" target="_blank" rel="noopener noreferrer">Vitalik Buterin calls DFINITY Ethereum&apos;s sister network - EDCON 2023</a>
+            </div>
+            <div className="pagescard">05/22 -&nbsp;
+                <a href="https://bravenewcoin.com/insights/interview-with-dfinity-founder-and-scientist-developer-dominic-williams" target="_blank" rel="noopener noreferrer">Interview with Dominic Williams, Chief Scientist & Founder of the DFINITY Foundation</a>
+            </div>
             <div className="pagescard">05/17 -&nbsp;
                 <a href="https://www.investorsobserver.com/news/crypto-update/internet-computer-icp-do-the-risks-outweigh-the-rewards-wednesday" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Do the Risks Outweigh the Rewards Wednesday?</a>
             </div>
@@ -78,6 +90,9 @@ export default function News23() {
             </div>
             <div className="pagescard">04/12 -&nbsp;
                 <a href="https://www.accesswire.com/744696/AirGap-Integrates-With-the-Internet-Computer-Adds-Support-for-ICP-and-ckBTC-for-300k-Users" target="_blank" rel="noopener noreferrer">AirGap Integrates With the Internet Computer; Adds Support for ICP and ckBTC for 300k Users</a>
+            </div>
+            <div className="pagescard">04/03 -&nbsp;
+                <a href="https://cryptopotato.com/dfinity-unveils-ckbtc-for-faster-and-affordable-bitcoin-transactions/" target="_blank" rel="noopener noreferrer">Dfinity Unveils ckBTC for Faster and Affordable Bitcoin Transactions</a>
             </div>
             <div className="pagescard">04/03 -&nbsp;
                 <a href="https://medium.com/dfinity/chain-key-bitcoin-a-decentralized-bitcoin-twin-ceb8f4ddf95e" target="_blank" rel="noopener noreferrer">Chain-Key Bitcoin: A Decentralized Bitcoin Twin</a>
@@ -142,6 +157,9 @@ export default function News23() {
                 <a href="https://www.bsc.news/post/enormous-growth-from-icp-in-2022-carries-into-q1-of-2023" target="_blank" rel="noopener noreferrer">Enormous Growth From ICP in 2022 Carries into Q1 of 2023</a>
             </div>
             <div className="pagescard">02/16 -&nbsp;
+                <a href="https://thenonprofittimes.com/legal/blockchain-npo-dfinity-meta-settle-trademark-lawsuit/" target="_blank" rel="noopener noreferrer">Blockchain NPO Dfinity, Meta Settle Trademark Lawsuit</a>
+            </div>
+            <div className="pagescard">02/16 -&nbsp;
                 <a href="https://airgapit.medium.com/airgap-integrates-the-internet-computer-protocol-icp-a1699c08444d" target="_blank" rel="noopener noreferrer">AirGap integrates the Internet Computer Protocol (ICP)</a>
             </div>
             <div className="pagescard">02/15 -&nbsp;
@@ -152,6 +170,9 @@ export default function News23() {
             </div>
             <div className="pagescard">02/12 -&nbsp;
                 <a href="https://bsc.news/post/bitcoin-defi-is-here-internet-computer-debuts-ckbtcicp-swaps" target="_blank" rel="noopener noreferrer">Bitcoin DeFi is Here: Internet Computer Debuts ckBTC/ICP Swaps</a>
+            </div>
+            <div className="pagescard">02/08 -&nbsp;
+                <a href="https://www.theregister.com/2023/02/08/meta_dfinity/" target="_blank" rel="noopener noreferrer">Meta sees off another logo complaint from blockchain player Dfinity</a>
             </div>
             <div className="pagescard">02/05 -&nbsp;
                 <a href="https://www.bsc.news/post/5-facts-about-the-internet-computer-icp-blockchain" target="_blank" rel="noopener noreferrer">5 Facts About the Internet Computer (ICP) Blockchain</a>
