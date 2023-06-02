@@ -15,11 +15,12 @@ export default function Home() {
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <title>Internet Computer Today</title>
+        <meta name="title" content="Internet Computer Today"></meta>
         <meta name="description" content="Internet Computer (ICP) Price, Market Cap, Volume, Circulating Supply, Wallets and Explorers. All about Dfinity Cyberspace." />
 
-        <meta name='og:type' content='website' />
-        <meta name='og:title' content='Internet Computer Today'/>
-        <meta name='og:description' content='Internet Computer (ICP) Price, Market Cap, Volume, Circulating Supply, Wallets and Explorers. All about Dfinity Cyberspace.' />
+        <meta property='og:type' content='website' />
+        <meta property='og:title' content='Internet Computer Today'/>
+        <meta property='og:description' content='Internet Computer (ICP) Price, Market Cap, Volume, Circulating Supply, Wallets and Explorers. All about Dfinity Cyberspace.' />
 
         <meta name='twitter:card' content='summary' />
         <meta name='twitter:title' content='Internet Computer Today' />
