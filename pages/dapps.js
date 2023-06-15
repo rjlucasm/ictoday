@@ -66,6 +66,9 @@ export default function Dapps() {
                 <a href="https://portal.one/" target="_blank" rel="noopener noreferrer">Portal</a> - Decentralized live streaming service
             </div>
             <div className="pagescard">
+                <a href="https://querio.io/" target="_blank" rel="noopener noreferrer">Querio</a> - Decentralized web3.0 search engine of exceptional speed and accuracy that empowers its users to search over the Internet Computer
+            </div>
+            <div className="pagescard">
                 <a href="https://sfjch-siaaa-aaaak-qarnq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Seachan</a> - Censorship resistant decentralized fileboard
             </div>
             <div className="pagescard">

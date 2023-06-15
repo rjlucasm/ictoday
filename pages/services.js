@@ -57,6 +57,9 @@ export default function Services() {
                 <a href="https://fleek.co/" target="_blank" rel="noopener noreferrer">Fleek</a> - Decentralized web-hosting to the Internet Computer
             </div>
             <div className="pagescard">
+                <a href="https://funded.app/" target="_blank" rel="noopener noreferrer">Funded</a> - Web-3 crowdfunding! Using smart contract technology to build a safer, cheaper and global crowdfunding service
+            </div>
+            <div className="pagescard">
                 <a href="https://icnaming.com/" target="_blank" rel="noopener noreferrer">IC Naming</a> - Decentralized domain name server based on Dfinity network
             </div>
             <div className="pagescard">

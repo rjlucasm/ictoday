@@ -67,7 +67,7 @@ const Sites = () => (
          <p><a href="https://dscvr.one/" target="_blank" rel="noopener noreferrer">Dscvr</a></p>
          <p><a href="https://distrikt.app/" target="_blank" rel="noopener noreferrer">Distrikt</a></p>
          <p><a href="https://oc.app/?ref=7vpgo-vaaaa-aaaaf-aah5a-cai" target="_blank" rel="noopener noreferrer">Open Chat</a></p>
-         <p><a href="http://icdrive.co/" target="_blank" rel="noopener noreferrer">IC Drive</a></p>
+         <p><a href="https://dmail.ai/" target="_blank" rel="noopener noreferrer">DMail</a></p>
          <p><a href="https://exwqn-uaaaa-aaaaf-qaeaa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Nuance</a></p>
          <p><a href="https://taggr.top/" target="_blank" rel="noopener noreferrer">TAGGR</a></p>
       </div>

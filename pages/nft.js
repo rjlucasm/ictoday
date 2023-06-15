@@ -26,7 +26,7 @@ export default function NFTs() {
                 <a href="https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">Crowd Created Canvas</a> - CCC is the first canvas collaboration and creation platform on Internet Computer
             </div>
             <div className="pagescard">
-                <a href="https://n5eqg-pqaaa-aaaak-ab3aa-cai.ic0.app/" target="_blank" rel="noopener noreferrer">CrowdFund NFT Marketplace</a> - Secondary marketplace to trade NFTs from successfully funded projects on CrowdFund NFT
+                <a href="https://marketplace.funded.app/" target="_blank" rel="noopener noreferrer">Funded</a> - Secondary marketplace to trade NFTs from successfully funded projects on Funded
             </div>
             <div className="pagescard">
                 <a href="https://gigaversemarket.com/" target="_blank" rel="noopener noreferrer">Gigaverse</a> - Cross-chain NFT marketplace
@@ -54,9 +54,9 @@ export default function NFTs() {
             <h3 className="title">Services</h3>
 
             <div className="pagesgrid">
-            <div className="pagescard">
+            {/* <div className="pagescard">
                 <a href="https://kn5ky-6iaaa-aaaai-qbikq-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Crowdfund NFT</a> - Crowdfunding on the Blockchain, using NFTs
-            </div>
+            </div> */}
             <div className="pagescard">
                 <a href="https://www.dgastonia.com/nfts/collections/" target="_blank" rel="noopener noreferrer">Dgastonia</a> - The most comprehensive browsing experience for NFTs on The IC
             </div>
