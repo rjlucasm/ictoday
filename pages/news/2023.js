@@ -19,11 +19,44 @@ export default function News23() {
             <Link href="/archive">Archives</Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">06/15 -&nbsp;
+                <a href="https://www.ccn.com/internet-computer-icp-price-prediction/" target="_blank" rel="noopener noreferrer">Internet Computer Price Prediction: ICP Under Pressure Amid Altcoin Mass Liquidation</a>
+            </div>
+            <div className="pagescard">06/14 -&nbsp;
+                <a href="https://www.accesswire.com/761215/Internet-Computer-Based-Project-Helix-Wins-Crypto-Valley-Conference-Award" target="_blank" rel="noopener noreferrer">Internet Computer-Based Project Helix Wins Crypto Valley Conference Award</a>
+            </div>
+            <div className="pagescard">06/14 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/what-do-the-long-term-technicals-predict-for-internet-computer-icp-wednesday-2" target="_blank" rel="noopener noreferrer">What do the Long-Term Technicals Predict for Internet Computer (ICP) Wednesday?</a>
+            </div>
+            <div className="pagescard">06/13 -&nbsp;
+                <a href="https://www.crowdfundinsider.com/2023/06/208626-dfinity-responds-to-us-secs-complaint-against-coinbase/" target="_blank" rel="noopener noreferrer">DFINITY Responds to US SEC&apos;s Complaint Against Coinbase</a>
+            </div>
+            <div className="pagescard">06/13 -&nbsp;
+                <a href="https://www.cryptopolitan.com/icp-price-analysis-2023-06-13/" target="_blank" rel="noopener noreferrer">ICP price analysis: ICP shows bullish potential at $3.891</a>
+            </div>
+            <div className="pagescard">06/08 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/internet-computer-icp-has-a-bearish-sentiment-score-is-falling-and-underperforming-the-crypto-market-thursday-whats-next" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) has a Bearish Sentiment Score, is Falling, and Underperforming the Crypto Market Thursday: What&apos;s Next?</a>
+            </div>
+            <div className="pagescard">06/07 -&nbsp;
+                <a href="https://medium.com/@dfinity/dfinity-thoughts-on-the-secs-6-june-complaint-against-coinbase-8f725d436ef0" target="_blank" rel="noopener noreferrer">DFINITY Thoughts on the SEC&apos;s 6 June Complaint Against Coinbase</a>
+            </div>
+            <div className="pagescard">06/06 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/internet-computer-icp-do-the-risks-outweigh-the-rewards-tuesday" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Do the Risks Outweigh the Rewards Tuesday?</a>
+            </div>
+            <div className="pagescard">06/04 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2023/06/04/internet-computer-icp-price-indicates-bullishness-in-trend/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Price Indicates Bullishness in Trend</a>
+            </div>
+            <div className="pagescard">05/31 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/internet-computer-icp-falls-0-04-underperforms-the-crypto-market-wednesday" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Falls 0.04%, Underperforms the Crypto Market Wednesday</a>
+            </div>
             <div className="pagescard">05/31 -&nbsp;
                 <a href="https://www.accesswire.com/758447/200-Developer-Teams-Take-Part-in-The-First-Ever-Bitcoin-BUIDL-Hackathon-Organized-by-the-DFINITY-Foundation-and-Encode-Club" target="_blank" rel="noopener noreferrer">200 Developer Teams Take Part in The First Ever Bitcoin BUIDL Hackathon Organized by the DFINITY Foundation and Encode Club</a>
             </div>
             <div className="pagescard">05/29 -&nbsp;
                 <a href="https://www.investorsobserver.com/news/crypto-update/whats-next-for-bearish-rated-internet-computer-icp" target="_blank" rel="noopener noreferrer">What&apos;s Next for Bearish Rated Internet Computer (ICP)?</a>
+            </div>
+            <div className="pagescard">05/26 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/internet-computer-icp-rises-0-95-underperforms-the-crypto-market-friday" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Rises 0.95%, Underperforms the Crypto Market Friday</a>
             </div>
             <div className="pagescard">05/24 -&nbsp;
                 <a href="https://www.cryptopolitan.com/vitalik-calls-dfinity-ethers-sister-network/" target="_blank" rel="noopener noreferrer">Vitalik Buterin calls DFINITY Ethereum&apos;s sister network - EDCON 2023</a>
