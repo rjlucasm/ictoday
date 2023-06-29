@@ -19,6 +19,21 @@ export default function News23() {
             <Link href="/archive">Archives</Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">06/28 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/bearish-rated-internet-computer-icp-falls-wednesday-to-4-04" target="_blank" rel="noopener noreferrer">Bearish-Rated Internet Computer (ICP) Falls Wednesday to $4.04</a>
+            </div>
+            <div className="pagescard">06/26 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/should-you-sell-internet-computer-icp-monday-2" target="_blank" rel="noopener noreferrer">Should You Sell Internet Computer (ICP) Monday?</a>
+            </div>
+            <div className="pagescard">06/22 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2023/06/22/internet-computer-price-prediction-icp-price-rises-above-4/" target="_blank" rel="noopener noreferrer">Internet Computer Price Prediction: ICP Price Rises Above $4</a>
+            </div>
+            <div className="pagescard">06/21 -&nbsp;
+                <a href="https://www.prnewswire.co.uk/news-releases/the-internet-computer-celebrates-two-years-as-the-leading-decentralized-crypto-cloud-301856170.html" target="_blank" rel="noopener noreferrer">The Internet Computer Celebrates Two Years as the Leading Decentralized Crypto Cloud</a>
+            </div>
+            <div className="pagescard">06/20 -&nbsp;
+                <a href="https://www.accesswire.com/762038/DFINITY-Foundation-and-Patikadev-Initiate-the-First-Women-Focused-Web3-Program-in-Turkey" target="_blank" rel="noopener noreferrer">DFINITY Foundation and Patika.dev Initiate the First Women-Focused Web3 Program in Turkey</a>
+            </div>
             <div className="pagescard">06/15 -&nbsp;
                 <a href="https://www.ccn.com/internet-computer-icp-price-prediction/" target="_blank" rel="noopener noreferrer">Internet Computer Price Prediction: ICP Under Pressure Amid Altcoin Mass Liquidation</a>
             </div>
