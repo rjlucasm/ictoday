@@ -19,6 +19,39 @@ export default function News23() {
             <Link href="/archive">Archives</Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">07/18 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/what-does-a-risk-analysis-say-about-internet-computer-icp-tuesday-4" target="_blank" rel="noopener noreferrer">What Does a Risk Analysis Say About Internet Computer (ICP) Tuesday?</a>
+            </div>
+            <div className="pagescard">07/18 -&nbsp;
+                <a href="https://cointelegraph.com/news/internet-computer-as-key-alternative-to-aws-services" target="_blank" rel="noopener noreferrer">Internet Computer will be a key alternative to AWS-like services</a>
+            </div>
+            <div className="pagescard">07/17 -&nbsp;
+                <a href="https://decrypt.co/148808/icp-internet-computer-dfinity-grants-decentralized-ai-deai" target="_blank" rel="noopener noreferrer">$5 Million Token Grant Will Fuel &apos;Decentralized AI&apos; Development</a>
+            </div>
+            <div className="pagescard">07/17 -&nbsp;
+                <a href="https://www.prnewswire.com/news-releases/dfinity-foundation-launches-5-million-grant-to-support-decentralized-ai-on-the-internet-computer-blockchain-301877065.html" target="_blank" rel="noopener noreferrer">DFINITY Foundation launches $5 million grant to support Decentralized AI on the Internet Computer Blockchain</a>
+            </div>
+            <div className="pagescard">07/14 -&nbsp;
+                <a href="https://www.androidpolice.com/what-is-internet-identity-and-how-does-it-work/" target="_blank" rel="noopener noreferrer">What is Internet Identity and how does it work</a>
+            </div>
+            <div className="pagescard">07/13 -&nbsp;
+                <a href="https://medium.com/code-state/hosting-your-website-on-the-internet-computer-in-minutes-with-juno-bf4d6d2d0347" target="_blank" rel="noopener noreferrer">Hosting Your Website on the Internet Computer in Minutes with Juno</a>
+            </div>
+            <div className="pagescard">07/10 -&nbsp;
+                <a href="https://finance.yahoo.com/news/dfinity-foundation-dacade-launch-first-140000632.html" target="_blank" rel="noopener noreferrer">DFINITY Foundation and Dacade Launch the First Internet Computer Typescript Course to Onboard Thousands of Web2 Developers</a>
+            </div>
+            <div className="pagescard">07/07 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/internet-computer-icp-does-the-reward-outweigh-the-risks-16" target="_blank" rel="noopener noreferrer">Internet Computer (ICP): Does the Reward Outweigh the Risks?</a>
+            </div>
+            <div className="pagescard">07/06 -&nbsp;
+                <a href="https://medium.com/code-state/top-5-bitcoin-projects-to-build-now-on-the-internet-computer-9d20c05b2416" target="_blank" rel="noopener noreferrer">Top 5 Bitcoin-projects to Build (Now!) on the Internet Computer</a>
+            </div>
+            <div className="pagescard">07/03 -&nbsp;
+                <a href="https://invezz.com/news/2023/07/03/internet-computer-icp-price-sits-at-a-key-level-is-it-a-buy-in-july/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) price sits at a key level: is it a buy in July?</a>
+            </div>
+            <div className="pagescard">07/01 -&nbsp;
+                <a href="https://www.thecoinrepublic.com/2023/07/01/everything-you-should-know-about-the-internet-computer-icp/" target="_blank" rel="noopener noreferrer">Everything you should know about the Internet Computer (ICP)</a>
+            </div>
             <div className="pagescard">06/28 -&nbsp;
                 <a href="https://www.investorsobserver.com/news/crypto-update/bearish-rated-internet-computer-icp-falls-wednesday-to-4-04" target="_blank" rel="noopener noreferrer">Bearish-Rated Internet Computer (ICP) Falls Wednesday to $4.04</a>
             </div>
