@@ -28,7 +28,7 @@ const Sites = () => (
          <h4>Explorers</h4> 
          {/* <p><a href="https://ic.rocks/" target="_blank" rel="noopener noreferrer">IC Rocks</a></p> */}
          <p><a href="https://www.icpexplorer.org/#/" target="_blank" rel="noopener noreferrer">ICP Explorer</a></p>
-         <p><a href="https://dashboard.internetcomputer.org/" target="_blank" rel="noopener noreferrer">Network Status</a></p>
+         <p><a href="https://dashboard.internetcomputer.org/" target="_blank" rel="noopener noreferrer">ICP Dashboard</a></p>
          <p><a href="https://sznps-4aaaa-aaaah-qab2a-cai.ic0.app/" target="_blank" rel="noopener noreferrer">Icpscan</a></p>
          <p><a href="https://icscan.io/" target="_blank" rel="noopener noreferrer">Icscan</a></p>
          <p><a href="https://637g5-siaaa-aaaaj-aasja-cai.raw.ic0.app/" target="_blank" rel="noopener noreferrer">ICHouse</a></p>
@@ -106,7 +106,7 @@ const Sites = () => (
          <p><a href="https://icpswap.com/" target="_blank" rel="noopener noreferrer">ICPSwap</a></p>
          <p><a href="https://infinityswap.one/" target="_blank" rel="noopener noreferrer">Infinity Swap</a></p>
          <p><a href="https://sonic.ooo/" target="_blank" rel="noopener noreferrer">Sonic</a></p>
-         <p><a href="https://avjzx-pyaaa-aaaaj-aadmq-cai.raw.ic0.app/ICDex" target="_blank" rel="noopener noreferrer">ICDex</a></p>
+         <p><a href="https://iclight.io/ICDex/" target="_blank" rel="noopener noreferrer">ICDex</a></p>
       </div>
 
       <div className="card">
