@@ -19,6 +19,18 @@ export default function News23() {
             <Link href="/archive">Archives</Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">08/01 -&nbsp;
+                <a href="https://cryptonews.com/exclusives/lomesh-dutta-vp-of-growth-at-dfinity-internet-computer-bitcoin-defi-ckbtc-ep-252.htm" target="_blank" rel="noopener noreferrer">Lomesh Dutta, VP of Growth at DFINITY, on Internet Computer, Bitcoin DeFi, and ckBTC | Ep. 252</a>
+            </div>
+            <div className="pagescard">08/01 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/internet-computer-icp-falls-0-02-underperforms-the-crypto-market-tuesday-3" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) Falls 0.02%, Underperforms the Crypto Market Tuesday</a>
+            </div>
+            <div className="pagescard">07/26 -&nbsp;
+                <a href="https://www.investorsobserver.com/news/crypto-update/internet-computer-icp-how-does-it-rank-wednesday-on-long-term-trading-metrics" target="_blank" rel="noopener noreferrer">Internet Computer (ICP): How Does it Rank Wednesday on Long-Term Trading Metrics?</a>
+            </div>
+            <div className="pagescard">07/20 -&nbsp;
+                <a href="https://medium.com/dfinity/international-students-learn-about-the-internet-computer-at-europes-no-1-university-for-blockchain-145c913bd6c" target="_blank" rel="noopener noreferrer">International students learn about the Internet Computer at Europe&apos;s no.1 university for blockchain education</a>
+            </div>
             <div className="pagescard">07/18 -&nbsp;
                 <a href="https://www.investorsobserver.com/news/crypto-update/what-does-a-risk-analysis-say-about-internet-computer-icp-tuesday-4" target="_blank" rel="noopener noreferrer">What Does a Risk Analysis Say About Internet Computer (ICP) Tuesday?</a>
             </div>
