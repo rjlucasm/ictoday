@@ -20,7 +20,7 @@ export default function News23() {
 
             <div className="pagesgrid">
             <div className="pagescard">08/10 -&nbsp;
-                <a href="https://www.ledger.com/blog/internet-computer-added-to-ledger-live" target="_blank" rel="noopener noreferrer">Inernet Computer added to Ledger Live!</a>
+                <a href="https://www.ledger.com/blog/internet-computer-added-to-ledger-live" target="_blank" rel="noopener noreferrer">Internet Computer added to Ledger Live!</a>
             </div>
             <div className="pagescard">08/01 -&nbsp;
                 <a href="https://cryptonews.com/exclusives/lomesh-dutta-vp-of-growth-at-dfinity-internet-computer-bitcoin-defi-ckbtc-ep-252.htm" target="_blank" rel="noopener noreferrer">Lomesh Dutta, VP of Growth at DFINITY, on Internet Computer, Bitcoin DeFi, and ckBTC | Ep. 252</a>
