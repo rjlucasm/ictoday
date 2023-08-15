@@ -22,6 +22,12 @@ export default function News23() {
             <div className="pagescard">08/10 -&nbsp;
                 <a href="https://www.ledger.com/blog/internet-computer-added-to-ledger-live" target="_blank" rel="noopener noreferrer">Internet Computer added to Ledger Live!</a>
             </div>
+            <div className="pagescard">08/09 -&nbsp;
+                <a href="https://www.bitcoininsider.org/article/222431/why-bitcoin-needs-smart-contracts" target="_blank" rel="noopener noreferrer">Why Bitcoin needs smart contracts</a>
+            </div>
+            <div className="pagescard">08/08 -&nbsp;
+                <a href="https://finance.yahoo.com/news/dfinity-foundation-joins-blockchain-security-010000692.html" target="_blank" rel="noopener noreferrer">The DFINITY Foundation Joins the Blockchain Security Alliance for Enhanced Ecosystem Security</a>
+            </div>
             <div className="pagescard">08/01 -&nbsp;
                 <a href="https://cryptonews.com/exclusives/lomesh-dutta-vp-of-growth-at-dfinity-internet-computer-bitcoin-defi-ckbtc-ep-252.htm" target="_blank" rel="noopener noreferrer">Lomesh Dutta, VP of Growth at DFINITY, on Internet Computer, Bitcoin DeFi, and ckBTC | Ep. 252</a>
             </div>
