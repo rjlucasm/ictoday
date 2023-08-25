@@ -19,6 +19,12 @@ export default function News23() {
             <Link href="/archive">Archives</Link>
 
             <div className="pagesgrid">
+            <div className="pagescard">08/23 -&nbsp;
+                <a href="https://www.cryptopolitan.com/how-icps-astrox-me-enhances-ethereum/" target="_blank" rel="noopener noreferrer">How ICP&apos;s AstroX ME Enhances Interoperability with the Ethereum Ecosystem</a>
+            </div>
+            <div className="pagescard">08/16 -&nbsp;
+                <a href="https://medium.com/dfinity/the-internet-computer-a-blockchain-that-offers-stateful-decentralized-serverless-computing-cdbbfdca4b7e" target="_blank" rel="noopener noreferrer">The Internet Computer: A blockchain that offers stateful decentralized serverless computing</a>
+            </div>
             <div className="pagescard">08/10 -&nbsp;
                 <a href="https://www.ledger.com/blog/internet-computer-added-to-ledger-live" target="_blank" rel="noopener noreferrer">Internet Computer added to Ledger Live!</a>
             </div>
@@ -27,6 +33,12 @@ export default function News23() {
             </div>
             <div className="pagescard">08/08 -&nbsp;
                 <a href="https://finance.yahoo.com/news/dfinity-foundation-joins-blockchain-security-010000692.html" target="_blank" rel="noopener noreferrer">The DFINITY Foundation Joins the Blockchain Security Alliance for Enhanced Ecosystem Security</a>
+            </div>
+            <div className="pagescard">08/04 -&nbsp;
+                <a href="https://tokenpost.com/DFINITY-Founder-Shares-the-Uncharted-Intersection-of-Blockchains-Decentralization-with-AI-10435" target="_blank" rel="noopener noreferrer">DFINITY Founder Shares the Uncharted Intersection of Blockchain&apos;s Decentralization with AI</a>
+            </div>
+            <div className="pagescard">08/04 -&nbsp;
+                <a href="https://medium.com/@ilbert/websockets-on-the-ic-getting-started-5f8bcdfaabdc" target="_blank" rel="noopener noreferrer">WebSockets 🔌 on the Internet Computer: Getting Started</a>
             </div>
             <div className="pagescard">08/01 -&nbsp;
                 <a href="https://cryptonews.com/exclusives/lomesh-dutta-vp-of-growth-at-dfinity-internet-computer-bitcoin-defi-ckbtc-ep-252.htm" target="_blank" rel="noopener noreferrer">Lomesh Dutta, VP of Growth at DFINITY, on Internet Computer, Bitcoin DeFi, and ckBTC | Ep. 252</a>
@@ -45,6 +57,9 @@ export default function News23() {
             </div>
             <div className="pagescard">07/18 -&nbsp;
                 <a href="https://cointelegraph.com/news/internet-computer-as-key-alternative-to-aws-services" target="_blank" rel="noopener noreferrer">Internet Computer will be a key alternative to AWS-like services</a>
+            </div>
+            <div className="pagescard">07/17 -&nbsp;
+                <a href="https://www.biometricupdate.com/202307/dfinity-working-on-passwordless-authentication-alternative-for-decentralized-internet" target="_blank" rel="noopener noreferrer">DFINITY working on passwordless authentication alternative for decentralized internet</a>
             </div>
             <div className="pagescard">07/17 -&nbsp;
                 <a href="https://decrypt.co/148808/icp-internet-computer-dfinity-grants-decentralized-ai-deai" target="_blank" rel="noopener noreferrer">$5 Million Token Grant Will Fuel &apos;Decentralized AI&apos; Development</a>
@@ -68,10 +83,16 @@ export default function News23() {
                 <a href="https://medium.com/code-state/top-5-bitcoin-projects-to-build-now-on-the-internet-computer-9d20c05b2416" target="_blank" rel="noopener noreferrer">Top 5 Bitcoin-projects to Build (Now!) on the Internet Computer</a>
             </div>
             <div className="pagescard">07/03 -&nbsp;
+                <a href="https://www.securities.io/investing-in-internet-computer/" target="_blank" rel="noopener noreferrer">Investing In Internet Computer (ICP) - Everything You Need to Know</a>
+            </div>
+            <div className="pagescard">07/03 -&nbsp;
                 <a href="https://invezz.com/news/2023/07/03/internet-computer-icp-price-sits-at-a-key-level-is-it-a-buy-in-july/" target="_blank" rel="noopener noreferrer">Internet Computer (ICP) price sits at a key level: is it a buy in July?</a>
             </div>
             <div className="pagescard">07/01 -&nbsp;
                 <a href="https://www.thecoinrepublic.com/2023/07/01/everything-you-should-know-about-the-internet-computer-icp/" target="_blank" rel="noopener noreferrer">Everything you should know about the Internet Computer (ICP)</a>
+            </div>
+            <div className="pagescard">06/30 -&nbsp;
+                <a href="https://www.prnewswire.com/news-releases/sodexo-benefits--rewards-services-becomes-pluxee-leverages-exclusive-nft-collection-on-internet-computer-blockchain-in-brand-launch-301867687.html" target="_blank" rel="noopener noreferrer">Sodexo Benefits & Rewards Services Becomes Pluxee, Leverages Exclusive NFT Collection on Internet Computer Blockchain in Brand Launch</a>
             </div>
             <div className="pagescard">06/28 -&nbsp;
                 <a href="https://www.investorsobserver.com/news/crypto-update/bearish-rated-internet-computer-icp-falls-wednesday-to-4-04" target="_blank" rel="noopener noreferrer">Bearish-Rated Internet Computer (ICP) Falls Wednesday to $4.04</a>
